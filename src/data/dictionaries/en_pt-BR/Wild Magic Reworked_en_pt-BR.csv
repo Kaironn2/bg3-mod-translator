@@ -1,0 +1,264 @@
+en,pt-BR
+"Until no longer enraged, you may cast <LSTag Type=""Spell"" Tooltip=""Target_WildMagicBarbarian_Teleport"">Flamebreak</LSTag> once per turn.","Até não estar mais enfurecido, você pode lançar <LSTag Type=""Spell"" Tooltip=""Target_WildMagicBarbarian_Teleport"">Quebra de Chamas</LSTag> uma vez por turno."
+"Affected creature may cast <LSTag Type=""Spell"" Tooltip=""Target_WildMagicBarbarian_Teleport"">Flamebreak</LSTag> once per turn until no longer enraged.","A criatura afetada pode lançar <LSTag Type=""Spell"" Tooltip=""Target_WildMagicBarbarian_Teleport"">Quebra de Chamas</LSTag> uma vez por turno até não estar mais enfurecida."
+Wild Soul: Flamebreak,Alma Selvagem: Quebra-Chamas
+"Teleport up to [1] to an unoccupied space you can see, <LSTag Type=""Status"" Tooltip=""BURNING"">Burning</LSTag> all enemies within [2].","Teleporte até [1] para um espaço desocupado que você pode ver, <LSTag Type=""Status"" Tooltip=""BURNING"">Queimando</LSTag> todos os inimigos dentro de [2]."
+"Shadowy tendrils lash around you, draining the life from all enemies within [1].","Tendrilhas sombrias se agitam ao seu redor, drenando a vida de todos os inimigos dentro de [1]."
+Wild Soul: Dark Tendrils,Alma Selvagem: Tentáculos Sombrios
+"Affected creature is surrounded by tendrils of wild shadow magic. Each turn they lash out, absorbing enemies <LSTag Tooltip=""HitPoints"">Hit Points</LSTag> within [1].","A criatura afetada está cercada por tentáculos de magia das sombras selvagens. A cada turno, eles atacam, absorvendo os <LSTag Tooltip=""HitPoints"">Pontos de Vida</LSTag> dos inimigos dentro de [1]."
+"Until no longer enraged, you may summon an <LSTag Type=""Spell"" Tooltip=""Target_WildMagicBarbarian_ExplodingFlumph"">Intangible Spirit</LSTag> each turn.","Até não estar mais enfurecido, você pode invocar um <LSTag Type=""Spell"" Tooltip=""Target_WildMagicBarbarian_ExplodingFlumph"">Espírito Intangível</LSTag> a cada turno."
+"Affected creature can summon an <LSTag Type=""Spell"" Tooltip=""Target_WildMagicBarbarian_ExplodingFlumph"">Intangible Spirit</LSTag> each turn, until no longer enraged.","A criatura afetada pode invocar um <LSTag Type=""Spell"" Tooltip=""Target_WildMagicBarbarian_ExplodingFlumph"">Espírito Intangível</LSTag> a cada turno, até não estar mais enfurecida."
+Wild Soul: Intangible Spirit,Fúria: Espírito Intangível
+"Summon a spectral flumph. The flumph explodes at the end of your turn, dealing [1] to each creature within [2].","Convoque um flumph espectral. O flumph explode no final do seu turno, causando [1] a cada criatura dentro de [2]."
+Wild Soul: Exploding Flumph,Alma Selvagem: Flumph Explosivo
+"Affected creature will explode at the end of its turn. Each creature within [1] must succeed a Dexterity based <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> or take [2].","A criatura afetada explodirá no final de seu turno. Cada criatura dentro de [1] deve ter sucesso em um <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> de Destreza ou sofrer [2]."
+Wild Soul: Flumph Explosion,Alma Selvagem: Explosão de Flumph
+Explode in a mess of arcane jelly.,Exploda em uma bagunça de geleia arcana.
+"Magic infuses your weapon. Until no longer enraged, it deals an additional [1] and gains the <LSTag Tooltip=""Thrown"">Thrown</LSTag> property. Additionally, if thrown, your weapon will automatically return to you.","A magia infunde sua arma. Enquanto estiver enfurecido, ela causa [1] adicional e ganha a propriedade <LSTag Tooltip=""Thrown"">Arremessada</LSTag>. Além disso, se lançada, sua arma retornará automaticamente para você."
+Wild Soul: Arcane Infusion,Alma Selvagem: Infusão Arcana
+"Affected weapon is infused with arcane magic.<br><br>Until the wielder is no longer enraged, it deals an additional [1] and gains the <LSTag Tooltip=""Thrown"">Thrown</LSTag> property. Additionally, if thrown, it will automatically return its wielder.","A arma afetada está imbuída com magia arcana.<br><br>Enquanto o portador não estiver mais enfurecido, ela causa [1] a mais e ganha a propriedade <LSTag Tooltip=""Thrown"">Lançada</LSTag>. Além disso, se lançada, ela retornará automaticamente para seu portador."
+"Until no longer enraged, arcane magic lashes out whenever you take damage, hitting your attackers in retaliation.","Até não estar mais enfurecido, a magia arcana ataca sempre que você recebe dano, atingindo seus atacantes em retaliação."
+Wild Soul: Magic Retribution,Alma Selvagem: Retribuição Mágica
+"Affected creature is protected by a wild, arcane magic. Until no longer enraged, enemies that damage them take [1] in retaliation.","A criatura afetada está protegida por uma magia arcana selvagem. Enquanto estiver enfurecida, inimigos que a danificarem recebem [1] em retaliação."
+"Until no longer enraged, protective multicoloured lights surround you and nearby allies, increasing your <LSTag Tooltip=""ArmourClass"">Armour Class</LSTag> by 1. ","Até não estar mais enfurecido, luzes protetoras multicoloridas o cercam, aumentando sua <LSTag Tooltip=""ArmourClass"">Classe de Armadura</LSTag> em 1."
+"Affected creature is protected by multicoloured lights. Until no longer enraged, the affected creature and any allies within [1] have a +1 bonus to their <LSTag Tooltip=""ArmourClass"">Armour Class</LSTag>.","A criatura afetada está protegida por luzes multicoloridas. Enquanto estiver enfurecida, a criatura afetada e quaisquer aliados dentro de [1] têm um bônus de +1 em sua <LSTag Tooltip=""ArmourClass"">Classe de Armadura</LSTag>."
+Wild Soul: Protective Lights,Alma Selvagem: Luzes Protetoras
+"Affected creature is surrounded by barbarous wild magic, and has been granted a +1 bonus to their <LSTag Tooltip=""ArmourClass"">Armour Class</LSTag>.","A criatura afetada está cercada por mágica selvagem bárbara e recebeu um bônus de +1 em sua <LSTag Tooltip=""ArmourClass"">Classe de Armadura</LSTag>."
+"Until no longer enraged, shadowy vines burrow beneath you, making the ground <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag> for anyone but you.","Até não estar mais enfurecido, vinhas sombrias se enterram sob você, tornando o chão <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag> para qualquer um, exceto você."
+Wild Soul: Shadow Terrain,Alma Selvagem: Terreno Sombrio
+"Affected creature is surrounded by shadowy vines. Until no longer enraged, the ground within [1] of them becomes <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag> for everyone other than them.","A criatura afetada é cercada por vinhas sombrias. Até que não esteja mais enfurecida, o chão dentro de [1] dela se torna <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag> para todos, exceto para ela."
+Wild Soul: Bolt of Light,Alma Selvagem: Raio de Luz
+"Until no longer enraged, you may fire a beam of <LSTag Type=""Spell"" Tooltip=""Projectile_WildMagicBarbarian_LightBolt"">Barbaric Radiance</LSTag> from your chest each turn.","Enquanto não estiver mais enfurecido, você pode disparar um feixe de <LSTag Type=""Spell"" Tooltip=""Projectile_WildMagicBarbarian_LightBolt"">Radiação Barbarica</LSTag> do seu peito a cada turno."
+Wild Soul: Light Bolt,Alma Selvagem: Raio de Luz
+"Affected creature may fire a beam of <LSTag Type=""Spell"" Tooltip=""Projectile_WildMagicBarbarian_LightBolt"">Barbaric Radiance</LSTag> from their chest until no longer enraged.","A criatura afetada pode disparar um feixe de <LSTag Type=""Spell"" Tooltip=""Projectile_WildMagicBarbarian_LightBolt"">Radiação Bárbara</LSTag> de seu peito até que não esteja mais enfurecida."
+Wild Soul: Barbaric Radiance,Alma Selvagem: Radiação Barbárica
+"Fire a beam of light from your chest that <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinds</LSTag> your target.","Dispare um feixe de luz do seu peito que <LSTag Type=""Status"" Tooltip=""BLINDED"">Cega</LSTag> seu alvo."
+You remain enraged until the end of your current combat encounter.,Você permanece enfurecido até o final do seu encontro de combate atual.
+Wild Soul: Bottomless Rage,Alma Selvagem: Fúria Infinita
+Affected creature will remain enraged until the end of their current combat encounter.,A criatura afetada permanecerá enfurecida até o final do combate atual.
+You drastically increase in size and musculature.,Você aumenta drasticamente de tamanho e musculatura.
+Wild Soul: Mountainous Rampage,Fúria: Devastação Montanhosa
+Affected creature has drastically increased in size and musculature.,A criatura afetada aumentou drasticamente de tamanho e musculatura.
+Sweet Silence,Doce Silêncio
+"All enemies within [1] of you become <LSTag Type=""Status"" Tooltip=""SILENCED"">Silenced</LSTag> for three turns.","Todos os inimigos dentro de [1] de você se tornam <LSTag Type=""Status"" Tooltip=""SILENCED"">Silenced</LSTag> por três turnos."
+Speak No Evil,Fale Nenhum Mal
+"You and all allies within [1] of you become <LSTag Type=""Status"" Tooltip=""SILENCED"">Silenced</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você se tornam <LSTag Type=""Status"" Tooltip=""SILENCED"">Silenciados</LSTag> por três turnos."
+You Can't See Me,Você Não Pode Me Ver
+"You and all allies within [1] of you gain <LSTag Type=""Status"" Tooltip=""GREATER_INVISIBILITY"">Greater Invisibility</LSTag> for three turns.","Você e todos os aliados a até [1] de você ganham <LSTag Type=""Status"" Tooltip=""GREATER_INVISIBILITY"">Invisibilidade Maior</LSTag> por três turnos."
+See No Evil,Veja Nenhum Mal
+"All enemies within [1] of you gain <LSTag Type=""Status"" Tooltip=""GREATER_INVISIBILITY"">Greater Invisibility</LSTag> for three turns.","Todos os inimigos dentro de [1] de você ganham <LSTag Type=""Status"" Tooltip=""GREATER_INVISIBILITY"">Invisibilidade Maior</LSTag> por três turnos."
+Cheesy,Queijo
+You and all allies within [1] of you become a block of cheese for three turns.,Você e todos os aliados dentro de [1] de você se tornam um bloco de queijo por três turnos.
+Delicious,Delicioso
+All enemies within [1] of you become a block of cheese for three turns.,Todos os inimigos dentro de [1] de você se tornam um bloco de queijo por três turnos.
+"You and all allies within [1] of you gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você ganham <LSTag Tooltip=""Advantage"">Vantagem</LSTag> nas <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> por três turnos."
+Press the Advantage,Pressione a Vantagem
+"All enemies within [1] of you gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> for three turns.","Todos os inimigos dentro de [1] de você ganham <LSTag Tooltip=""Advantage"">Vantagem</LSTag> nas <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> por três turnos."
+Retreat!,Retirada!
+"Affected creature rolls with <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>.","A criatura afetada rola com <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>."
+"You and all allies within [1] of you suffer from <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> for three turns.","Você e todos os aliados a até [1] de você sofrem <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> por três turnos."
+Disadvantaged,Desvantagem
+"All enemies within [1] of you suffer from <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> for three turns.","Todos os inimigos dentro de [1] de você sofrem <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> por três turnos."
+Advance!,Avance!
+"Affected creature rolls with <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>.","A criatura afetada rola com <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>."
+"You and all allies within [1] of you gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você ganham <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> por três turnos."
+Selective Savior,Salvador Seletivo
+"All enemies within [1] of you gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> for three turns.","Todos os inimigos dentro de [1] de você ganham <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> por três turnos."
+Indiscriminate Savior,Salvador Indiscriminado
+"Affected creature rolls with <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","A criatura afetada rola com <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>."
+"You and all allies within [1] of you suffer from <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> for three turns.","Você e todos os aliados dentro de [1] sofrem <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> por três turnos."
+Traitor,Traidor
+"All enemies within [1] of you suffer from <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> for three turns.","Todos os inimigos dentro de [1] de você sofrem <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> por três turnos."
+Oppressor,Opressor
+"Affected creature rolls with <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","A criatura afetada rola com <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>."
+Mass Resistance,Resistência em Massa
+"You and all allies within [1] gain <LSTag Tooltip=""Resistant"">Resistance</LSTag> to all damage for three turns.","Você e todos os aliados dentro de [1] ganham <LSTag Tooltip=""Resistant"">Imunidade</LSTag> a todo dano por três turnos."
+Mass Vulnerability,Vulnerabilidade em Massa
+"You and all allies within [1] become <LSTag Tooltip=""Vulnerable"">Vulnerable</LSTag> to all damage for three turns.","Você e todos os aliados dentro de [1] se tornam <LSTag Tooltip=""Vulnerable"">Vulneráveis</LSTag> a todo dano por três turnos."
+Hold It!,Pare com isso!
+"All enemies within [1] of you are afflicted with <LSTag Type=""Status"" Tooltip=""HOLD_MONSTER"">Hold Creature</LSTag>.","Todos os inimigos dentro de [1] de você são afligidos com <LSTag Type=""Status"" Tooltip=""HOLD_MONSTER"">Hold Creature</LSTag>."
+Freeze Frame,Congelar o Momento
+"You and all allies within [1] of you are <LSTag Type=""Status"" Tooltip=""FROZEN"">Frozen</LSTag> solid.","Você e todos os aliados dentro de [1] de você estão <LSTag Type=""Status"" Tooltip=""FROZEN"">Frozen</LSTag> sólidos."
+"For the next three turns, dealing damage will send your target flying backward by [1].","Nos próximos três turnos, causar dano enviará seu alvo voando para trás por [1]."
+Swing the Bat,Bata com o Bastão
+Affected creature will send their targets flying backward by [1] upon dealing damage.,A criatura afetada enviará seus alvos para trás em uma distância de [1] ao causar dano.
+"For the next three turns, taking damage will send you flying backward by [1].","Nos próximos três turnos, receber dano o enviará voando para trás por [1]."
+Swing and a Miss,Balanço e Erro
+Affected creature will be sent flying backward by [1] upon taking damage.,A criatura afetada será lançada para trás por [1] ao sofrer dano.
+Well Rested,Bem Descansado
+"You and all allies within [1] of you benefit from the effects of a <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Você e todos os aliados dentro de [1] de você se beneficiam dos efeitos de um <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Well Shit,"Bem, droga."
+"All enemies within [1] of you benefit from the effects of a <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Todos os inimigos dentro de [1] de você se beneficiam dos efeitos de um <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Allied Inferno,Inferno Aliado
+You and all allies within [1] of you erupt in a violent explosion of fire.,Você e todos os aliados dentro de [1] de você explodem em uma violenta explosão de fogo.
+Hot Hot Hot!,Quente Quente Quente!
+Enemies within [1] of you erupt in a violent explosion of fire.,Inimigos a até [1] de você explodem em uma violenta explosão de fogo.
+Granite Grace,Graça Granítica
+"You and all allies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""STONESKIN"">Stoneskin</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""STONESKIN"">Pele de Pedra</LSTag> por três turnos."
+Stone Opposition,Oposição de Pedra
+"Enemies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""STONESKIN"">Stoneskin</LSTag> for three turns.","Inimigos dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""STONESKIN"">Pele de Pedra</LSTag> por três turnos."
+Aetherial Ascent,Ascensão Etérea
+"You and all allies within [1] of you benefit can <LSTag Type=""Spell"" Tooltip=""Projectile_Fly"">Fly</LSTag> for three turns.","Você e todos os aliados a até [1] de distância podem <LSTag Type=""Spell"" Tooltip=""Projectile_Fly"">Voar</LSTag> por três turnos."
+Skybound Folly,Loucura Celestial
+"Enemies within [1] of you can <LSTag Type=""Spell"" Tooltip=""Projectile_Fly"">Fly</LSTag> for three turns.","Inimigos a até [1] de você podem <LSTag Type=""Spell"" Tooltip=""Projectile_Fly"">Voar</LSTag> por três turnos."
+Corpse Party,Festa dos Cadáveres
+You summon allied zombies from all nearby corpses.,Você invoca zumbis aliados de todos os cadáveres próximos.
+Undead Rumination,Ruminação de Mortos-Vivos
+"You and all allies within [1] are afflicted with a <LSTag Type=""Status"" Tooltip=""CRAWLING_GNAW_SWITCH"">Crawling Gnaw</LSTag> until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>. No affect on Undead, Constructs, Elementals, Plants, or Ooze based creatures.","Você e todos os aliados dentro de [1] são afligidos por <LSTag Type=""Status"" Tooltip=""CRAWLING_GNAW_SWITCH"">Crawling Gnaw</LSTag> até seu próximo <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>. Sem efeito em Mortos-Vivos, Construtos, Elementais, Plantas ou criaturas baseadas em Lodo."
+Reflection of Camraderie,Reflexo de Camaradagem
+"You and all allies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""MIRROR_IMAGE_1"">Mirror Image</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""MIRROR_IMAGE_1"">Imagem Espelhada</LSTag> por três turnos."
+Reflection of Chaos,Reflexo do Caos
+"Enemies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""MIRROR_IMAGE_1"">Mirror Image</LSTag> for three turns.","Inimigos dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""MIRROR_IMAGE_1"">Imagem Espelhada</LSTag> por três turnos."
+BIIIIIIIG,BIIIIIIIG
+"You and all allies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""ENLARGE"">Enlarge</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""ENLARGE"">Aumentar</LSTag> por três turnos."
+Growth Spurt,Crescimento Acelerado
+"Enemies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""ENLARGE"">Enlarge</LSTag> for three turns.","Inimigos a até [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""ENLARGE"">Enlarge</LSTag> por três turnos."
+SMAAAAAAALL,PEQUENINOOOOO
+"You and all allies within [1] of you suffer from the effects of <LSTag Type=""Status"" Tooltip=""REDUCE"">Reduced</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você sofrem os efeitos de <LSTag Type=""Status"" Tooltip=""REDUCE"">Reduzido</LSTag> por três turnos."
+Cut Down to Size,Cortado para o Tamanho
+"Enemies within [1] of you suffer from the effects of <LSTag Type=""Status"" Tooltip=""REDUCE"">Reduced</LSTag> for three turns.","Inimigos a até [1] de você sofrem os efeitos de <LSTag Type=""Status"" Tooltip=""REDUCE"">Reduzido</LSTag> por três turnos."
+Calming Clowder,Grupo Acalmante
+Summon an allied feline familiar next to every ally within [1].,Convoque um familiar felino aliado ao lado de cada aliado dentro de [1].
+Not so Calming Clowder,Clowder Não Tão Calmante
+Summon a blazing bombadiers next to every ally within [1]. These bombadiers are hostile to all other creatures and cannot move on their own.,Invocar bombardeiros flamejantes ao lado de cada aliado dentro de [1]. Esses bombardeiros são hostis a todas as outras criaturas e não podem se mover por conta própria.
+Curse the Greedy,Maldição dos Gananciosos
+Characters within [1] of you take [2] damage for every 100 pieces of gold on their person.,Personagens dentro de [1] de você recebem [2] de dano para cada 100 peças de ouro que possuem.
+"Characters within [1] of you regain an additional +1d12 <LSTag Tooltip=""HitPoints"">Hit Points</LSTag> when healed.","Personagens a até [1] de você recuperam um adicional de +1d12 <LSTag Tooltip=""HitPoints"">Pontos de Vida</LSTag> quando são curados."
+Save the Needy,Salve os Necessitados
+"Affected creature will regain an additional +1d12 <LSTag Tooltip=""HitPoints"">Hit Points</LSTag> when healed.","A criatura afetada recuperará um adicional de +1d12 <LSTag Tooltip=""HitPoints"">Pontos de Vida</LSTag> quando curada."
+"You and all allies within [1] of you will only roll <LSTag Tooltip=""CriticalHit"">Critical Hits</LSTag>.","Você e todos os aliados dentro de [1] de você só rolarão <LSTag Tooltip=""CriticalHit"">Acertos Críticos</LSTag>."
+Critical Success,Sucesso Crítico
+"Enemies within [1] of you will only roll <LSTag Tooltip=""CriticalHit"">Critical Hits</LSTag>.","Inimigos a até [1] de você só rolarão <LSTag Tooltip=""CriticalHit"">Acertos Críticos</LSTag>."
+Critical Fail,Falha Crítica
+"Affected creature will only roll <LSTag Tooltip=""CriticalHit"">Critical Hits</LSTag>.","A criatura afetada só realizará <LSTag Tooltip=""CriticalHit"">Acertos Críticos</LSTag>."
+"You and all allies within [1] of you can no longer roll <LSTag Tooltip=""CriticalHit"">Critical Hits</LSTag>.","Você e todos os aliados a até [1] de você não podem mais rolar <LSTag Tooltip=""CriticalHit"">Acertos Críticos</LSTag>."
+Critical Miss,Falha Crítica
+"Enemies within [1] of you can no longer roll <LSTag Tooltip=""CriticalHit"">Critical Hits</LSTag>.","Inimigos a até [1] de você não podem mais rolar <LSTag Tooltip=""CriticalHit"">Acertos Críticos</LSTag>."
+Task Failed Successfully,Tarefa Falhou com Sucesso
+"Affected creature can no longer roll <LSTag Tooltip=""CriticalHit"">Critical Hits</LSTag>.","A criatura afetada não pode mais rolar <LSTag Tooltip=""CriticalHit"">Acertos Críticos</LSTag>."
+"You and all allies within [1] of you gain an additional <LSTag Tooltip=""Action"">Action</LSTag> for three turns.","Você e todos os aliados a até [1] de você ganham uma <LSTag Tooltip=""Action"">Ação</LSTag> adicional por três turnos."
+Action Adventure,Aventura de Ação
+"Enemies within [1] of you gain an additional <LSTag Tooltip=""Action"">Action</LSTag> for three turns.","Inimigos a até [1] de você ganham uma <LSTag Tooltip=""Action"">Ação</LSTag> adicional por três turnos."
+Action Horror,Horror de Ação
+"Affected creature has gained an additional <LSTag Tooltip=""Action"">Action</LSTag>.","A criatura afetada ganhou uma <LSTag Tooltip=""Action"">Ação</LSTag> adicional."
+"You and all allies within [1] of you gain an additional <LSTag Type=""ActionResource"" Tooltip=""BonusActionPoint"">Bonus Action</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você ganham uma <LSTag Type=""ActionResource"" Tooltip=""BonusActionPoint"">Ação Bônus</LSTag> adicional por três turnos."
+Action Adventure: Bonus Clip,Aventura de Ação: Clipe Bônus
+"Enemies within [1] of you gain an additional <LSTag Type=""ActionResource"" Tooltip=""BonusActionPoint"">Bonus Action</LSTag> for three turns.","Inimigos dentro de [1] de você ganham uma <LSTag Type=""ActionResource"" Tooltip=""BonusActionPoint"">Ação Bônus</LSTag> adicional por três turnos."
+Action Horror: Bonus Clip,Ação de Horror: Clip Bônus
+"Affected creature has gained an additional <LSTag Type=""ActionResource"" Tooltip=""BonusActionPoint"">Bonus Action</LSTag>.","A criatura afetada ganhou uma <LSTag Type=""ActionResource"" Tooltip=""BonusActionPoint"">Ação Bônus</LSTag> adicional."
+Curse of Bane,Maldição de Doença
+"You and all allies within [1] of you suffer from the effects of <LSTag Type=""Status"" Tooltip=""BANE"">Bane</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você sofrem os efeitos de <LSTag Type=""Status"" Tooltip=""BANE"">Maldição</LSTag> por três turnos."
+Boon of Bane,Benção da Maldição
+"Enemies within [1] of you suffer from the effects of <LSTag Type=""Status"" Tooltip=""BANE"">Bane</LSTag> for three turns.","Inimigos dentro de [1] de você sofrem os efeitos de <LSTag Type=""Status"" Tooltip=""BANE"">Bane</LSTag> por três turnos."
+Blessed Blessings,Bênçãos Abençoadas
+"You and all allies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""BLESS"">Bless</LSTag> for three turns.","Você e todos os aliados dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""BLESS"">Bênção</LSTag> por três turnos."
+Cursed Blessings,Bênçãos Amaldiçoadas
+"Enemies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""BLESS"">Bless</LSTag> for three turns.","Inimigos dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""BLESS"">Bênção</LSTag> por três turnos."
+Bed of Feathers,Cama de Penas
+"You and all allies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""FEATHER_FALL"">Featherfall</LSTag> until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Você e todos os aliados dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""FEATHER_FALL"">Queda Suave</LSTag> até seu próximo <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Descend Upon You,Descer Sobre Você
+"Enemies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""FEATHER_FALL"">Featherfall</LSTag> until their next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Inimigos a até [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""FEATHER_FALL"">Queda Leve</LSTag> até seu próximo <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Speed Up!,Acelere!
+"You and all allies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""LONGSTRIDER"">Longstrider</LSTag> until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Você e todos os aliados dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""LONGSTRIDER"">Andarilho Longo</LSTag> até sua próxima <LSTag Tooltip=""LongRest"">Long Rest</LSTag>."
+Nowhere to Run,Sem Escapatória
+"Enemies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""LONGSTRIDER"">Longstrider</LSTag> until their next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Inimigos a até [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""LONGSTRIDER"">Longstrider</LSTag> até o próximo <LSTag Tooltip=""LongRest"">Long Rest</LSTag>."
+Leaps and Bounds,Saltos e Avanços
+"You and all allies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""LONG_JUMP"">Enhanced Leap</LSTag> until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Você e todos os aliados dentro de [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""LONG_JUMP"">Salto Aprimorado</LSTag> até seu próximo <LSTag Tooltip=""LongRest"">Long Rest</LSTag>."
+Jumping the Gun,"Acelere o processo, agindo antes do tempo."
+"Enemies within [1] of you benefit from the effects of <LSTag Type=""Status"" Tooltip=""LONG_JUMP"">Enhanced Leap</LSTag> until their next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Inimigos a até [1] de você se beneficiam dos efeitos de <LSTag Type=""Status"" Tooltip=""LONG_JUMP"">Salto Aprimorado</LSTag> até o próximo <LSTag Tooltip=""LongRest"">Long Rest</LSTag>."
+"Doors and devices you approach will inexplicably lock themselves until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Portas e dispositivos que você se aproximar se trancarão inexplicavelmente até seu próximo <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+No Tav Allowed,Sem Tav Permitido
+"Enemies within [1] of you will inexplicably lock themselves out of all nearby doors and devices until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Inimigos dentro de [1] de você inexplicavelmente se trancarão fora de todas as portas e dispositivos próximos até seu próximo <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Members Only,Apenas para Membros
+Affected creature seems to find that doors and devices they approach will inexplicably lock themselves.,A criatura afetada parece descobrir que portas e dispositivos que ela se aproxima se trancam inexplicavelmente.
+"Doors and devices you approach will inexplicably unlock themselves until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Portas e dispositivos que você se aproximar se desbloquearão inexplicavelmente até o seu próximo <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Schoolhouse Knock,Escola de Batida
+Affected creature seems to find that doors and devices they approach will inexplicably unlock themselves.,A criatura afetada parece descobrir que portas e dispositivos que ela se aproxima se desbloqueiam inexplicavelmente.
+Arcane Unlock,"A arma afetada se torna mágica, permitindo que você use sua <LSTag Tooltip=""SpellcastingAbilityModifier"">Habilidade de Magia</LSTag> para <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> e dano."
+Affected object has been magically unlocked.,O objeto afetado foi magicamente destrancado.
+"Locked doors and devices you approach will inexplicably explode until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Portas e dispositivos trancados que você se aproximar explodirão inexplicavelmente até o seu próximo <LSTag Tooltip=""LongRest"">Long Rest</LSTag>."
+Professional Thief! Very Stealthy!,Ladrão Profissional! Muito Furtivo!
+Affected creature seems to find that doors and devices they approach will inexplicably unlock themselves...in a very explosive manner.,A criatura afetada parece descobrir que portas e dispositivos que se aproximam se destrancam inexplicavelmente... de uma maneira muito explosiva.
+Professional Lockpicking,Habilidade Profissional em Destrancar Fechaduras
+Affected object has been magically...unlocked?,O objeto afetado foi magicamente...desbloqueado?
+One With Nature,Um com a Natureza
+"You and all allies within [1] of you gain the ability to converse with animals until your next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Você e todos os aliados a até [1] de você ganham a habilidade de conversar com animais até o seu próximo <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Enemy of Sylvanus,Inimigo de Silvanus
+"Beasts within [1] of you erupt in flames, scorching themselves and everything around them.","Bestas dentro de [1] de você explodem em chamas, queimando a si mesmas e tudo ao seu redor."
+Necrotic Tongue,Língua Necrótica
+You and all allies within [1] of you gain the ability to converse with the dead.,Você e todos os aliados dentro de [1] de você ganham a habilidade de conversar com os mortos.
+"Corpses within [1] of you explode, dealing severe damage to any creatures nearby and sending them flying backward by [2].","Os corpos dentro de [1] de você explodem, causando dano severo a qualquer criatura próxima e as lançando para trás por [2]."
+Necrotic Blowback,Recuo Necrótico
+"Affected corpse has exploded, dealing severe damage to any creatures nearby and sending them flying backward by [1].","O corpo afetado explodiu, causando danos severos a qualquer criatura próxima e as lançando para trás por [1]."
+Mind Reader,Leitor de Mentes
+You and all allies within [1] of you gain the ability to read other creatures thoughts.,Você e todos os aliados dentro de [1] de você ganham a habilidade de ler os pensamentos de outras criaturas.
+You are no longer capable of conversing with other creatures.,Você não é mais capaz de conversar com outras criaturas.
+Tongue Twister,Trava-Língua
+Affected creature is not capable of conversing with other creatures.,A criatura afetada não é capaz de conversar com outras criaturas.
+"You and all allies within [1] of you gain <LSTag Type=""Spell"" Tooltip=""Target_MistyStep"">Misty Step</LSTag> and may cast it without expending a <LSTag Tooltip=""SpellSlot"">Spell Slot</LSTag>.","Você e todos os aliados dentro de [1] de você ganham <LSTag Type=""Spell"" Tooltip=""Target_MistyStep"">Misty Step</LSTag> e podem lançá-lo sem gastar um <LSTag Tooltip=""SpellSlot"">Spell Slot</LSTag>."
+Misty Boon,"pt-BR: Quando você usa <LSTag Type=""Spell"" Tooltip=""Target_MistyStep"">Passo Nebuloso</LSTag>, você pode se mover até <LSTag Tooltip=""Distance"">9 metros</LSTag> em uma direção de sua escolha."
+"Enemies within [1] of you gain <LSTag Type=""Spell"" Tooltip=""Target_MistyStep"">Misty Step</LSTag> and may cast it without expending a <LSTag Tooltip=""SpellSlot"">Spell Slot</LSTag>.","Inimigos a até [1] de você ganham <LSTag Type=""Spell"" Tooltip=""Target_MistyStep"">Misty Step</LSTag> e podem lançá-lo sem gastar um <LSTag Tooltip=""SpellSlot"">Spell Slot</LSTag>."
+Misty Curse,Maldição Nebulosa
+"Affected creature has gained <LSTag Type=""Spell"" Tooltip=""Target_MistyStep"">Misty Step</LSTag> and may cast it without expending a <LSTag Tooltip=""SpellSlot"">Spell Slot</LSTag>.","A criatura afetada ganhou <LSTag Type=""Spell"" Tooltip=""Target_MistyStep"">Passo Nebuloso</LSTag> e pode lançá-lo sem gastar um <LSTag Tooltip=""SpellSlot"">Espaço de Feitiço</LSTag>."
+Cats and Dogs,Gatos e Cães
+All creatures within [1] of you polymorph into either a cat or dog.,Todas as criaturas dentro de [1] de você se transformam em um gato ou cachorro.
+"Casting a <LSTag Tooltip=""Cantrip"">Cantrip</LSTag> or Spell on another creature causes you to swap places with them.","Lançar um <LSTag Tooltip=""Cantrip"">Truque</LSTag> ou feitiço em outra criatura faz com que você troque de lugar com ela."
+Blink And You'll Miss It,Piscar e Você Perderá
+"Affected creature will swap places with their targets when casting a <LSTag Tooltip=""Cantrip"">Cantrip</LSTag> or Spell.","A criatura afetada trocará de lugar com seus alvos ao lançar um <LSTag Tooltip=""Cantrip"">Cantrip</LSTag> ou Feitiço."
+A Boon of Radiance,Uma Benção Radiante
+Enemies within [1] take [2].,Inimigos dentro de [1] sofrem [2].
+Blazing Curses,Maldições Flamejantes
+"You and all allies within [1] <LSTag Type=""Status"" Tooltip=""BURNING"">Burn</LSTag> until the fire is doused.","Você e todos os aliados dentro de [1] <LSTag Type=""Status"" Tooltip=""BURNING"">Queimam</LSTag> até que o fogo seja apagado."
+Multiversal Shovel Squad!,Esquadrão da Pá Multiversal!
+Summon three allied Quasits until the end of your next combat encounter.,Convoque três Quasits aliados até o final do seu próximo encontro de combate.
+Being healed will ensure you never have to worry for your life again!,Ser curado garantirá que você nunca mais precise se preocupar com sua vida!
+Explosive Healing,Cura Explosiva
+Affected creature will no longer worry about their life once healed!,A criatura afetada não se preocupará mais com sua vida uma vez curada!
+"Gain <LSTag Tooltip=""Proficiency"">Proficiency</LSTag> in all <LSTag Tooltip=""Skill"">Skills</LSTag> until the next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Ganhe <LSTag Tooltip=""Proficiency"">Proficiência</LSTag> em todas as <LSTag Tooltip=""Skill"">Habilidades</LSTag> até o próximo <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Field of Study,Campo de Estudo
+"Affected creature has <LSTag Tooltip=""Proficiency"">Proficiency</LSTag> in all <LSTag Tooltip=""Skill"">Skills</LSTag>.","A criatura afetada tem <LSTag Tooltip=""Proficiency"">Proficiência</LSTag> em todas as <LSTag Tooltip=""Skill"">Habilidades</LSTag>."
+"Suffer from a -10 penalty in all <LSTag Tooltip=""Skill"">Skills</LSTag> until the next <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Sofre uma penalidade de -10 em todas as <LSTag Tooltip=""Skill"">Habilidades</LSTag> até o próximo <LSTag Tooltip=""LongRest"">Long Rest</LSTag>."
+Skill Issue,Problema de Habilidade
+"Affected creature suffers from a -10 penalty in all <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura afetada sofre uma penalidade de -10 em todos os <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Bubble Boy,Menino Bolha
+"Become surrounded in a <LSTag Type=""Status"" Tooltip=""RESILIENT_SPHERE"">Resilent Sphere</LSTag> until the end of your next turn.","Fique cercado em uma <LSTag Type=""Status"" Tooltip=""RESILIENT_SPHERE"">Esfera Resiliente</LSTag> até o final do seu próximo turno."
+Bubble Buddy,Amigo das Bolhas
+"Enemies within [1] of you become surrounded in a <LSTag Type=""Status"" Tooltip=""RESILIENT_SPHERE"">Resilent Sphere</LSTag> until the end of their next turn.","Inimigos a até [1] de você ficam cercados em uma <LSTag Type=""Status"" Tooltip=""RESILIENT_SPHERE"">Esfera Resiliente</LSTag> até o final do próximo turno deles."
+"Stop, Drop and Roll!","Pare, Caia e Role!"
+A [1] flaming surface is conjured under all allies within [2].,Uma superfície flamejante [1] é conjurada sob todos os aliados dentro de [2].
+Burning Sensation,Sensação de Queimação
+A [1] flaming surface is conjured under all enemies within [2].,"Uma superfície <LSTag Tooltip=""Flame"">Flamejante</LSTag> é conjurada sob todos os inimigos dentro de [2]."
+Slippery Caster,Mestre Escorregadio
+A [1] frozen surface is conjured under all allies within [2].,Uma superfície congelada é conjurada sob todos os aliados dentro de [2].
+Ice Cold,Frio Glacial
+A [1] frozen surface is conjured under all enemies within [2].,Uma superfície congelada de [1] é conjurada sob todos os inimigos dentro de [2].
+Acidic Mistake,Erro Ácido
+A [1] acidic surface is conjured under all allies within [2].,Uma superfície ácida [1] é conjurada sob todos os aliados dentro de [2].
+Melted Armour,Armadura Derretida
+A [1] acidic surface is conjured under all enemies within [2].,Uma superfície ácida [1] é conjurada sob todos os inimigos dentro de [2].
+Shocking Mistake,Erro Chocante
+A [1] pool of electirified water is conjured under all allies within [2].,Uma poça de água eletrificada é conjurada sob todos os aliados dentro de [2].
+Joyous Jolts,Descargas Alegres
+A [1] pool of electirified water is conjured under all enemies within [2].,Uma poça de água eletrificada é conjurada sob todos os inimigos dentro de [2].
+Life Alert!,Alerta de Vida!
+A [1] greasy surface is conjured under all allies within [2].,Uma superfície [1] oleosa é conjurada sob todos os aliados dentro de [2].
+Prone Zone,Zona de Derrubada
+A [1] greasy surface is conjured under all enemies within [2].,Uma superfície oleosa é conjurada sob todos os inimigos dentro de [2].
+Blindingly Awful Results,Resultados Deploráveis
+A [1] cloud of magical darkness is conjured under all allies within [2].,Uma nuvem de escuridão mágica é conjurada sob todos os aliados dentro de [2].
+Darkest Outcome,Resultado Mais Sombrio
+A [1] cloud of magical darkness is conjured under all enemies within [2].,Uma nuvem de escuridão mágica é conjurada sob todos os inimigos dentro de [2].
+Mud Buddies,Companheiros de Lama
+A [1] muddy surface is conjured under all allies within [2].,Uma superfície lamacenta é conjurada sob todos os aliados dentro de [2].
+Entrenched,"<LTTag Type=""Image"" Info=""TutorialLearnSpell""/> <LSTag Tooltip=""SpellSlot"">Upcast</LSTag>: Você ganha vantagem em Testes de Resistência contra ser derrubado e recebe +2 na Classe de Armadura."
+A [1] muddy surface is conjured under all enemies within [2].,Uma superfície lamacenta [1] é conjurada sob todos os inimigos dentro de [2].
+Why...,Por que...
+A [1] pool of waste is conjured under all allies within [2].,Uma poça de resíduos é conjurada sob todos os aliados dentro de [2].
+"Oh, Shit!","Oh, droga!"
+A [1] pool of waste is conjured under all enemies within [2].,Uma poça de resíduos é conjurada sob todos os inimigos dentro de [2].
+Hydrated,Hidratado
+A [1] pool of water is conjured under all allies within [2].,Uma poça de água é conjurada sob todos os aliados dentro de [2].
+Splash,Splash
+A [1] pool of water is conjured under all enemies within [2].,Uma poça de água é conjurada sob todos os inimigos dentro de [2].
+Sticky Situation,Situação Pegajosa
+A [1] web surface is conjured under all allies within [2].,Uma superfície de teia [1] é conjurada sob todos os aliados dentro de [2].

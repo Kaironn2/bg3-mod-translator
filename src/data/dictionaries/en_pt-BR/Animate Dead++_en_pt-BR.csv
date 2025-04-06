@@ -1,0 +1,49 @@
+en,pt-BR
+Create an undead servant.,Crie um servo morto-vivo.
+Create 5 zombies that specialize in melee combat.,Reanime 5 zumbis que se especializam em combate corpo a corpo.
+Create 7 zombies that specialize in melee combat.,Reanime 7 zumbis que se especializam em combate corpo a corpo.
+Create 5 skeletons that specialize in ranged combat.,Reanime 5 esqueletos que se especializam em combate à distância.
+Create 7 skeletons that specialize in ranged combat.,Reanime 7 esqueletos que se especializam em combate à distância.
+Animate Dead: Skeleton (Melee),Animar Mortos: Esqueleto (Corpo a Corpo)
+Create a skeleton that specializes in melee combat.,Crie um esqueleto que se especializa em combate corpo a corpo.
+Create 3 skeletons that specialize in melee combat.,Reanime 3 esqueletos que se especializam em combate corpo a corpo.
+Create 5 skeletons that specialize in melee combat.,Reanime 5 esqueletos que se especializam em combate corpo a corpo.
+Create 7 skeletons that specialize in melee combat.,Reanime 7 esqueletos que se especializam em combate corpo a corpo.
+Animate Dead: Skeleton (Wizard),Animar Mortos: Esqueleto (Mago)
+Create [1] skeletons that specialize in spellcasting.,Crie [1] esqueletos que se especializam em conjuração de feitiços.
+Skeletal Wizard,Mago Esquelético
+Automated,Automatizado
+,
+Disable Undead Automation,Desativar Automação de Mortos-Vivos
+Undead Automation Disabled,Automação de Mortos-Vivos Desativada
+Drink to disable undead combat AI.,Beba para desativar a IA de combate dos mortos-vivos.
+Enable Undead Automation,Ativar Automação de Mortos-Vivos
+Undead Automation Enabled,Automação de Mortos-Vivos Habilitada
+Drink to enable undead combat AI.,Beba para ativar a IA de combate dos mortos-vivos.
+Toggle Undead Automation,Alternar Automação de Mortos-Vivos
+"Enables or disables automation for your undead. Removing automation only applies outside combat. Drag to your hotbar to activate or de-activate. Can remove by re-speccing or using the ""Remove Animate Dead++ Toggles"" passive found in your spellbook.","Habilita ou desabilita a automação para seus mortos-vivos. Remover a automação só se aplica fora do combate. Arraste para sua barra de atalhos para ativar ou desativar. Pode remover reespecificando ou usando o passivo ""Remover Alternâncias de Animar Mortos++"" encontrado em seu grimório."
+Block Automation,Bloquear Automação
+Toggle on to disable undead automation for this creature and only this creature. Only applies to automation from Animate Dead++.,Ative para desativar a automação de mortos-vivos para esta criatura e apenas esta criatura. Aplica-se apenas à automação de Animate Dead++.
+Toggle Corpse Requirements,Alternar Requisitos de Cadáver
+"Enables or disables corpse requirements for most spells that normally require corpses for reanimation. Can remove by re-speccing or using the ""Remove Animate Dead++ Toggles"" toggle found in your spellbook.","Ativa ou desativa os requisitos de cadáver para a maioria dos feitiços que normalmente requerem cadáveres para reanimação. Pode ser removido ao reespecificar ou usando o interruptor ""Remover Alternâncias de Animar Mortos++"" encontrado em seu grimório."
+Remove Animate Dead++ Toggles,Remover Alternâncias de Animar Mortos++
+"Drag to your passives bar and toggle on to remove the ""Toggle Corpse Requirements"" and ""Toggle Undead Automation"" passives from your character. This is only temporary, and intended for attempts to remove the mod from your save file. ","Arraste para sua barra de passivos e ative para remover os passivos ""Remover Requisitos de Cadáver"" e ""Ativar Automação de Mortos-Vivos"" do seu personagem. Isso é apenas temporário e destinado a tentativas de remover o mod do seu arquivo de salvamento."
+Negative Energy Zone,Zona de Energia Negativa
+Many reanimation spells don't require corpses due to the abundance of negative energy around you.,Muitos feitiços de reanimação não requerem cadáveres devido à abundância de energia negativa ao seu redor.
+Bone-Headed,Cabeça de Osso
+Block attacks to reduce their damage by [1].,Bloqueie ataques para reduzir seu dano em [1].
+"You must see the attacker, and you can't be Incapacitated or Restrained.","Você deve ver o atacante, e não pode estar Incapacitado ou Imobilizado."
+Blocked,Bloqueado
+"Already <LSTag Type=""Passive"" Tooltip=""Sailor_Skeleton_Block"">Blocked</LSTag> this turn and has to recover before Blocking again.","Já <LSTag Type=""Passive"" Tooltip=""Sailor_Skeleton_Block"">Bloqueou</LSTag> neste turno e precisa se recuperar antes de bloquear novamente."
+"Raise a corpse as a mummy, shadow, or death knight that fights by your side.","Reanime um cadáver como uma múmia, sombra ou cavaleiro da morte que luta ao seu lado."
+Create Undead: Mummy,Criar Morto-Vivo: Múmia
+Raise a heinous mummy to plague your foes.,Reanime uma múmia hedionda para atormentar seus inimigos.
+Create Undead: Shadow,Criar Morto-Vivo: Sombra
+Raise a tenebrous shadow to drain the strength from your foes.,Erga uma sombra tenebrosa para drenar a força de seus inimigos.
+Create Undead: Death Knight,Criar Morto-Vivo: Cavaleiro da Morte
+Raise an unholy knight around which to rally your undead.,Erga um cavaleiro profano ao redor do qual reunir seus mortos-vivos.
+"When you create an undead using a necromancy spell, it has additional hit points equal to your wizard level, and your <LSTag Tooltip=""ProficiencyBonus"">Proficiency Bonus</LSTag> is added to its damage.","Quando você cria um morto-vivo usando um feitiço de necromancia, ele tem pontos de vida adicionais iguais ao seu nível de mago, e seu <LSTag Tooltip=""ProficiencyBonus"">Bônus de Proficiência</LSTag> é adicionado ao seu dano."
+"A creature created by a necromancer. It has additional hit points based off the caster's level, and a proficiency bonus on damage rolls.",Uma criatura criada por um necromante. Ela tem pontos de vida adicionais baseados no nível do conjurador e um bônus de proficiência nas rolagens de dano.
+Animate Dead IV: Skeleton (Melee),Animate Dead IV: Esqueleto (Corpo a Corpo)
+"Also reduces a target's maximum <LSTag Tooltip=""HitPoints"">hit points</LSTag> by 14d6. Neither the Necrotic damage nor the hit point reduction can reduce the target's hit points below 1.","Também reduz o máximo de <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag> do alvo em 14d6. Nem o dano Necrótico nem a redução de pontos de vida podem reduzir os pontos de vida do alvo abaixo de 1."
+Affected entity's maximum ,A entidade afetada tem o máximo

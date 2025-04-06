@@ -1,0 +1,19 @@
+en,pt-BR
+,
+Death Domain,Domínio da Morte
+"The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures.","O domínio da Morte está relacionado às forças que causam a morte, assim como à energia negativa que dá origem a criaturas não-mortas."
+Death Domain Spells,Feitiços do Domínio da Morte
+Reaper,Ceifador
+"When you cast a Necromancy cantrip that normally targets only one creature, you can instead target two creatures within range.","Quando você lança um truque de Necromancia que normalmente mira apenas uma criatura, você pode, em vez disso, mirar em duas criaturas dentro do alcance."
+Improved Reaper,Ceifador Aprimorado
+"When you cast a Necromancy spell of 1st through 5th level that targets only one creature, the spell can instead target two creatures within range.","Quando você lança um feitiço de Necromancia de 1º a 5º nível que mira apenas em uma criatura, o feitiço pode, em vez disso, mirar em duas criaturas dentro do alcance."
+,
+Inescapable Destruction,Destruição Inescapável
+"Your ability to channel negative energy becomes more potent. Necrotic damage dealt by your Cleric spells and Channel Divinity options ignores <LSTag Tooltip=""Resistant"">Resistance</LSTag> to Necrotic damage.","Sua habilidade de canalizar energia negativa se torna mais potente. O dano necrótico causado pelos seus feitiços de Clérigo e opções de Canalizar Divindade ignora <LSTag Tooltip=""Resistant"">Resistência</LSTag> a dano necrótico."
+Channel Divinity: Touch of Death,Canalizar Divindade: Toque da Morte
+"Destroy another creature's life force by touch. When you hit a creature with a melee attack, you may use Channel Divinity to deal an extra [1] to the target.","Destrua a força vital de outra criatura ao toque. Quando você atingir uma criatura com um ataque corpo a corpo, você pode usar Canalizar Divindade para causar um extra de [1] ao alvo."
+Divine Strike: Necrotic,Golpe Divino: Necrótico
+"Once per turn deal [1] in addition to your weapon's damage. At the 14th level, this increases to [2].","Uma vez por turno, cause [1] além do dano da sua arma. No 14º nível, isso aumenta para [2]."
+Divine Strike on Critical: Necrotic,Golpe Divino em Crítico: Necrótico
+Improved Divine Strike,Golpe Divino Aprimorado
+The damage of your Divine Strike increases from [1] to [2].,O dano do seu Golpe Divino aumenta de [1] para [2].

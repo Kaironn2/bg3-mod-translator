@@ -1,0 +1,191 @@
+en,pt-BR
+RANGERCOMPANION,COMPANHEIRO RANGER
+RANGERCOMPANIONTAGFORRANGEROVERHAUL,TAGCOMPANHEIRO PATRULHEIRO PARA REFORMULAÇÃO DO PATRULHEIRO
+"The bond between you and your Ranger Companion is unbreakable. Their stats increase for each of your Ranger levels.<br><br>In addition, your Ranger Companion will gain various passive effects depending on the passives that you receive while leveling.","O vínculo entre você e seu Companheiro Ranger é inquebrável. As estatísticas dele aumentam a cada nível que você sobe como Ranger.<br><br>Além disso, seu Companheiro Ranger ganhará vários efeitos passivos dependendo dos passivos que você receber ao subir de nível."
+Ranger's Companion,Companheiro do Ranger
+Conjure Rangers Companion,Conjurar Companheiro Ranger
+Summon a beast companion of your choice. Your companion grows in strength alongside you as you level.,Convoque um companheiro bestial de sua escolha. Seu companheiro cresce em força junto com você à medida que você sobe de nível.
+"Affected creatures stats increase for every level of its summoning Ranger.<br><br>In addition, it gains various passive effects depending on the passives that its Ranger possesses.","As estatísticas das criaturas afetadas aumentam a cada nível de seu Ranger convocador.<br><br>Além disso, elas ganham vários efeitos passivos dependendo dos passivos que seu Ranger possui."
+Natural Focus,Foco Natural
+The number of times you can utilize your unique skills as a Ranger.,O número de vezes que você pode utilizar suas habilidades únicas como Ranger.
+Natural Movement,Movimento Natural
+"Gain the ability to <LSTag Type=""Spell"" Tooltip=""Shout_Dash"">Dash</LSTag>, <LSTag Type=""Spell"" Tooltip=""Shout_Disengage"">Disengage</LSTag>, and <LSTag Type=""Spell"" Tooltip=""Shout_Hide"">Hide</LSTag> using your <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Natural Focus</LSTag>. This effect can be toggled at any time.","Ganhe a habilidade de <LSTag Type=""Spell"" Tooltip=""Shout_Dash"">Corrida</LSTag>, <LSTag Type=""Spell"" Tooltip=""Shout_Disengage"">Desengajar</LSTag> e <LSTag Type=""Spell"" Tooltip=""Shout_Hide"">Esconder</LSTag> utilizando seu <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Foco Natural</LSTag>. Esse efeito pode ser alternado a qualquer momento."
+Bear Companion,Companheiro Urso
+"Summon a bear that can endure heavy attacks and draw the enemy's attention with its <LSTag Type=""Spell"" Tooltip=""Shout_GoadingRoar_Bear_Summon"">Goading Roar</LSTag>.","Convocar um urso que pode suportar ataques pesados e chamar a atenção do inimigo com seu <LSTag Type=""Spell"" Tooltip=""Shout_GoadingRoar_Bear_Summon"">Rugido Provocador</LSTag>."
+Fierce Paws,Patas Ferozes
+"Lash out with fierce paws and potentially <LSTag Type=""Status"" Tooltip=""DISARMED"">Disarm</LSTag> your target. If it isn't holding any weapons, it potentially falls <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag> instead.","Ataque com patas ferozes e potencialmente <LSTag Type=""Status"" Tooltip=""DISARMED"">Desarme</LSTag> seu alvo. Se ele não estiver segurando nenhuma arma, ele potencialmente cai <LSTag Type=""Status"" Tooltip=""PRONE"">Amedrontado</LSTag> em vez disso."
+Ursine Devastation,Devastação Ursina
+"Pounce upon your targets, possibly inflicting <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag> on any enemies caught under your weight.","Salte sobre seus alvos, possivelmente infligindo <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag> em qualquer inimigo que ficar sob seu peso."
+Dilophosaurus Companion,Companheiro Dilofossauro
+"Summon a dilophosaurus that can <LSTag Type=""Spell"" Tooltip=""Projectile_CorrosiveSpit_Dilophosaurus"">Spew Acid</LSTag> at its enemies.","Convoque um dilofossauro que pode <LSTag Type=""Spell"" Tooltip=""Projectile_CorrosiveSpit_Dilophosaurus"">Expel Ácido</LSTag> em seus inimigos."
+Pounce,Salto
+"Pounce at an enemy, lashing it with your claws.","Atire-se em um inimigo, golpeando-o com suas garras."
+Disarming Bite,Mordida Desarmante
+"Clamp your jaws down tight on a creatures arm, potentially <LSTag Type=""Status"" Tooltip=""DISARMED"">Disarming</LSTag> them.","Morda com força o braço de uma criatura, potencialmente <LSTag Type=""Status"" Tooltip=""DISARMED"">Desarmando</LSTag>-a."
+Dire Raven Companion,Corvo Sombrio Companheiro
+"Summon a dire raven that can fly and <LSTag Type=""Spell"" Tooltip=""Target_RendVision_Raven_Summon"">Blind</LSTag> its enemies.","Convoque um corvo aterrador que pode voar e <LSTag Type=""Spell"" Tooltip=""Target_RendVision_Raven_Summon"">Cegar</LSTag> seus inimigos."
+Dire Wolf Companion,Lobo Dire Companheiro
+"Summon a wolf that can inflict devastating wounds and rally the party to move forward with its <LSTag Type=""Spell"" Tooltip=""Shout_PackHowl_Wolf_Dire"">Howl</LSTag>.","Convoque um lobo que pode infligir feridas devastadoras e reunir o grupo para avançar com seu <LSTag Type=""Spell"" Tooltip=""Shout_PackHowl_Wolf_Dire"">Uivo</LSTag>."
+Howl of the Pack,Uivo da Matilha
+Summon an additional Wolf to help you in combat.,Convoque um Lobo adicional para te ajudar em combate.
+Giant Spider Companion,Companheiro Aranha Gigante
+"Summon a giant spider that can shoot <LSTag Type=""Spell"" Tooltip=""Target_Web_Spider_Summon"">Webs</LSTag> and <LSTag Type=""Status"" Tooltip=""POISONED"">Poison</LSTag> enemies with its <LSTag Type=""Spell"" Tooltip=""Target_Bite_GiantSpider_Wildshape"">Bite</LSTag>.","Convoque uma aranha gigante que pode disparar <LSTag Type=""Spell"" Tooltip=""Target_Web_Spider_Summon"">Teias</LSTag> e <LSTag Type=""Status"" Tooltip=""POISONED"">Envenenar</LSTag> inimigos com sua <LSTag Type=""Spell"" Tooltip=""Target_Bite_GiantSpider_Wildshape"">Mordida</LSTag>."
+Eagle Eyed,Coração de Águia
+"When dealing damage, you ignore all forms of physical <LSTag Tooltip=""Resistant"">Resistances</LSTag>.","Ao causar dano, você ignora todas as <LSTag Tooltip=""Resistant"">Resistências</LSTag> físicas."
+Natural Marksman,Atirador Natural
+"When you deal damage with a weapon, you have a chance to leave the target <LSTag Type=""Status"" Tooltip=""CRIPPLED"">Crippled</LSTag>.","Ao causar dano com uma arma, você tem a chance de deixar o alvo <LSTag Type=""Status"" Tooltip=""CRIPPLED"">Crippled</LSTag>."
+Gain the ability to target two creatures standing within [1] of each other.,Ganhe a habilidade de mirar em duas criaturas que estão a [1] de distância uma da outra.
+Horde Breaker (Melee),Quebra-Horda (Corpo a Corpo)
+Horde Breaker (Ranged),Quebra-Horda (À Distância)
+"Target two creatures standing close to each other. Attack the first creature and then gain the ability to make an additional <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> against the second as a free action.","Alvo duas criaturas próximas uma da outra. Ataque a primeira criatura e, em seguida, ganhe a habilidade de fazer uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> adicional contra a segunda como uma ação gratuita."
+Horde Breaker,Quebra-Horda
+"Affected creature is open to an additional, free attack from the Ranger who applied this status.",A criatura afetada está aberta a um ataque adicional e gratuito do Ranger que aplicou este status.
+Marksman's Eye,Olho do Atirador
+"<LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> made against <LSTag Type=""Status"" Tooltip=""CRIPPLED"">Crippled</LSTag> targets are rolled with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","<LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> feitas contra alvos <LSTag Type=""Status"" Tooltip=""CRIPPLED"">Aleijados</LSTag> são roladas com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+Volley,Golpe do Zéfiro
+"Loose a volley of arrows within an area, making separate <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against each target. ","Dispare uma salva de flechas em uma área, fazendo <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> separadas contra cada alvo."
+Whirlwind,Furacão
+"Strike out at all nearby foes, making separate <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against each target. ","Ataque todos os inimigos próximos, fazendo <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> separadas contra cada alvo."
+Marksman's Skill,Habilidade do Atirador
+"Damage is rolled against <LSTag Type=""Status"" Tooltip=""CRIPPLED"">Crippled</LSTag> targets with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","O dano é rolado contra alvos <LSTag Type=""Status"" Tooltip=""CRIPPLED"">Aleijados</LSTag> com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+"While wielding a Ranged weapon, when an enemy makes an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> against an ally within [1], you may spend your <LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">Reaction</LSTag> in order to make a <LSTag Tooltip=""RangedWeaponAttack"">Ranged Weapon Attack</LSTag> against them.","Enquanto empunha uma arma à distância, quando um inimigo faz uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> contra um aliado dentro de [1], você pode gastar sua <LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">reação</LSTag> para fazer um <LSTag Tooltip=""RangedWeaponAttack"">Ataque à Distância</LSTag> contra ele."
+Opportune Shot,Disparo Oportuno
+"While wielding a Ranged weapon, when an enemy makes an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> against an ally within [1], make a <LSTag Tooltip=""RangedWeaponAttack"">Ranged Weapon Attack</LSTag> against them.","Enquanto empunha uma arma de longo alcance, quando um inimigo faz uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> contra um aliado dentro de [1], faça uma <LSTag Tooltip=""RangedWeaponAttack"">Rolagem de Ataque à Distância</LSTag> contra ele."
+Gloomstalker's Initiative,Iniciativa do Caçador das Sombras
+"Gain a +[1] bonus to Initiative. In addition, you are able to see in the dark up to [2].","Ganha um bônus de +[1] em Iniciativa. Além disso, você consegue ver no escuro até [2]."
+"Once per combat, you may make a weapon attack which will always roll as a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>.","Uma vez por combate, você pode fazer um ataque com arma que sempre rolará como um <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>."
+Dread Shot,Tiro Aterrorizante
+"Affected creature can make a weapon attack which guarantees a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>.","A criatura afetada pode fazer um ataque com arma que garante um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag>."
+Dread Shot (Melee),Golpe Aterrorizante (Corpo a Corpo)
+Dread Shot (Ranged),Disparo Aterrorizante (À Distância)
+"Ambush a target with an additional swift and precise weapon attack. This attack will always roll as a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>.","Embosque um alvo com um ataque de arma adicional rápido e preciso. Este ataque sempre rolará como um <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>."
+"Upon failing an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>, you may spend your <LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">Reaction</LSTag> in order to turn it into a success.","Ao falhar em uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>, você pode gastar sua <LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">reação</LSTag> para transformá-la em um sucesso."
+Gloomstalker's Deceit,Engano do Caçador das Sombras
+"Upon failing an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>, turn it into a success.","Ao falhar em uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>, transforme-a em um sucesso."
+Dread Fletched,Fletchada do Medo
+"When rolling a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag> against a target, you may also cause them to become <LSTag Type=""Status"" Tooltip=""FEARED"">Terrified</LSTag> for one turn.","Ao rolar um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag> contra um alvo, você pode também fazê-lo ficar <LSTag Type=""Status"" Tooltip=""FEARED"">Aterrorizado</LSTag> por um turno."
+Gloomstalker's Cruelty,Crueldade do Caçador das Sombras
+"<LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> made against a <LSTag Type=""Status"" Tooltip=""FEARED"">Terrified</LSTag> target will always roll as a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>.","<LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> feitas contra um alvo <LSTag Type=""Status"" Tooltip=""FEARED"">Aterrorizado</LSTag> sempre rolarão como um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag>."
+"On the first turn of combat, every successful <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> will be rolled as a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>.","No primeiro turno de combate, toda <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> bem-sucedida será considerada um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag>."
+Dread Ambusher,Emboscador do Medo
+"Affected creature will roll every successful <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> as a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>.","A criatura afetada rolará todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> bem-sucedidas como um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag>."
+Nevermore,Nunca Mais
+You will not provoke attacks of opportunity. ,Você não provocará ataques de oportunidade.
+Netherese Plumes,Plumas Netherese
+"Create a pocket of darkness, <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinding</LSTag> all who enter.","Crie um pocket de escuridão, <LSTag Type=""Status"" Tooltip=""BLINDED"">Cegando</LSTag> todos que entrarem."
+Disengage,Desengajar
+"Damage dealt by your Ranger Companion is rolled with <LSTag Tooltip=""Advantage"">Advantage</LSTag>. However, <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> made against them are rolled with Advantage as well. This can be toggled at any time.","O dano causado pelo seu Companheiro Ranger é rolado com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>. No entanto, <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> feitas contra eles também são roladas com Vantagem. Isso pode ser ativado ou desativado a qualquer momento."
+Spear of the Wildfront,Lança da Fronteira Selvagem
+"Affected creature has <LSTag Tooltip=""Advantage"">Advantage</LSTag> when rolling for damage. However, enemies also have Advantage when making <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against it.","A criatura afetada tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> ao rolar para dano. No entanto, os inimigos também têm Vantagem ao fazer <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra ela."
+"When you or your Ranger Companion <LSTag Type=""Spell"" Tooltip=""Shout_Dash"">Dash</LSTag> or <LSTag Type=""Spell"" Tooltip=""Shout_Disengage"">Disengage</LSTag>, the other will do so as well. Your Ranger Companion must be within [1] of you to receive this effect.","Quando você ou seu Companheiro Ranger <LSTag Type=""Spell"" Tooltip=""Shout_Dash"">Correr</LSTag> ou <LSTag Type=""Spell"" Tooltip=""Shout_Disengage"">Desengajar</LSTag>, o outro também o fará. Seu Companheiro Ranger deve estar dentro de [1] de você para receber esse efeito."
+Beastial Expertise,Especialização Bestial
+"Affected creature will <LSTag Type=""Spell"" Tooltip=""Shout_Dash"">Dash</LSTag> and <LSTag Type=""Spell"" Tooltip=""Shout_Disengage"">Disengage</LSTag> alongside its summoning Ranger while remaining within [1] of them.","A criatura afetada irá <LSTag Type=""Spell"" Tooltip=""Shout_Dash"">Correr</LSTag> e <LSTag Type=""Spell"" Tooltip=""Shout_Disengage"">Desengajar</LSTag> ao lado de seu Ranger invocador enquanto permanecer dentro de [1] dele."
+Your Ranger Companions may make an additional free attack each turn.,Seus Companheiros Ranger podem fazer um ataque adicional gratuito a cada turno.
+Beastial Fury,Fúria Bestial
+Affected creature may make an additional free attack each turn.,A criatura afetada pode fazer um ataque adicional gratuito a cada turno.
+Fleetfoot Companionship,Companheirismo Ágil
+"Gain the ability to use a <LSTag Tooltip=""Bonus_Action"">Bonus Action</LSTag> to force another creature to <LSTag Type=""Spell"" Tooltip=""Shout_Dash"">Dash</LSTag> or <LSTag Type=""Spell"" Tooltip=""Shout_Disengage"">Disengage</LSTag>.","Ganhe a habilidade de usar uma <LSTag Tooltip=""Bonus_Action"">Ação Bônus</LSTag> para forçar outra criatura a <LSTag Type=""Spell"" Tooltip=""Shout_Dash"">Correr</LSTag> ou <LSTag Type=""Spell"" Tooltip=""Shout_Disengage"">Desengajar</LSTag>."
+Fleetfoot Companionship: Dash,Companheirismo Ágil: Correr
+"Force another creature to <LSTag Type=""Status"" Tooltip=""DASH"">Dash</LSTag>.","Force outra criatura a <LSTag Type=""Status"" Tooltip=""DASH"">Dash</LSTag>."
+Fleetfoot Companionship: Disengage,Companheirismo Ágil: Desengajar
+"Force another creature to <LSTag Type=""Status"" Tooltip=""DISENGAGE"">Disengage</LSTag>.","Force outra criatura a <LSTag Type=""Status"" Tooltip=""DISENGAGE"">Desengajar</LSTag>."
+"When dealing damage, your Ranger Companions ignore all forms of physical <LSTag Tooltip=""Resistant"">Resistances</LSTag>.","Ao causar dano, seus Companheiros Ranger ignoram todas as <LSTag Tooltip=""Resistant"">Resistências</LSTag> a dano físico."
+Beastial Sight,Visão Bestial
+"Affected creature ignores all forms of physical <LSTag Tooltip=""Resistant"">Resistances</LSTag>.","A criatura afetada ignora todas as formas de <LSTag Tooltip=""Resistant"">Resistências</LSTag> físicas."
+"While within [1] of your Ranger Companion, you both gain a +1d4 bonus to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Enquanto estiver a [1] do seu Companheiro Ranger, vocês dois ganham um bônus de +1d4 em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>."
+"Affected creature is providing their summoning Ranger with a +1d4 bonus to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> while remaining within [1] of them.","A criatura afetada está fornecendo ao seu Ranger convocador um bônus de +1d4 em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> enquanto permanecer dentro de [1] deles."
+Woodland Synergy,Sinergia da Floresta
+"Affected creature has a +1d4 bonus to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> while remaining within [1] of their Ranger Companion.","A criatura afetada tem um bônus de +1d4 em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> enquanto permanecer dentro de [1] de seu Companheiro Ranger."
+Beastial Bonds,Vínculos Bestiais
+Affected creature is benefiting from one or more passives provided by its summoning Ranger.,A criatura afetada está se beneficiando de um ou mais passivos fornecidos pelo seu Patrulheiro convocador.
+Frontier Accolades,"Ganhe <LSTag Type=""Spell"" Tooltip=""Zone_Accolades_Frontier"">Fronteira: Condecorações</LSTag>."
+Your skills lay bare an expanse of improvement.<br>Expertise which has thrived uncontested upon an untamed fringe.,Suas habilidades revelam uma vasta área de melhoria.<br>Especialização que prosperou sem contestação em uma borda indomada.
+"Select from a variety of special arrows. These arrows are fired using your <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Natural Focus</LSTag>.","Selecione entre uma variedade de flechas especiais. Essas flechas são disparadas usando seu <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Foco Natural</LSTag>."
+Ambush Breaker,Quebra-Ambush
+"Gain a +4 bonus to your Initiative. You can no longer be <LSTag Type=""Status"" Tooltip=""SURPRISED"">Surprised</LSTag>.","Ganhe um bônus de +4 na sua Iniciativa. Você não pode mais ser <LSTag Type=""Status"" Tooltip=""SURPRISED"">Surprised</LSTag>."
+Archer,Arqueiro
+"Gain a +2 bonus to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> made with <LSTag Tooltip=""RangedWeaponAttack"">Ranged Weapon Attacks</LSTag>.","Ganhe um bônus de +2 em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> feitas com <LSTag Tooltip=""RangedWeaponAttack"">Ataques à Distância</LSTag>."
+Beastial Foresight,Previsão Bestial
+"While not combat, you may summon your Ranger Companion without consuming charges of <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Natural Focus</LSTag>.","Enquanto não estiver em combate, você pode convocar seu Companheiro Ranger sem consumir cargas de <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Foco Natural</LSTag>."
+"Your Ranger Companions receive a +2 bonus to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>.","Seus Companheiros Ranger recebem um bônus de +2 em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>."
+Beastbond's Precision,Precisão do Vínculo Bestial
+"Affected creature has a +2 bonus to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>.","A criatura afetada tem um bônus de +2 em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>."
+"Your Ranger Companion becomes <LSTag Tooltip=""Resistant"">Resistant</LSTag> to all forms of physical damage.","Seu Companheiro Ranger fica <LSTag Tooltip=""Resistant"">Resistente</LSTag> a todas as formas de dano físico."
+Blood Bond,Vínculo de Sangue
+"Affected creature has become <LSTag Tooltip=""Resistant"">Resistant</LSTag> to all forms of physical damage.","A criatura afetada se tornou <LSTag Tooltip=""Resistant"">Resistente</LSTag> a todas as formas de dano físico."
+Close Quarters Shooter,Atirador em Combate Corpo a Corpo
+"While <LSTag Type=""Status"" Tooltip=""FLANKED"">Threatened</LSTag> by one enemy, you will not receive <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on ranged attacks when attacking them, and all <LSTag Tooltip=""RangedWeaponAttack"">Ranged Weapon Attacks</LSTag> roll their damage with <LSTag Tooltip=""Advantage"">Advantage</LSTag> for as long as you remain Threatened. If Threatened by two or more enemies, standard rules will apply to your accuracy.","Enquanto <LSTag Type=""Status"" Tooltip=""FLANKED"">Ameaçado</LSTag> por um inimigo, você não receberá <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em ataques à distância ao atacá-lo, e todos os <LSTag Tooltip=""RangedWeaponAttack"">Ataques com Armas à Distância</LSTag> rolam seu dano com <LSTag Tooltip=""Advantage"">Vantagem</LSTag> enquanto você permanecer Ameaçado. Se Ameaçado por dois ou mais inimigos, as regras padrão se aplicarão à sua precisão."
+Escapist,Fugido
+"You no longer provoke <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>.","Você não provoca mais <LSTag Tooltip=""OpportunityAttack"">Ataques de Oportunidade</LSTag>."
+Hidden Inventory,Inventário Oculto
+"Once per turn, upon landing a killing blow or <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>, restore one charge of your <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Natural Focus</LSTag>.","Uma vez por turno, ao desferir um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag> ou um golpe fatal, restaure uma carga do seu <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Foco Natural</LSTag>."
+Marksman's Edge,Aperfeiçoamento do Atirador
+"When you deal damage with a weapon, you have a chance to leave the target <LSTag Type=""Status"" Tooltip=""BLEEDING"">Bleeding</LSTag>.","Ao causar dano com uma arma, você tem a chance de deixar o alvo <LSTag Type=""Status"" Tooltip=""BLEEDING"">Bleeding</LSTag>."
+Marksman's Snare,Armadilha do Atirador
+"When you deal damage with a weapon, you have a chance to leave the target <LSTag Type=""Status"" Tooltip=""HAMSTRING"">Hamstrung</LSTag>.","Ao causar dano com uma arma, você tem a chance de deixar o alvo <LSTag Type=""Status"" Tooltip=""HAMSTRING"">Hamstrung</LSTag>."
+"When an enemy attacks you, they have <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on any additional <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against you until the start of their next turn.","Quando um inimigo ataca você, ele tem <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em qualquer <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> adicional contra você até o início de seu próximo turno."
+Multi-Attack Defence,Defesa de Ataque Múltiplo
+"Affected creature has <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> made against the attacked Ranger who possesses this passive.","A criatura afetada tem <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> feitas contra o Ranger atacado que possui essa passiva."
+Natural Huntsman,Caçador Natural
+"Making an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> gives you a +2 bonus to additional Attack Rolls for the rest of your turn. This effect can stack.","Fazer uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> concede a você um bônus de +2 a Rolagens de Ataque adicionais pelo resto do seu turno. Esse efeito pode se acumular."
+Natural Opportunity,Oportunidade Natural
+"Gain an additional <LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">Reaction</LSTag>.","Ganhe uma <LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">reação</LSTag> adicional."
+Pathfinder,Caminho do Guerreiro
+"Your <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> is increased by [1] for both you and your Ranger Companion.","Sua <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> é aumentada em [1] tanto para você quanto para seu Companheiro Ranger."
+"Your Ranger Companions receive a +2 bonus to their <LSTag Tooltip=""ArmourClass"">Armour Class</LSTag>.","Seus Companheiros Ranger recebem um bônus de +2 em sua <LSTag Tooltip=""ArmourClass"">Classe de Armadura</LSTag>."
+Protective Bond,Vínculo Protetor
+"Affected creature has a +2 bonus to their <LSTag Tooltip=""ArmourClass"">Armour Class</LSTag>.","A criatura afetada tem um bônus de +2 em sua <LSTag Tooltip=""ArmourClass"">Classe de Armadura</LSTag>."
+"Upon missing an attack, gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> for the rest of your turn.","Ao errar um ataque, ganhe <LSTag Tooltip=""Advantage"">Vantagem</LSTag> nas <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> pelo restante do seu turno."
+Rangers Refusal,Recusa do Ranger
+"Affected creature has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> until the end of their turn.","A criatura afetada tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> nas <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> até o final de seu turno."
+Superior Technique,Técnica Superior
+"When dealing damage, you ignore Piercing <LSTag Tooltip=""Resistant"">Resistance</LSTag>.","Ao causar dano, você ignora todas as <LSTag Tooltip=""Resistant"">Resistências</LSTag> a dano Perfurante."
+Sure Shot,Tiro Certeiro
+"The number needed to land a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag> while making a <LSTag Tooltip=""RangedWeaponAttack"">Ranged Weapon Attack</LSTag> is reduced by 1.","O número necessário para desferir um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag> ao realizar uma <LSTag Tooltip=""RangedWeaponAttack"">Ataque à Distância</LSTag> é reduzido em 1."
+Two-Weapon Fighting,Luta com Duas Armas
+"<LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> and damage rolls made with your off-hand weapon are rolled with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","As <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> e rolagens de dano feitas com sua arma na mão secundária são roladas com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+"Once per turn, upon landing a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag>, your Ranger Companion's next instance of damage will also be a Critical Hit. Your Ranger Companion must be within [1] of you to receive this effect.","Uma vez por turno, ao acertar um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag>, a próxima instância de dano do seu Companheiro Ranger também será um Acerto Crítico. Seu Companheiro Ranger deve estar dentro de [1] de você para receber esse efeito."
+Wanton Synergy,Sinergia Desenfreada
+"Affected creature will land a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag> the next time that they deal damage.","A criatura afetada realizará um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag> na próxima vez que causar dano."
+Frontier Ballistics,"Ganhe <LSTag Type=""Spell"" Tooltip=""Target_OpeningAttack_Frontier"">Fronteira: Balística</LSTag>."
+"Use your <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Natural Focus</LSTag> to fire various types of unique arrows.","Use seu <LSTag Type=""ActionResource"" Tooltip=""NaturalRecoveryPoint"">Foco Natural</LSTag> para disparar vários tipos de flechas únicas."
+Arrow of Aberration Slaying,Flecha de Aniquilação de Aberrações
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfAberrationSlaying"">Arrow of Aberration Slaying</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfAberrationSlaying"">Flecha de Abate de Aberrações</LSTag>."
+Arrow of Acid,Flecha Ácida
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfAcid"">Arrow of Acid</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfAcid"">Flecha Ácida</LSTag>."
+Arrow of Arcane Interference,Flecha de Interferência Arcana
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfAntimagic"">Arrow of Arcane Interference</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfAntimagic"">Flecha de Interferência Arcana</LSTag>."
+Arrow of Beast Slaying,Flecha de Extermínio de Bestas
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfBeastSlaying"">Arrow of Beast Slaying</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfBeastSlaying"">Flecha de Extermínio de Bestas</LSTag>."
+Arrow of Construct Slaying,Flecha de Aniquilação de Construtos
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfConstructSlaying"">Arrow of Construct Slaying</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfConstructSlaying"">Flecha de Aniquilação de Construtos</LSTag>."
+Arrow of Darkness,Flecha da Escuridão
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfDarkness"">Arrow of Darkness</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfDarkness"">Flecha das Trevas</LSTag>."
+Arrow of Dispelling,Flecha de Dissipação
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfDispelling"">Arrow of Dispelling</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfDispelling"">Flecha de Dissipação</LSTag>."
+Arrow of Elemental Slaying,Flecha de Extermínio Elemental
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfElementalSlaying"">Arrow of Elemental Slaying</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfElementalSlaying"">Flecha de Aniquilação Elemental</LSTag>."
+Arrow of Fiend Slaying,Flecha de Extermínio de Fiend
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfFiendSlaying"">Arrow of Fiend Slaying</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfFiendSlaying"">Flecha de Extermínio de Fiend</LSTag>."
+Arrow of Fire,Flecha de Fogo
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfFire"">Arrow of Fire</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfFire"">Flecha de Fogo</LSTag>."
+Arrow of Humanoid Slaying,Flecha de Extermínio de Humanoides
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfHumanoidSlaying"">Arrow of Humanoid Slaying</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfHumanoidSlaying"">Flecha de Morte Humanoide</LSTag>."
+Arrow of Ice,Seta de Gelo
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfIce"">Arrow of Ice</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfIce"">Seta de Gelo</LSTag>."
+Arrow of Ilmater,Flecha de Ilmater
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfWraithsEmbrace"">Arrow of Ilmater</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfWraithsEmbrace"">Flecha do Abraço de Ilmater</LSTag>."
+Arrow of Lightning,Flecha de Relâmpago
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfLightning"">Arrow of Lightning</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfLightning"">Flecha de Relâmpago</LSTag>."
+Arrow of Many Targets,Flecha de Muitos Alvos
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfRicochet"">Arrow of Many Targets</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfRicochet"">Flecha de Muitos Alvos</LSTag>."
+Arrow of Monstrosity Slaying,Flecha de Extermínio de Monstruosidade
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfMonstrositySlaying"">Arrow of Monstrosity Slaying</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfMonstrositySlaying"">Flecha de Extermínio de Monstruosidade</LSTag>."
+Arrow of Piercing,Flecha Perfurante
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfPiercing"">Arrow of Piercing</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfPiercing"">Flecha Perfurante</LSTag>."
+Arrow of Roaring Thunder,Flecha do Trovão Rugidor
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfDetonation"">Arrow of Roaring Thunder</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfDetonation"">Flecha do Trovão Rugidor</LSTag>."
+Arrow of Teleportation,Flecha de Teleportação
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfTeleportation"">Arrow of Teleportation</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfTeleportation"">Flecha de Teleportação</LSTag>."
+Arrow of Undead Slaying,Flecha de Extermínio de Mortos-Vivos
+"Gain the ability to fire an <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfUndeadSlaying"">Arrow of Undead Slaying</LSTag>.","Ganhe a habilidade de disparar uma <LSTag Type=""Spell"" Tooltip=""Projectile_ArrowOfUndeadSlaying"">Flecha de Extermínio de Mortos-Vivos</LSTag>."

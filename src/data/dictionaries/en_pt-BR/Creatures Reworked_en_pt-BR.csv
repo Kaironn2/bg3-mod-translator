@@ -1,0 +1,128 @@
+en,pt-BR
+HERO,HERO
+HEROFORHEALTHSCALING,HERÓI PARA ESCALONAMENTO DE VIDA
+Elven Enlightenment,Iluminação Élfica
+"Gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on all Wisdom based <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Ganhe <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em todos os <LSTag Tooltip=""Wisdom"">Testes de Sabedoria</LSTag> baseados em <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>."
+Elven Haste,Aceleração Élfica
+"Your <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> is increased by [1].","Sua <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> é aumentada em [1]."
+Breath of Nessus,Sopro de Nessus
+"Gain basic <LSTag Type=""Status"" Tooltip=""DARKVISION"">Darkvision</LSTag> and the ability to cast <LSTag Type=""Spell"" Tooltip=""Projectile_ScorchingRay_AsmodeusTiefling"">Scorching Ray</LSTag> once per combat.","Ganhe <LSTag Type=""Status"" Tooltip=""DARKVISION"">Visão no Escuro</LSTag> básica e a habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Projectile_ScorchingRay_AsmodeusTiefling"">Raio Escaldante</LSTag> uma vez por combate."
+Asmodeus: Scorching Ray,Asmodeus: Braços de Hadar
+Boon of the Archdevil,Bênção do Arcanjo Infernal
+"Gain basic <LSTag Type=""Status"" Tooltip=""DARKVISION"">Darkvision</LSTag> and the ability to cast <LSTag Type=""Spell"" Tooltip=""Zone_BurningHands_MephistophelesTiefling"">Burning Hands</LSTag> once per combat.","Ganhe <LSTag Type=""Status"" Tooltip=""DARKVISION"">Visão no Escuro</LSTag> básica e a habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Zone_BurningHands_MephistophelesTiefling"">Mãos Ardentes</LSTag> uma vez por combate."
+Mephistopheles: Burning Hands,Mefistófeles: Mãos Ardentes
+Rage of Zariel,Fúria de Zariel
+"Gain basic <LSTag Type=""Status"" Tooltip=""DARKVISION"">Darkvision</LSTag> and the ability to cast <LSTag Type=""Spell"" Tooltip=""Target_HeatMetal_ZarielTiefling"">Heat Metal</LSTag> once per combat.","Ganhe <LSTag Type=""Status"" Tooltip=""DARKVISION"">Visão no Escuro</LSTag> básica e a habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Target_HeatMetal_ZarielTiefling"">Metálico Quente</LSTag> uma vez por combate."
+Zariel: Heat Metal,Zariel: Aquecer Metal
+Lolth-Sworn Faith,Fé Jurada a Lolth
+"Gain <LSTag Type=""Passive"" Tooltip=""SuperiorDarkvision"">Superior Darkvision</LSTag>, the ability to see within magical darkness, and the ability to cast <LSTag Type=""Spell"" Tooltip=""Target_Silence_Lolth"">Silence</LSTag> once per combat. Your time in the underdark has left your eyes sensitive to the light, and as such, while in direct light you will suffer <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>. However, while shrouded in total darkness, you will instead roll with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","Ganhe <LSTag Type=""Passive"" Tooltip=""SuperiorDarkvision"">Visão no Escuro Superior</LSTag>, a habilidade de ver dentro da escuridão mágica, e a habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Target_Silence_Lolth"">Silêncio</LSTag> uma vez por combate. Seu tempo no submundo deixou seus olhos sensíveis à luz, e assim, enquanto estiver sob luz direta, você sofrerá <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>. No entanto, enquanto estiver envolto em total escuridão, você rolará com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+Lolth Sworn: Silence,Loyal a Lolth: Silêncio
+Absolute Vision,Visão Absoluta
+"Your vision has been blessed by the Absolute, nullifying your natural aversion to light.","Sua visão foi abençoada pelo Absoluto, anulando sua aversão natural à luz."
+Seldarine Faith,Fé Seldarine
+"Gain <LSTag Type=""Passive"" Tooltip=""SuperiorDarkvision"">Superior Darkvision</LSTag>, the ability to see within magical darkness, and the ability to cast <LSTag Type=""Spell"" Tooltip=""Target_MistyStep_Seldarine"">Misty Step</LSTag> once per combat. Your time in the underdark has left your eyes sensitive to the light, and as such, while in direct light you will suffer <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>. However, while shrouded in total darkness, you will instead roll with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","Ganhe <LSTag Type=""Passive"" Tooltip=""SuperiorDarkvision"">Visão Superior no Escuro</LSTag>, a habilidade de ver dentro da escuridão mágica, e a habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Target_MistyStep_Seldarine"">Passo Nebuloso</LSTag> uma vez por combate. Seu tempo no submundo deixou seus olhos sensíveis à luz, e assim, enquanto estiver em luz direta, você sofrerá <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>. No entanto, enquanto estiver envolto em total escuridão, você rolará com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+Seldarine: Misty Step,Seldarine: Passo Nebuloso
+Human Ambition,Ambição Humana
+Gain a +4 bonus to Initiative.,Ganha um bônus de +4 em Iniciativa.
+Astral Warrior,Guerreiro Astral
+"Gain a +1 bonus to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>.","Ganhe um bônus de +1 à sua <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>."
+Heritage of the Arsenal,Herança do Arsenal
+Gain a +2 bonus to all damage dealt with weapons.,Ganhe um bônus de +2 em todo dano causado com armas.
+Heritage of the Armoury,Herança da Arsenale
+Reduce all damage taken by 2.,Reduza todo o dano recebido em 2.
+Duergar Conditioning,Condicionamento Duergar
+"Gain <LSTag Type=""Passive"" Tooltip=""SuperiorDarkvision"">Superior Darkvision</LSTag>, the ability to see within magical darkness, and the ability to cast <LSTag Type=""Spell"" Tooltip=""Shout_Enlarge_Duergar"">Enlarge</LSTag> once per combat. Your time in the underdark has left your eyes sensitive to the light, and as such, while in direct light you will suffer <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>. However, while shrouded in total darkness, you will instead roll with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","Ganhe <LSTag Type=""Passive"" Tooltip=""SuperiorDarkvision"">Visão Superior no Escuro</LSTag>, a habilidade de ver dentro da escuridão mágica, e a habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Shout_Enlarge_Duergar"">Aumentar</LSTag> uma vez por combate. Seu tempo no submundo deixou seus olhos sensíveis à luz, e, como tal, enquanto estiver em luz direta, você sofrerá <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>. No entanto, enquanto estiver envolto em escuridão total, você rolará com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+Duergar: Enlarge,Duergar: Aumentar
+"Make yourself larger. Your weapon and unarmed attacks deal an additional +[1] damage. You have <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Strength <LSTag Tooltip=""AbilityCheck"">Checks</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Aumente seu tamanho. Suas armas e ataques desarmados causam um adicional de +[1] de dano. Você tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""Strength"">Testes de Força</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>."
+Half-Blood's Enlightenment,Iluminação do Meio-Sangue
+"Gain a +2 bonus to Initiative, as well as <LSTag Tooltip=""Advantage"">Advantage</LSTag> on all Wisdom based <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","Ganhe um bônus de +2 na Iniciativa, além de <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em todos os <LSTag Tooltip=""Wisdom"">Testes de Sabedoria</LSTag> baseados em <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Half-Blood's Haste,Aceleração do Meio-Sangue
+"Gain a +2 bonus to Initiative, as well as [1] of additional <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag>.","Ganhe um bônus de +2 em Iniciativa, além de [1] de <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> adicional."
+Half-Blood's Faith,Fé do Meio-Sangue
+"Gain a +2 bonus to Initiative, as well as basic <LSTag Type=""Status"" Tooltip=""DARKVISION"">Darkvision</LSTag>.","Ganhe um bônus de +2 na Iniciativa, além de <LSTag Type=""Status"" Tooltip=""DARKVISION"">Visão no Escuro</LSTag> básica."
+Lightfoot Cunning,A astúcia leve do pé.
+"Gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on all Dexterity based <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Ganhe <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em todos os <LSTag Tooltip=""Dexterity"">Testes de Destreza</LSTag> baseados em <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>."
+Strength of the Strongheart,Força do Coração Valente
+"Gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on all Constitution based <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Ganhe <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em todos os <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> baseados em Constituição e <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Rock and Stone,Pedra e Rocha
+"Your <LSTag Tooltip=""ArmourClass"">Armour Class</LSTag> is increased by 1.","Sua <LSTag Tooltip=""ArmourClass"">Classe de Armadura</LSTag> é aumentada em 1."
+Forest Serenity,Serenidade da Floresta
+"Gain the ability to <LSTag Type=""Status"" Tooltip=""PETPAL"">Speak With Animals</LSTag> at all times, as well as the ability to cast <LSTag Type=""Spell"" Tooltip=""Target_DominateBeast_ForestGnome"">Dominate Beast</LSTag> once per combat.","Ganhe a habilidade de <LSTag Type=""Status"" Tooltip=""PETPAL"">Falar com Animais</LSTag> a qualquer momento, além da habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Target_DominateBeast_ForestGnome"">Dominar Fera</LSTag> uma vez por combate."
+Forest Gnome: Dominate Beast,Gnomo da Floresta: Dominar Besta
+Whispers of the Underdark,Sussurros do Subterrâneo
+"Gain <LSTag Type=""Passive"" Tooltip=""SuperiorDarkvision"">Superior Darkvision</LSTag>, the ability to see within magical darkness, and the ability to cast <LSTag Type=""Spell"" Tooltip=""Target_Invisibility_DeepGnome"">Invisibility</LSTag> once per combat. Your time in the underdark has left your eyes sensitive to the light, and as such, while in direct light you will suffer <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>. However, while shrouded in total darkness, you will instead roll with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","Ganhe <LSTag Type=""Passive"" Tooltip=""SuperiorDarkvision"">Visão no Escuro Superior</LSTag>, a habilidade de ver dentro da escuridão mágica, e a habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Target_Invisibility_DeepGnome"">Invisibilidade</LSTag> uma vez por combate. Seu tempo no submundo deixou seus olhos sensíveis à luz, e, como tal, enquanto estiver em luz direta, você sofrerá <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>. No entanto, enquanto estiver envolto em total escuridão, você rolará com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+Deep Gnome: Invisibility,Gnome Profundo: Invisibilidade
+"Turn yourself <LSTag Type=""Status"" Tooltip=""INVISIBILITY"">Invisible</LSTag>.","Vire-se <LSTag Type=""Status"" Tooltip=""INVISIBILITY"">Invisível</LSTag>."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> Condition ends early if you attack or cast a spell.","<LSTag Type=""Image"" Info=""SoftWarning""/> A condição termina antes do esperado se você atacar ou lançar um feitiço."
+Draconic Ancestry: Black,Ancestralidade Dracônica: Preto
+Draconic Ancestry: Blue,Ancestralidade Dracônica: Azul
+Draconic Ancestry: Brass,Ancestralidade Dracônica: Bronze
+Draconic Ancestry: Bronze,Ancestralidade Dracônica: Bronze
+"Gain <LSTag Tooltip=""Resistant"">Resistance</LSTag> to Lightning damage and the ability to spew <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Lightning"">Lightning Breath</LSTag>.","Ganhe <LSTag Tooltip=""Resistant"">Resistência</LSTag> a dano de Relâmpago e a habilidade de expelir <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Lightning"">Sopro de Relâmpago</LSTag>."
+Draconic Ancestry: Copper,Ancestralidade Dracônica: Cobre
+"Gain <LSTag Tooltip=""Resistant"">Resistance</LSTag> to Acid damage and the ability to spew <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Acid"">Acid Breath</LSTag>.","Ganhe <LSTag Tooltip=""Resistant"">Resistência</LSTag> a dano de Ácido e a habilidade de expelir <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Acid"">Sopro de Ácido</LSTag>."
+Draconic Ancestry: Gold,Ancestralidade Dracônica: Ouro
+Draconic Ancestry: Green,Ancestralidade Dracônica: Verde
+"Gain <LSTag Tooltip=""Resistant"">Resistance</LSTag> to Poison damage and the ability to spew <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Poison"">Poison Breath</LSTag>.","Ganhe <LSTag Tooltip=""Resistant"">Resistência</LSTag> a dano de Veneno e a habilidade de expelir <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Poison"">Sopro de Veneno</LSTag>."
+Draconic Ancestry: Red,Ancestralidade Dracônica: Vermelha
+"Gain <LSTag Tooltip=""Resistant"">Resistance</LSTag> to Fire damage and the ability to spew <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Fire_Cone"">Fire Breath</LSTag>.","Ganhe <LSTag Tooltip=""Resistant"">Resistência</LSTag> a dano de Fogo e a habilidade de expelir <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Fire_Cone"">Sopro de Fogo</LSTag>."
+Draconic Ancestry: Silver,Ancestralidade Dracônica: Prata
+Draconic Ancestry: White,Ancestralidade Dracônica: Branco
+"Gain <LSTag Tooltip=""Resistant"">Resistance</LSTag> to Cold damage and the ability to spew <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Cold"">Frost Breath</LSTag>.","Ganhe <LSTag Tooltip=""Resistant"">Resistência</LSTag> a dano Frio e a habilidade de expelir <LSTag Type=""Spell"" Tooltip=""Zone_BreathWeapon_Cold"">Sopro Congelante</LSTag>."
+Half-Blood's Vigor,Vigor do Meio-Sangue
+"Gain a +2 bonus to Initiative, as well as <LSTag Tooltip=""Advantage"">Advantage</LSTag> on all Strength based <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","Ganhe um bônus de +2 em Iniciativa, além de <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em todos os <LSTag Tooltip=""Strength"">Testes de Força</LSTag> baseados em <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Hell's Embrace,Abraço do Inferno
+"Gain basic <LSTag Type=""Status"" Tooltip=""DARKVISION"">Darkvision</LSTag> and the ability to cast <LSTag Type=""Spell"" Tooltip=""Projectile_FireBolt"">Firebolt</LSTag>.","Ganhe <LSTag Type=""Status"" Tooltip=""DARKVISION"">Visão no Escuro</LSTag> básica e a habilidade de lançar <LSTag Type=""Spell"" Tooltip=""Projectile_FireBolt"">Firebolt</LSTag>."
+Light Sensitivity: Unobscured,Sensibilidade à Luz: Não Obscurecida
+"Your time in the underdark has left your eyes sensitive to the light, and as such, while in unobscured areas you will suffer <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>.","Seu tempo no submundo deixou seus olhos sensíveis à luz, e, como tal, enquanto estiver em áreas desobstruídas, você sofrerá <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>."
+Light Sensitivity: Heavily Obscured,Sensibilidade à Luz: Severamente Ofuscado
+"Your time in the underdark has left your eyes accustomed to the dark, and as such, while in heavily obscured areas you will make all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","Seu tempo no submundo deixou seus olhos acostumados com a escuridão, e assim, enquanto estiver em áreas fortemente obscurecidas, você fará todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+Ship Wrecked,Naufragado
+"You are <LSTag Type=""Status"" Tooltip=""DAZED"">Dazed</LSTag> from the crash of the nautiloid.","Você está <LSTag Type=""Status"" Tooltip=""DAZED"">Dazed</LSTag> devido ao impacto do nautiloide."
+Dangerous Encounter,Encontro Perigoso
+"This creature is considered to be far more dangerous than what you typically encounter.<br><br>When recovering from a <LSTag Type=""Status"" Tooltip=""LOCKDOWN_CONDITION_DESCRIPTION"">Lockdown Condition</LSTag>, they gain status immunity to all lockdown conditions for three turns.","Esta criatura é considerada muito mais perigosa do que o que você normalmente encontra.<br><br>Ao se recuperar de uma <LSTag Type=""Status"" Tooltip=""LOCKDOWN_CONDITION_DESCRIPTION"">Condição de Bloqueio</LSTag>, eles ganham imunidade a todas as condições de bloqueio por três turnos."
+Fatal Encounter,Encontro Fatal
+"This creature exudes an aura of power. Encountering them in combat can easily prove fatal.<br><br>When recovering from a <LSTag Type=""Status"" Tooltip=""LOCKDOWN_CONDITION_DESCRIPTION"">Lockdown Condition</LSTag>, they gain status immunity to all lockdown conditions for three turns.","Esta criatura exala uma aura de poder. Encontrá-los em combate pode facilmente ser fatal.<br><br>Ao se recuperar de uma <LSTag Type=""Status"" Tooltip=""LOCKDOWN_CONDITION_DESCRIPTION"">Condição de Bloqueio</LSTag>, eles ganham imunidade a todas as condições de bloqueio por três turnos."
+Lockdown Immunity,Imunidade ao Bloqueio
+"Affected creature has status immunity to all <LSTag Type=""Status"" Tooltip=""LOCKDOWN_CONDITION_DESCRIPTION"">Lockdown Conditions</LSTag>.","A criatura afetada tem imunidade a todas as <LSTag Type=""Status"" Tooltip=""LOCKDOWN_CONDITION_DESCRIPTION"">Condições de Bloqueio</LSTag>."
+Lockdown Conditions,Condições de Bloqueio
+"Lockdown conditions consist of any status effects which would prevent a creature from taking their <LSTag Tooltip=""Action"">Action</LSTag>.","As condições de bloqueio consistem em quaisquer efeitos de status que impediriam uma criatura de realizar sua <LSTag Tooltip=""Action"">Ação</LSTag>."
+Constitution,Constituição
+Character Level,Nível do Personagem
+Hit Point Variance,Variação de Pontos de Vida
+Hellforged,Forjado no Inferno
+"As a creature of the Hells, you have a natural <LSTag Tooltip=""Resistant"">Resistance</LSTag> to fire.","Como uma criatura dos Infernos, você tem uma <LSTag Tooltip=""Resistant"">Resistência</LSTag> natural ao fogo."
+Psionic Protection,Proteção Psíquica
+"A psionic shield resonates within your mind, granting you <LSTag Tooltip=""Resistant"">Resistance</LSTag> to psychic damage.","Um escudo psíquico ressoa em sua mente, concedendo a você <LSTag Tooltip=""Resistant"">Resistência</LSTag> a dano psíquico."
+Unhinged Spellcasting,Conjuração de Feitiços Descontrolada
+"You wield your magic uncaring, and with especially unpredictable barbarity. When casting Spells, you have a high chance of experiencing a sudden surge of <LSTag Type=""Passive"" Tooltip=""WildMagic"">Wild Magic</LSTag>.","Você empunha sua magia sem se importar, e com uma brutalidade especialmente imprevisível. Ao conjurar Feitiços, você tem uma alta chance de experimentar uma súbita onda de <LSTag Type=""Passive"" Tooltip=""WildMagic"">Magia Selvagem</LSTag>."
+Worg Master,Mestre dos Worgs
+Gain the ability to summon a violent Worg companion. Your companion grows in strength alongside you as you level.,Ganhe a habilidade de invocar um companheiro Worg violento. Seu companheiro cresce em força junto com você à medida que você sobe de nível.
+Worg Companion,"Convoque um worg que pode <LSTag Type=""Spell"" Tooltip=""Shout_PackHowl_Worg"">Uivar</LSTag> para reunir seu grupo e atacar seus inimigos."
+Call forth a violent Worg to tear through your enemies.,Convoque um Worg violento para despedaçar seus inimigos.
+"As the leader of the pack, this creature will let out a desperate, rallying <LSTag Type=""Status"" Tooltip=""GOBLINWARCRY"">Warcry</LSTag> when beginning their turn with no <LSTag Tooltip=""TemporaryHitPoints"">Temporary Hit Points</LSTag>.","Como líder da matilha, esta criatura emitirá um <LSTag Type=""Status"" Tooltip=""GOBLINWARCRY"">Grito de Guerra</LSTag> desesperado e convocador ao começar seu turno sem <LSTag Tooltip=""TemporaryHitPoints"">Pontos de Vida Temporários</LSTag>."
+"Let out a desperate, rallying <LSTag Type=""Status"" Tooltip=""GOBLINWARCRY"">Warcry</LSTag> to embolden you and your allies.","Deixe escapar um <LSTag Type=""Status"" Tooltip=""GOBLINWARCRY"">Grito de Guerra</LSTag> desesperado e motivador para encorajar você e seus aliados."
+Reckless Warcry,Grito de Guerra Temerário
+Affected creature has gained [1].,"A criatura afetada ganhou <LSTag Type=""Status"" Tooltip=""INSPIRATION"">Inspiração</LSTag>."
+Hobgoblin Brutality,Brutalidade Hobgoblin
+"When dealing damage with a weapon, you deal an additional [1].","Ao causar dano com uma arma, você causa um dano adicional de [1]."
+Relentless Attacks,Ataques Implacáveis
+"You may make an additional weapon attack per turn, though the second attack is rolled with <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag>.","Você pode fazer um ataque adicional com arma por turno, embora o segundo ataque seja rolado com <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag>."
+Fury of the Small,Fúria dos Pequenos
+"When damaging a creature larger than you, you deal an additional [1].","Ao causar dano a uma criatura maior que você, você causa um adicional de [1]."
+Devour Intellect,Devorar Intelecto
+"Consume a creature's mind, dealing damage and reducing their Intelligence by [1]. If your targets Intelligence is below 4, it takes double the damage and is <LSTag Type=""Status"" Tooltip=""STUNNED"">Stunned</LSTag>.","Consuma a mente de uma criatura, causando dano e reduzindo sua Inteligência em [1]. Se a Inteligência do seu alvo estiver abaixo de 4, ele recebe o dobro do dano e fica <LSTag Type=""Status"" Tooltip=""STUNNED"">Atordoado</LSTag>."
+Devoured Mind,Mente Devorada
+Affected creatures Intelligence is reduced by [1].,A Inteligência das criaturas afetadas é reduzida em [1].
+Obdurate Flesh,Carne Obdurada
+"Your skin is nearly indomitable to standard methods of attack, providing natural <LSTag Tooltip=""Resistant"">Resistance</LSTag> to all forms of physical damage.","Sua pele é quase indomável a métodos padrão de ataque, proporcionando <LSTag Tooltip=""Resistant"">Resistência</LSTag> natural a todos os tipos de dano físico."
+Show of Strength,Demonstração de Força
+"When dealing damage, create a [1] shockwave which deals [2] and potentially forces your target back by [3].","Ao causar dano, crie uma [1] onda de choque que causa [2] e potencialmente empurra seu alvo para trás por [3]."
+Gain the ability to summon a skeletal beast companion. Your companion grows in strength alongside you as you level.,Ganhe a habilidade de invocar um companheiro esquelético. Seu companheiro cresce em força junto com você à medida que você sobe de nível.
+Beast Bones,Ossos Bestiais
+Call forth a skeletal beast to rip through your enemies.,Convoque uma besta esquelética para despedaçar seus inimigos.
+Weak Points,Pontos Fracos
+"When attacked from outside of it's view, this turret will shut down until the beginning of it's next turn.","Quando atacada de fora de sua visão, esta torre irá desligar até o início de seu próximo turno."
+Vengeful Guardian,Guardião Vingativo
+"When damaged, or upon witnessing the death of a family member, this Owlbear may become <LSTag Type=""Status"" Tooltip=""FOR_OWLBEAR_ENRAGE_HARDCORE"">Enraged</LSTag>.","Quando sofrer dano, ou ao testemunhar a morte de um membro da família, este Urso Coruja pode ficar <LSTag Type=""Status"" Tooltip=""FOR_OWLBEAR_ENRAGE_HARDCORE"">Enfurecido</LSTag>."
+"Affected creature is enraged! It has gained <LSTag Tooltip=""Resistant"">Resistance</LSTag> to all forms of damage and makes all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","A criatura afetada está enfurecida! Ela ganhou <LSTag Tooltip=""Resistant"">Resistência</LSTag> a todas as formas de dano e faz todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."

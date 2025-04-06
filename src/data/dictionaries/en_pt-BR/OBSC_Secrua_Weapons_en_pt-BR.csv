@@ -1,0 +1,31 @@
+en,pt-BR
+Secrua Weapons Box,Caixa de Armas Secrua
+Contains Secrua Weapons.,Contém Armas Secrua.
+Secrua's Greatness,Grandeza de Secrua
+Secrua's Сalmness,Calma de Secrua
+Secrua's Elegancy,Elegância de Secrua
+Secrua's Righteous Wrath,Ira Justa de Secrua
+"""Rest not until the Black Sun, harbinger of all that is ash and ruin, is righteously struck from the sky"".","""Não descanse até que o Sol Negro, arauto de tudo que é cinzas e ruína, seja justamente derrubado do céu."""
+Secrua's Mercy,Mercy de Secrua
+"""Daughter of the Sun blesses you, warrior. May our enemy falls, so the Sun could shine forever"".","""A Filha do Sol te abençoa, guerreiro. Que nosso inimigo caia, para que o Sol possa brilhar para sempre."""
+Sun Flame,Chama Solar
+Engulf a target in a sun radiance.,Engolfar um alvo em um brilho solar.
+Sun Legion Training,Treinamento da Legião do Sol
+"This weapon uses your <LSTag Tooltip=""SpellcastingAbilityModifier"">Spellcasting Ability Modifier</LSTag> for <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> and Damage.<br>You gain <LSTag Tooltip=""Proficiency"">Proficiency</LSTag> with this weapon while handle it.","Esta arma usa seu <LSTag Tooltip=""SpellcastingAbilityModifier"">Modificador de Habilidade de Magia</LSTag> para <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> e Dano.<br>Você ganha <LSTag Tooltip=""Proficiency"">Proficiência</LSTag> com esta arma enquanto a manuseia."
+Sun Legacy,Legado do Sol
+"Spew forth a conical wave of radiant energy and possibly <LSTag Type=""Status"" Tooltip=""STUNNED"">Stun</LSTag> targets within.","Libere uma onda cônica de energia radiante e possivelmente <LSTag Type=""Status"" Tooltip=""STUNNED"">Atordoando</LSTag> os alvos dentro."
+Solar Rush,Investida Solar
+"Charge forward and <LSTag Type=""Status"" Tooltip=""DAZED"">daze</LSTag> your enemy.<br>Doesn't provoke Opportunity Attacks.","Avance e <LSTag Type=""Status"" Tooltip=""DAZED"">Atordoe</LSTag> seu inimigo.<br>Não provoca Ataques de Oportunidade."
+Sunburst Strike,Golpe do Raio de Sol
+"Deal additional Radiant damage equal to your <LSTag Tooltip=""ProficiencyBonus"">Proficiency Bonus</LSTag>. On a hit, light erupts around you in a [1] area. Enemies in the light must succeed a <LSTag Tooltip=""DifficultyClass""> DC</LSTag> 13 Constitution <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> or be <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinded</LSTag>.","Causa dano Radiante adicional igual ao seu <LSTag Tooltip=""ProficiencyBonus"">Bônus de Proficiência</LSTag>. Ao acertar, a luz explode ao seu redor em uma área de [1]. Inimigos na luz devem ter sucesso em um <LSTag Tooltip=""DifficultyClass"">DC</LSTag> 13 <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> de Constituição ou ficarão <LSTag Type=""Status"" Tooltip=""BLINDED"">Cegos</LSTag>."
+Secrua's Fury,Fúria de Secrua
+"The number you need to <LSTag Tooltip=""AttackRoll"">roll</LSTag> a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag> while attacking is reduced by 1. This effect can stack.","O número que você precisa <LSTag Tooltip=""AttackRoll"">rolar</LSTag> para um <LSTag Tooltip=""CriticalHit"">Acerto Crítico</LSTag> ao atacar é reduzido em 1. Este efeito pode se acumular."
+"Creatures hit with this weapon receive <LSTag Tooltip=""Vulnerable"">Vulnerability</LSTag> to Radiant damage for 2 turns.","Criaturas atingidas por esta arma recebem <LSTag Tooltip=""Vulnerable"">Vulnerabilidade</LSTag> a dano Radiante por 2 turnos."
+Secrua's Gaze,Olhar de Secrua
+"The creature became <LSTag Tooltip=""Vulnerable"">Vulnerable</LSTag> to Radiant damage.","A criatura se tornou <LSTag Tooltip=""Vulnerable"">Vulnerável</LSTag> a dano Radiante."
+Sun Coin,Moeda do Sol
+Strange Coin with image of the Sun is glowing with radiant future,Moeda Estranha com a imagem do Sol está brilhando com um futuro radiante.
+Light-Blinding,Ofuscante de Luz
+"You have a chance of <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinding</LSTag> your target on hit.","Você tem uma chance de <LSTag Type=""Status"" Tooltip=""BLINDED"">Cegar</LSTag> seu alvo ao acertar."
+Lightsoaked Blow,Golpe Encharcado de Luz
+"Strike an enemy, adding your <LSTag Tooltip=""ProficiencyBonus"">Proficiency Bonus</LSTag> to the damage. Moreover, if the attack hits, it deals an additional [1].","Ataque um inimigo, adicionando seu <LSTag Tooltip=""ProficiencyBonus"">Bônus de Proficiência</LSTag> ao dano. Além disso, se o ataque acertar, causa [1] adicional."

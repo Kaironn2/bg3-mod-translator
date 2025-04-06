@@ -1,0 +1,43 @@
+en,pt-BR
+"Cantrips are weaker than Spells, though they do not consume <LSTag Tooltip=""SpellSlot"">Spell Slots</LSTag> when cast.","Cantrips são mais fracos do que Feitiços, embora não consumam <LSTag Tooltip=""SpellSlot"">Espaços de Feitiço</LSTag> quando lançados."
+Counter Action,Ação de Contra-ataque
+"<LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">Reactions</LSTag> which act as offensive counter actions utilize this resource in order to function properly.","<LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">Reações</LSTag> que atuam como ações de contra-ataque ofensivas utilizam esse recurso para funcionar corretamente."
+"Spells are stronger than Cantrips, though they require <LSTag Tooltip=""SpellSlot"">Spell Slots</LSTag> in order to cast.<Br><br>You may select any Spell at levels 3, 7, and 11.","Feitiços são mais poderosos do que Cantrips, embora exijam <LSTag Tooltip=""SpellSlot"">Espaços de Feitiço</LSTag> para serem lançados.<Br><br>Você pode selecionar qualquer Feitiço nos níveis 3, 7 e 11."
+"Cantrips are weaker than Spells, though they do not consume <LSTag Tooltip=""SpellSlot"">Spell Slots</LSTag> when cast.<Br><br>As a Bard, you may select any Cantrip.","Cantrips são mais fracos que Feitiços, embora não consumam <LSTag Tooltip=""SpellSlot"">Espaços de Feitiço</LSTag> quando lançados.<Br><br>Como um Bardo, você pode selecionar qualquer Cantrip."
+"Spells are stronger than Cantrips, though they require <LSTag Tooltip=""SpellSlot"">Spell Slots</LSTag> in order to cast.<Br><br>As a Bard, you may select any Spell.","Feitiços são mais poderosos do que Cantrips, embora exijam <LSTag Tooltip=""SpellSlot"">Espaços de Feitiço</LSTag> para serem lançados.<Br><br>Como um Bardo, você pode selecionar qualquer Feitiço."
+Cantrips,Truques
+"Cantrips are weaker than Spells, though they do not consume <LSTag Tooltip=""SpellSlot"">Spell Slots</LSTag> when cast.<Br><br>Under the Way of the Arcane, you may select any Cantrip.","Cantrips são mais fracos que Feitiços, embora não consumam <LSTag Tooltip=""SpellSlot"">Espaços de Feitiço</LSTag> quando lançados.<Br><br>Sob o Caminho do Arcano, você pode selecionar qualquer Cantrip."
+Spells,Feitiços
+"Spells are stronger than Cantrips, though they require <LSTag Tooltip=""SpellSlot"">Spell Slots</LSTag> in order to cast.<Br><br>Under the Way of the Arcane, you may select any Spell.","Feitiços são mais fortes do que Cantrips, embora exijam <LSTag Tooltip=""SpellSlot"">Espaços de Feitiço</LSTag> para serem lançados.<Br><br>Sob o Caminho do Arcano, você pode selecionar qualquer Feitiço."
+Martial Proficiency,Proficiência Marcial
+"You add your <LSTag Tooltip=""ProficiencyBonus"">Proficiency Bonus</LSTag> to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> with all weapons.","Você adiciona seu <LSTag Tooltip=""ProficiencyBonus"">Bônus de Proficiência</LSTag> nas <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> com todas as armas."
+Duellist Charge,Carga de Duelo
+"Used to gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>, or force enemies to attack you with <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag>. Landing a <LSTag Tooltip=""CriticalHit"">Critical Hit</LSTag> or killing blow will restore one Duellist Charge.","Usado para ganhar <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>, ou forçar inimigos a atacá-lo com <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag>. Conseguir um <LSTag Tooltip=""CriticalHit"">Golpe Crítico</LSTag> ou um golpe fatal restaurará uma Carga de Duelista."
+Melee Attack,Ataque Corpo a Corpo
+Make a melee attack with your main-hand weapon.,Faça um ataque corpo a corpo com sua arma principal.
+Ranged Attack,Ataque à Distância
+Make a ranged attack with your main-hand weapon.,Faça um ataque à distância com sua arma principal.
+Off-Hand Attack (Melee),Ataque com a Mão Secundária (Corpo a Corpo)
+Make a melee attack with your off-hand weapon.,Faça um ataque corpo a corpo com sua arma secundária.
+Off-Hand Attack (Ranged),Ataque com a Mão Secundária (À Distância)
+Make a ranged attack with your off-hand weapon.,Faça um ataque à distância com sua arma secundária.
+Dual-Wield Melee Attack,Ataque Corpo a Corpo com Duas Armas
+Make a melee attack with both of your melee weapons.,Faça um ataque corpo a corpo com ambas as suas armas corpo a corpo.
+Dual-Wield Ranged Attack,Ataque à Distância com Duas Armas
+Make a ranged attack with both of your ranged weapons.,Faça um ataque à distância com ambas as suas armas de longo alcance.
+Additional Spells,Feitiços Adicionais
+"Choose additional spells from the list below. Spells within this list change depending on your choice of subclass. Spells require <LSTag Tooltip=""SpellSlot"">Spell Slots</LSTag> to cast, unless a feature states otherwise.","Escolha feitiços adicionais da lista abaixo. Os feitiços nesta lista mudam dependendo da sua escolha de subclasse. Feitiços requerem <LSTag Tooltip=""SpellSlot"">Espaços de Feitiço</LSTag> para serem lançados, a menos que uma habilidade declare o contrário."
+Proficiencies,Proficiências
+"Gain <LSTag Tooltip=""Proficiency"">Proficiency</LSTag> with either a Martial Weapon or type of Armour.","Ganhe <LSTag Tooltip=""Proficiency"">Proficência</LSTag> com uma Arma Marcial ou tipo de Armadura."
+"Muscles and physical power. Improves your accuracy and damage with <LSTag Tooltip=""MeleeWeaponAttack"">Melee</LSTag> weapons. Also improves how far you can <LSTag Type=""Spell"" Tooltip=""Projectile_Jump"">Jump</LSTag> and how much you can <LSTag Tooltip=""CarryWeight"">Carry</LSTag>.","Músculos e poder físico. Melhora sua precisão e dano com armas <LSTag Tooltip=""MeleeWeaponAttack"">Corpo a Corpo</LSTag>. Também melhora a distância que você pode <LSTag Type=""Spell"" Tooltip=""Projectile_Jump"">Pular</LSTag> e quanto você pode <LSTag Tooltip=""CarryWeight"">Carregar</LSTag>."
+"Agility and balance. Improves your accuracy and damage with <LSTag Tooltip=""RangedWeaponAttack"">Ranged</LSTag> and <LSTag Tooltip=""Finesse"">Finesse</LSTag> weapons. Also improves your Initiative and <LSTag Tooltip=""ArmourClass"">Armour Class</LSTag>.","Agilidade e equilíbrio. Melhora sua precisão e dano com <LSTag Tooltip=""RangedWeaponAttack"">Armas de Distância</LSTag> e <LSTag Tooltip=""Finesse"">Armas de Finesse</LSTag>. Também melhora sua Iniciativa e <LSTag Tooltip=""ArmourClass"">Classe de Armadura</LSTag>."
+"Stamina and physical endurance. Increases the amount of <LSTag Tooltip=""HitPoints"">Hit Points</LSTag> you gain per level.","Resistência e resistência física. Aumenta a quantidade de <LSTag Tooltip=""HitPoints"">Pontos de Vida</LSTag> que você ganha por nível."
+"Astuteness and memory. Improves <LSTag Tooltip=""SpellcastingAbilityModifier"">Spellcasting</LSTag> for Rogues and Wizards.","Astúcia e memória. Melhora o <LSTag Tooltip=""SpellcastingAbilityModifier"">Conjurador</LSTag> para Ladinos e Magos."
+"Sense and intuition. Improves <LSTag Tooltip=""SpellcastingAbilityModifier"">Spellcasting</LSTag> for Clerics, Druids, Monks, and Rangers.","Sentido e intuição. Melhora o <LSTag Tooltip=""SpellcastingAbilityModifier"">Conjurador</LSTag> para Clérigos, Druidas, Monges e Patrulheiros."
+"Fortitude and resilience. Improves <LSTag Tooltip=""SpellcastingAbilityModifier"">Spellcasting</LSTag> for Barbarians, Bards, Fighters, Paladins, Sorcerers, and Warlocks.","Fortaleza e resiliência. Melhora o <LSTag Tooltip=""SpellcastingAbilityModifier"">Conjurador</LSTag> para Bárbaros, Bardos, Guerreiros, Paladinos, Feiticeiros e Bruxos."
+Steel Cast,Fusão de Aço
+"Casting Spells will activate <LSTag Type=""Passive"" Tooltip=""ExtraAttack"">Extra Attack</LSTag>.","Lançar Feitiços ativará <LSTag Type=""Passive"" Tooltip=""ExtraAttack"">Ataque Extra</LSTag>."
+Extra Attack,Ataque Extra
+"Once per turn, after having made an unarmed or weapon based <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> with your main hand, you may make an additional attack for free.","Uma vez por turno, após ter feito uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> desarmada ou baseada em arma com sua mão principal, você pode fazer um ataque adicional gratuitamente."
+Improved Extra Attack,Ataque Extra Aprimorado
+"Once per turn, after having made an unarmed or weapon based <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> with your main hand, you may make two additional attacks for free.","Uma vez por turno, após ter feito uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> desarmada ou baseada em arma com sua mão principal, você pode fazer dois ataques adicionais gratuitamente."

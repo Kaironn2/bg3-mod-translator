@@ -1,0 +1,981 @@
+en,pt-BR
+Target's level is too low to use this.,O nível do alvo é muito baixo para usar isso.
+Ritual Caster,Invocador de Rituais
+Can cast spell without expending a spell slot.,Pode lançar feitiço sem gastar um espaço de feitiço.
+Difficult Terrain: Grease,Terreno Difícil: Graxa
+Difficult Terrain: Sewer,Terreno Difícil: Esgoto
+Spiritual Weapon,Arma Espiritual
+Daylight,Luz do Dia
+Healing Spirit,Espírito Curativo
+"This is your resource for healing creatures through the <LSTag Type=""Spell"" Tooltip=""Target_HealingSpirit_Heal"">Healing Spirit</LSTag> spell.","Este é o seu recurso para curar criaturas através do feitiço <LSTag Type=""Spell"" Tooltip=""Target_HealingSpirit_Heal"">Espírito Curativo</LSTag>."
+Healing Spirit Charge,Cura Espiritual Carregada
+Can be healed through the Healing Spirit.,Pode ser curado através do Espírito Curativo.
+Food and Water,Comida e Água
+"This weapon is made of shadows, solidifed and given shape through the power of the Weave.","Esta arma é feita de sombras, solidificadas e moldadas pelo poder da Trama."
+Shadow Blade,Lâmina das Sombras
+Dust Devil,Diabo da Poeira
+Bestial Spirit of Air,Espírito Bestial do Ar
+Bestial Spirit of Land,Espírito Bestial da Terra
+Fire Elemental,Elemental de Fogo
+Earth Elemental,Elemental da Terra
+Air Elemental,Elemental do Ar
+Water Elemental,Elemental da Água
+Grasping Vine,Vinha Agarradora
+Maddening Darkness,Escuridão Perturbadora
+This bow shoots forth a bolt of lightning.,Este arco dispara um raio de relâmpago.
+Lightning Arrow,Flecha Relâmpago
+Shadowspawn,Sombra Nascente
+Draconic Spirit,Espírito Dracônico
+Aether Storm,Tempestade Aérea
+Conjure an additional familiar per level.,Conjure um familiar adicional por nível.
+"Summon gains +1 to AC, +5 maximum <LSTag Tooltip=""HitPoints"">hit points</LSTag> and deals +1 additional damage on attacks per level.","Invocação ganha +1 na CA, +5 pontos de <LSTag Tooltip=""HitPoints"">vida</LSTag> máximos e causa +1 de dano adicional em ataques por nível."
+Spell range increases by [1] per level.,O alcance da magia aumenta em [1] por nível.
+Target deals an additional 1d6 damage of the chosen damage type per level.,O alvo recebe 1d6 de dano adicional do tipo de dano escolhido por nível.
+Deals an additional 1d6 damage of a random type per level.,Causa 1d6 de dano adicional de um tipo aleatório por nível.
+Target repeats saving throw each time it takes damage.,O alvo repete a salvaguarda cada vez que recebe dano.
+Shard still explodes.,O fragmento ainda explode.
+Arrow still explodes.,A flecha ainda explode.
+Creates two more meteors per level.,Cria mais dois meteoros por nível.
+"Summon gains +1 to AC, +15 maximum <LSTag Tooltip=""HitPoints"">hit points</LSTag> and deals +1 additional damage on attacks per level.","Invocação ganha +1 na CA, +15 de <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag> máximos e causa +1 de dano adicional em ataques por nível."
+"Summon gains +1 to AC, +[1] to their maximum and deals +1 additional damage on attacks per level.","Invocação ganha +1 na CA, +[1] no seu máximo e causa +1 de dano adicional em ataques por nível."
+"For every [1] spell levels higher than the original, deal an additional [2].","Para cada [1] nível de feitiço acima do original, cause [2] a mais."
+Gain an additional [1] per level.,Ganhe um adicional de [1] por nível.
+Snare Trap,Armadilha de Armadilha
+Nathair's Mischief,Travessura de Nathair
+Create Bonfire,Criar Fogueira
+Deals an additional [1] and increases distance pulled or pushed by [2] per level.,Causa [1] adicional e aumenta a distância puxada ou empurrada em [2] por nível.
+Targets still take half damage and aren't pulled or pushed.,Os alvos ainda recebem metade do dano e não são puxados ou empurrados.
+Targets still take half damage and aren't slowed.,Os alvos ainda recebem metade do dano e não são desacelerados.
+Targets still take half damage and aren't pulled.,Os alvos ainda recebem metade do dano e não são puxados.
+Affects an additional two arrows per level.,Afeta duas flechas adicionais por nível.
+Dawn,Aurora
+Not a Dunamancy Wizard,Não é um Mago de Dunamancia
+"<LSTag Type=""Image"" Info=""SoftWarning""/> Must be a Dunamancy Wizard to use this cantrip.","<LSTag Type=""Image"" Info=""SoftWarning""/> Deve ser um Mago de Dunamancia para usar este truque."
+"Imbue a creature's weapon with holy power, turning it into a <LSTag Type=""Status"" Tooltip=""HOLY_WEAPON"">Holy Weapon</LSTag>.","Imbuir a arma de uma criatura com poder sagrado, transformando-a em uma <LSTag Type=""Status"" Tooltip=""HOLY_WEAPON"">Arma Sagrada</LSTag>."
+"Emit a burst of radiance from your <LSTag Type=""Status"" Tooltip=""HOLY_WEAPON"">Holy Weapon</LSTag>, causing hostile creatures to become <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinded</LSTag> and ending the spell.","Emita uma explosão de radiação de sua <LSTag Type=""Status"" Tooltip=""HOLY_WEAPON"">Arma Sagrada</LSTag>, fazendo com que criaturas hostis fiquem <LSTag Type=""Status"" Tooltip=""BLINDED"">Cegas</LSTag> e encerrando o feitiço."
+"Targets still take half damage and aren't <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinded</LSTag>.","Os alvos ainda recebem metade do dano e não estão <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinded</LSTag>."
+Absorb Elements,Absorver Elementos
+"Capture incoming energy, lessening its effect on you and storing it for your next melee attack.","Capture a energia que chega, reduzindo seu efeito sobre você e armazenando-a para seu próximo ataque corpo a corpo."
+"Before being hit, you gain resistance to Acid, Cold, Fire, Lightning or Thunder damage. The first melee attack made next turn also deals 1d6 of the triggering damage type.","Antes de ser atingido, você ganha resistência a dano de Ácido, Frio, Fogo, Raio ou Trovão. O primeiro ataque corpo a corpo realizado no próximo turno também causa 1d6 do tipo de dano que acionou."
+Melee attacks deal an additional [1] of the triggering damage type every level.,Ataques corpo a corpo causam [1] a mais do tipo de dano que desencadeou a cada nível.
+Absorb Elements: Fire,Absorver Elementos: Fogo
+"<LSTag Tooltip=""Resistant"">Resistant</LSTag> to Fire damage.","<LSTag Tooltip=""Resistant"">Resistente</LSTag> a dano de Fogo."
+Absorb Elements: Acid,Absorver Elementos: Ácido
+"<LSTag Tooltip=""Resistant"">Resistant</LSTag> to Acid damage.","<LSTag Tooltip=""Resistant"">Resistente</LSTag> a dano de Ácido."
+Absorb Elements: Cold,Absorver Elementos: Frio
+"<LSTag Tooltip=""Resistant"">Resistant</LSTag> to Cold damage.","<LSTag Tooltip=""Resistant"">Resistente</LSTag> a dano de Frio."
+Absorb Elements: Lightning,Absorver Elementos: Raio
+"<LSTag Tooltip=""Resistant"">Resistant</LSTag> to Lightning damage.","<LSTag Tooltip=""Resistant"">Resistente</LSTag> a dano de Relâmpago."
+Absorb Elements: Thunder,Absorver Elementos: Trovão
+"<LSTag Tooltip=""Resistant"">Resistant</LSTag> to Thunder damage.","<LSTag Tooltip=""Resistant"">Resistente</LSTag> a dano de Trovão."
+Deal [1] with next melee attack.,Causar [1] de dano no próximo ataque corpo a corpo.
+Absorb Elements,Absorver Elementos
+"When you get hit with Acid, Cold, Fire, Lightning or Thunder damage, you can use your reaction to gain resistance to the triggering damage type.","Quando você recebe dano de Ácido, Frio, Fogo, Relâmpago ou Trovão, pode usar sua reação para ganhar resistência ao tipo de dano que ativou."
+Beast Bond,Vínculo Bestial
+"Establish a telepathic link with a friendly beast or one charmed by you. The beast gains <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against creatures within [1] of you.","Estabeleça uma ligação telepática com uma besta amigável ou uma que esteja encantada por você. A besta ganha <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra criaturas a até [1] de você."
+"Telepathically linked to spellcaster and has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against creatures within [1] of them. Creature and the spellcaster have <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> that would include one another.","Ligado telepaticamente ao conjurador e tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra criaturas a até [1] de distância. A criatura e o conjurador têm <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> que incluam um ao outro."
+Catapult,Catapulta
+Obsolete Catapult,Catapulta Obsoleta
+Replace spell or remove it from hotbar.,Substitua a magia ou remova-a da barra de atalhos.
+Retrieve an object on the ground that weighs up to [1] lbs and launch it at a creature.,Recupere um objeto no chão que pese até [1] lbs e lance-o em uma criatura.
+Catapult: Launch ,Catapulta: Lançar
+Launch a previously chosen object at a creature.,Lance um objeto escolhido anteriormente em uma criatura.
+Prepared to be catapulted at a creature.,Preparado para ser catapultado em uma criatura.
+Cause Fear,Causar Medo
+"Awaken the sense of mortality in a creature, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightening</LSTag> it.","Desperte o senso de mortalidade em uma criatura, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Amedrontando</LSTag>-a."
+"Creature repeats the <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> at the end of its turns.","A criatura repete os <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> no final de seus turnos."
+Ceremony,Cerimônia
+"Perform one of several religious ceremonies: Bless Water, Coming of Age or Dedication.","Realize uma das várias cerimônias religiosas: Abençoar Água, Rito de Maioridade ou Dedicação."
+Ceremony: Bless Water,Cerimônia: Abençoar Água
+"Touch a container of water in a creature's inventory, transforming it to become <LSTag Type=""Status"" Tooltip=""BLESS_WATER"">Holy Water</LSTag>.","Toque em um recipiente de água no inventário de uma criatura, transformando-o em <LSTag Type=""Status"" Tooltip=""BLESS_WATER"">Água Benta</LSTag>."
+Ceremony: Coming of Age,Cerimônia: Maioridade
+"Touch a creature, granting it a +[1] bonus to <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","Toque uma criatura, concedendo a ela um bônus de +[1] em <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> A creature completing this ceremony may never again benefit from the same ceremony.",Uma criatura que completar esta cerimônia nunca mais poderá se beneficiar da mesma cerimônia.
+Ceremony: Dedication,Cerimônia: Dedicação
+"Touch a creature, granting it a +[1] bonus to <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Toque uma criatura, concedendo a ela um bônus de +[1] em <LSTag Tooltip=""SavingThrow"">Jogadas de Salvamento</LSTag>."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> This spell requires and removes 25 gold when cast.",Este feitiço requer e remove 25 de ouro ao ser lançado.
+Blessed Water,Água Abençoada
+Coming of Age,A Maioridade
+"[1] added to <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","[1] adicionado a <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Dedication,Dedicação
+"[1] added to <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","[1] adicionado a <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>."
+Earth Tremor,Tremor da Terra
+"Cause a tremor in the ground becomes <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag> and affects nearby creatures, possibly knocking them <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag>.","Causa um tremor no chão que se torna <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag> e afeta criaturas próximas, possivelmente as derrubando <LSTag Type=""Status"" Tooltip=""PRONE"">Prostradas</LSTag>."
+Chaos Bolt,Raio do Caos
+"Hurl a mass of chaotic energy that randomly deals [1], [2], [3], [4], [5], [6], [7] or [8].","Lance uma massa de energia caótica que causa dano aleatório de [1], [2], [3], [4], [5], [6], [7] ou [8]."
+"After casting this spell, you roll a d8. On a roll of 1, you automatically target an additional creature within [1] of the original target with another mass of chaotic energy.","Após lançar este feitiço, você rola um d8. Em um resultado de 1, você automaticamente mira em uma criatura adicional dentro de [1] do alvo original com outra massa de energia caótica."
+Chaos Bolt: Additional,Raio do Caos: Adicional
+Targeted by Chaos Bolt and cannot be targeted by it again.,Alvo do Caos e não pode ser alvo dele novamente.
+Detect Evil and Good,Detectar o Mal e o Bem
+"Detect the presence of aberrations, celestials, elementals, feys, fiends and undead in the area, preventing them from <LSTag Type=""Status"" Tooltip=""SNEAKING"">Hiding</LSTag> or becoming <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisible</LSTag>.","Detecta a presença de aberrações, celestiais, elementais, fadas, demônios e mortos-vivos na área, impedindo-os de <LSTag Type=""Status"" Tooltip=""SNEAKING"">Se esconder</LSTag> ou se tornarem <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisíveis</LSTag>."
+"Character can detect aberration, celestial, elemental, fey, fiend, and undead and prevent them from <LSTag Type=""Status"" Tooltip=""SNEAKING"">Hiding</LSTag> or becoming <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisible</LSTag>.","O personagem pode detectar aberrações, celestiais, elementais, fey, demônios e mortos-vivos e impedi-los de <LSTag Type=""Status"" Tooltip=""SNEAKING"">Se esconder</LSTag> ou se tornar <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisível</LSTag>."
+Creature is an aberration.,A criatura é uma aberração.
+Creature is a celestial.,A criatura é um celestial.
+Creature is an elemental.,A criatura é um elemental.
+Creature is a fey.,A criatura é um fey.
+Creature is a fiend.,A criatura é um demônio.
+Creature is undead.,A criatura é morta-viva.
+Detect Magic,Detectar Magia
+"Sense the presence of magic in the area. You can fully focus on a creature possessing the ability to cast spells, preventing it from becoming <LSTag Type=""Status"" Tooltip=""SNEAKING"">Hidden</LSTag> or <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisible</LSTag> while its magic can be detected.","Sinta a presença de magia na área. Você pode se concentrar totalmente em uma criatura que possui a habilidade de lançar feitiços, impedindo-a de se tornar <LSTag Type=""Status"" Tooltip=""SNEAKING"">Escondida</LSTag> ou <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisível</LSTag> enquanto sua magia puder ser detectada."
+Detect creatures with the ability to cast spells within [1].,Detectar criaturas com a habilidade de lançar feitiços dentro de [1].
+Detected Magic,Magia Detectada
+Creature has the ability to use magic to cast spells.,A criatura tem a habilidade de usar magia para lançar feitiços.
+"Creature cannot become <LSTag Type=""Status"" Tooltip=""SNEAKING"">Hidden</LSTag> or <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisible</LSTag> while its magic is being detected.","A criatura não pode se tornar <LSTag Type=""Status"" Tooltip=""SNEAKING"">Oculta</LSTag> ou <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisível</LSTag> enquanto sua magia estiver sendo detectada."
+Frost Fingers,Dedos de Gelo
+Freezing cold blasts from your fingertips and freezes liquids in the area.,Rajadas de frio congelante saem de suas pontas dos dedos e congelam líquidos na área.
+Gift of Alacrity,Dom do Aceleramento
+"Touch an allied creature, granting it a +[1] bonus to its Initiative <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Toque uma criatura aliada, concedendo a ela um bônus de +[1] na sua Iniciativa <LSTag Tooltip=""AbilityCheck"">Testes</LSTag>."
+"[1] added to Initiative <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","[1] adicionado à Iniciativa <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag>."
+"Can't be <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag>. Receive [1] per turn.","Não pode ser <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Amedrontado</LSTag>. Receba [1] por turno."
+Magnify Gravity,Aumentar Gravidade
+"Gravity in a [1] sphere centered on a chosen point increases momentarily, potentially halving the <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> of creatures in the area.","A gravidade em uma [1] esfera centrada em um ponto escolhido aumenta momentaneamente, potencialmente reduzindo pela metade a <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> das criaturas na área."
+"<LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> halved.","<LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> reduzida pela metade."
+Wrathful Smite: Dispel,Golpe Irado: Dissipar
+Steel your resolve against the Wrathful Smite effect.,Fortaleça sua determinação contra o efeito de Golpe Irado.
+Snare,Armadilha
+"Create a [1] magical trap on the ground. It is triggered when a Small or larger creature moves near it, causing them to possibly fall <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag> and become <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag>.","Crie uma [1] armadilha mágica no chão. Ela é ativada quando uma criatura Pequena ou maior se aproxima, fazendo com que ela possa cair <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag> e ficar <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag>."
+"<LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag> creatures make Dexterity <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> with <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> at the end of their turns, ending the effect on a success. Another creature can use its action to end the effect as well.","<LSTag Type=""Status"" Tooltip=""RESTRAINED"">Imobilizado</LSTag> criaturas fazem testes de Destreza <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> com <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> no final de seus turnos, encerrando o efeito em um sucesso. Outra criatura pode usar sua ação para encerrar o efeito também."
+Caustic Brew,Brew Cáustico
+"A stream of acid emanates from you in the line, possibly covering creatures in the area in acid.","Um jato de ácido emana de você em linha, possivelmente cobrindo criaturas na área com ácido."
+Creatures covered in acid take [1] at the start of their turns.,Criaturas cobertas de ácido recebem [1] no início de seus turnos.
+Acid Removal,Remoção de Ácido
+Remove acid that covers the target.,Remova o ácido que cobre o alvo.
+Deals [1] per turn.,Causa [1] por turno.
+Unseen Servant,Serviço Invisível
+"Create an invisible, mindless, shapeless, medium force that performs simple tasks at your command.","Crie uma força invisível, sem mente, sem forma, de tamanho médio que execute tarefas simples sob seu comando."
+Zephyr Strike,Golpe do Zéfiro
+"Move like the wind, allowing you to avoid provoking <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>.","Mova-se como o vento, permitindo que você evite provocar <LSTag Tooltip=""OpportunityAttack"">Ataques de Oportunidade</LSTag>."
+"Until the spell ends, you have <LSTag Tooltip=""Advantage"">Advantage</LSTag> on the next weapon <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> which deals an additional [1]. Hit or miss, you gain an additional [2] of <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> until the end of your turn.","Até o final da magia, você tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> na próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> com a arma que causa [1] adicional. Acertando ou errando, você ganha [2] adicionais de <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> até o final do seu turno."
+"Cannot provoke <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>.","Não pode provocar <LSTag Tooltip=""OpportunityAttack"">Ataques de Oportunidade</LSTag>."
+"Gained [1] <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag>.","Ganhou [1] <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag>."
+Booming Blade,Lâmina Estrondante
+Booming Blade: Sneak Attack,Lâmina Trovejante: Ataque Furtivo
+Booming Blade: Divine Strike (Radiant),Lâmina Retumbante: Golpe Divino (Radiante)
+Booming Blade: Divine Strike (Cold),Lâmina Retumbante: Golpe Divino (Frio)
+Booming Blade: Divine Strike (Fire),Lâmina Trovejante: Golpe Divino (Fogo)
+Booming Blade: Divine Strike (Lightning),Lâmina Ruidosa: Golpe Divino (Relâmpago)
+Booming Blade: Divine Strike (Thunder),Golpe Estrondoso: Golpe Divino (Trovão)
+Booming Blade: Divine Strike (Poison),Lâmina Estrondosa: Golpe Divino (Veneno)
+Booming Blade: Divine Strike (Weapon),Lâmina Estrondosa: Golpe Divino (Arma)
+"Strike a target with a melee weapon, surrounding them in a booming energy that detonates and deals [1] if it willingly moves.","Acertar um alvo com uma arma corpo a corpo, cercando-o com uma energia estrondosa que detona e causa [1] se ele se mover voluntariamente."
+Takes [1] if moving willingly.,Toma [1] se mover voluntariamente.
+Control Flames,Controlar Chamas
+Choose a fire surface and expand its radius or extinguish an object or fire surface's flames.,Escolha uma superfície em chamas e expanda seu raio ou extinga as chamas de um objeto ou superfície em chamas.
+Control Flames: Expand,Controlar Chamas: Expandir
+Expand the radius of a fire surface by [1].,Expanda o raio de uma superfície de fogo em [1].
+Control Flames: Extinguish,Controlar Chamas: Extinguir
+Extinguish the flames of a fire surface or the flames of an object.,Extinguir as chamas de uma superfície em chamas ou as chamas de um objeto.
+Control Flames: Resistance,Controlar Chamas: Resistência
+"Grant a creature <LSTag Tooltip=""Resistance"">Resistance</LSTag> against Fire damage.","Concede a uma criatura <LSTag Tooltip=""Resistance"">Resistência</LSTag> contra dano de Fogo."
+"<LSTag Type=""Status"" Tooltip=""RESISTANCE"">Resistant</LSTag> to Fire damage.","<LSTag Type=""Status"" Tooltip=""RESISTANCE"">Resistente</LSTag> a dano de Fogo."
+Create Bonfire,Criar Fogueira
+Create a bonfire that burns creatures in the bonfire’s space when casting this spell or when the creature starts or ends its turn in the space.,Crie uma fogueira que queima criaturas no espaço da fogueira ao lançar este feitiço ou quando a criatura começa ou termina seu turno nesse espaço.
+Bonfire,Fogueira
+Deal [1] per turn.,Causa [1] de dano por turno.
+Druidcraft,Druidismo
+"Create harmless sensory effects that grants you <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Intimidation <LSTag Tooltip=""AbilityCheck"">Checks</LSTag> or instantly snuff out or light a source of fire on a object.","Crie efeitos sensoriais inofensivos que lhe concedem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em testes de Intimidação <LSTag Tooltip=""AbilityCheck"">Checks</LSTag> ou apague instantaneamente ou acenda uma fonte de fogo em um objeto."
+"Create harmless sensory effects that grants you <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Intimidation <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Crie efeitos sensoriais inofensivos que lhe concedem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em Intimidação <LSTag Tooltip=""AbilityCheck"">Testes</LSTag>."
+Instantly snuff out or light a source of fire on an object or a fire surface.,Apague instantaneamente ou acenda uma fonte de fogo em um objeto ou superfície em chamas.
+"Has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Intimidation <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em Intimidação <LSTag Tooltip=""AbilityCheck"">Testes</LSTag>."
+Frostbite,Congelamento
+"Cause a numbing frost to form on a creature, possibly imposing <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on their next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>.","Causa uma geada paralisante a se formar em uma criatura, possivelmente impondo <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em sua próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>."
+"Has <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>.","Tem <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> na próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>."
+Green-Flame Blade,Lâmina de Chama Verde
+Green-Flame Blade: Sneak Attack,Lâmina de Chama Verde: Ataque Furtivo
+Green-Flame Blade: Divine Strike (Radiant),Lâmina de Chama Verde: Golpe Divino (Radiante)
+Green-Flame Blade: Divine Strike (Cold),Lâmina de Chama Verde: Golpe Divino (Frio)
+Green-Flame Blade: Divine Strike (Fire),Lâmina de Chama Verde: Golpe Divino (Fogo)
+Green-Flame Blade: Divine Strike (Lightning),Lâmina de Chama Verde: Golpe Divino (Relâmpago)
+Green-Flame Blade: Divine Strike (Thunder),Lâmina de Chama Verde: Golpe Divino (Trovão)
+Green-Flame Blade: Divine Strike (Poison),Lâmina de Chama Verde: Golpe Divino (Veneno)
+Green-Flame Blade: Divine Strike (Weapon),Lâmina de Chama Verde: Golpe Divino (Arma)
+"Strike a target with a melee weapon, allowing fire to leap from your target to strike a second nearby foe within [1] of them, dealing [2].","Acertar um alvo com uma arma corpo a corpo, permitindo que o fogo salte do seu alvo para atingir um segundo inimigo próximo a [1] dele, causando [2]."
+Can shoot fire towards a nearby creature.,Pode disparar fogo em direção a uma criatura próxima.
+Can be targeted by Green-Flame Blade's leaping fire.,Pode ser alvo da chama saltitante da Lâmina de Chama Verde.
+Green-Flame,Chama Verde
+Green-flame leaps from your weapon to strike a nearby foe.,Chama verde salta da sua arma para atingir um inimigo próximo.
+Gust,Rajada
+"Seize air and compel it to possibly push a creature up to [1] away from you, an object [2] away from you or clear clouds in a [3] area.","Conduza o ar e obrigue-o a possivelmente empurrar uma criatura até [1] para longe de você, um objeto [2] para longe de você ou limpar nuvens em uma área [3]."
+Gust: Creature,Rajada: Criatura
+Seize air and compel it to possibly push a creature up to [1] away from you.,Agarre o ar e obrigue-o a possivelmente empurrar uma criatura até [1] para longe de você.
+"<LSTag Type=""Image"" Info=""SoftWarning""/> A creature can't be pushed if it is greater than medium in size.",Uma criatura não pode ser empurrada se for maior que o tamanho médio.
+Gust: Object,Rajada: Objeto
+Seize air and compel it to possibly push an weighing up to 5 pounds [2] away from you.,Capture o ar e compelido a empurrar um peso de até 5 libras [2] para longe de você.
+"<LSTag Type=""Image"" Info=""SoftWarning""/> The object cannot weigh more than 5 pounds.","<LSTag Type=""Image"" Info=""SoftWarning""/> O objeto não pode pesar mais do que 5 libras."
+Gust: Distraction,Rajada: Distração
+Seize air and create a gust of wind that distracts non-hostile creatures nearby.,Capture o ar e crie uma rajada de vento que distrai criaturas não hostis nas proximidades.
+Lightning Lure,Atrair Relâmpago
+Create a lash of lightning energy that strikes at a creature and possibly pulls them [1] towards you.,Crie um golpe de energia relâmpago que atinge uma criatura e possivelmente a puxa [1] em sua direção.
+Magic Stone,Pedra Mágica
+Has pebble(s) imbued with magic.,Tem seixos imbuídos com magia.
+"Touch three pebbles and imbue them with magic, allowing you or an ally to make a ranged spell attack with them by throwing the pebbles.","Toque em três seixos e imbuia-os com magia, permitindo que você ou um aliado faça um ataque mágico à distância com eles ao arremessar os seixos."
+Magic Stone: Hurl,Pedra Mágica: Arremessar
+Throw one of the magic imbued pebbles.,Jogue uma das pedras imbuídas de magia.
+"Deals additional damage equal to the spellcaster's <LSTag Tooltip=""SpellcastingAbilityModifier"">Spellcasting Ability Modifier</LSTag>.","Causa dano adicional igual ao <LSTag Tooltip=""SpellcastingAbilityModifier"">Modificador de Habilidade de Magia</LSTag> do conjurador."
+The number of Magic Stones you possess.,O número de Pedras Mágicas que você possui.
+Magic Stones,Pedras Mágicas
+Caster's Spellcasting Ability Modifier,Modificador de Habilidade de Magia do Conjurador
+Spellcasting Ability Modifier,Modificador de Habilidade de Magia
+Proficiency Bonus,Bônus de Proficiência
+A stone imbued with magic.,Uma pedra imbuída de magia.
+Mind Sliver,Fenda Mental
+"Drive a disorienting spike of psychic energy into the mind of a creature, possibly imposing a -[1] penalty to its next Saving Throw.","Imponha um pico desorientador de energia psíquica na mente de uma criatura, possivelmente impondo uma penalidade de -[1] na sua próxima Jogada de Salvamento."
+"Next <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> reduced by [1].","Próximo <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> reduzido em [1]."
+Mold Earth: Create,Moldar Terra: Criar
+"Create a [1] mud surface that becomes <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag>.","Crie uma [1] superfície de lama que se torna <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag>."
+Mold Earth: Destroy,Moldar Terra: Destruir
+Remove a [1] mud surface.,Remova a superfície de lama [1].
+Mold Earth,Moldar Terra
+"Manipulate earth to your whim, allowing you to create a mud surface that becomes <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag> or to remove a mud surface.","Manipule a terra conforme sua vontade, permitindo que você crie uma superfície de lama que se torna <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag> ou remova uma superfície de lama."
+Prestidigitation,Prestidigitação
+"Perform minor magical tricks that light or snuff out fire on some items, cleans certain surfaces or creatures and creates musical notes that can distract others.","Realize truques mágicos menores que acendem ou apagam fogo em alguns itens, limpam certas superfícies ou criaturas e criam notas musicais que podem distrair outros."
+"The surfaces affected are water, electrified water, blood, electrified blood, poison, oil, grease, web, acid, alien oil, mud, alcohol, silver blood and ash.","As superfícies afetadas são água, água eletrificada, sangue, sangue eletrificado, veneno, óleo, graxa, teia, ácido, óleo alienígena, lama, álcool, sangue prateado e cinzas."
+"Cleaned of blood, dirt and sweat.","Limpo de sangue, sujeira e suor."
+Prestidigitation: Clean,Prestidigitação: Limpar
+"Instantly clean a creature of blood, sweat and dirt or remove certain surfaces.","Limpa instantaneamente uma criatura de sangue, suor e sujeira ou remove certas superfícies."
+Prestidigitation: Musical,Prestidigitação: Musical
+Create music that possibly distracts creatures nearby.,Crie música que possivelmente distraia criaturas próximas.
+Prestidigitation: Fire,Prestidigitação: Fogo
+Light or snuff out fire on a weapon or object such as a torch.,"Acender ou apagar o fogo em uma arma ou objeto, como uma tocha."
+Musical Notes,Notas Musicais
+Primal Savagery,Fúria Primal
+"Channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack.","Canalize magia primal para afiar seus dentes ou unhas, prontos para desferir um ataque corrosivo."
+Sapping Sting,Picada Sanguessuga
+"Sap the vitality of a creature, possibly causing it to fall <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag>.","Drene a vitalidade de uma criatura, possivelmente fazendo-a cair <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag>."
+Shape Water,Modelar Água
+"Manipulate water to freeze water surfaces, move a water surface to another location or create a block of ice from a water surface.","Manipule a água para congelar superfícies aquáticas, mover uma superfície aquática para outro local ou criar um bloco de gelo a partir de uma superfície aquática."
+Shape Water: Freeze,Modelar Água: Congelar
+Manipulate a water surface and freeze it to become an ice surface.,Manipule uma superfície de água e congele-a para se tornar uma superfície de gelo.
+Shape Water: Ice Block,Forma Água: Bloco de Gelo
+Manipulate a water surface to change its shape and freeze it into a block of ice.,Manipule a superfície da água para mudar sua forma e congele-a em um bloco de gelo.
+Shape Water: Move,Modelar Água: Mover
+Manipulate a water surface to move to a different location.,Manipule a superfície da água para se mover para um local diferente.
+Sword Burst,Explosão de Espada
+Create a momentary circle of spectral blades that sweep around you to strike nearby creatures.,Crie um círculo momentâneo de lâminas espectrais que varrem ao seu redor para atingir criaturas próximas.
+Thunderclap,Estrondo do Trovão
+Create a burst of thunderous sound that affects nearby creatures.,Crie uma explosão de som trovejante que afeta criaturas próximas.
+Toll the Dead,Tocar os Mortos
+"Cause the sound of a dolorous bell to fill the air around a creature, dealing [1] or [2] if it is injured.","Faça com que o som de um sino doloroso preencha o ar ao redor de uma criatura, causando [1] ou [2] se ela estiver ferida."
+Word of Radiance,Palavra de Radiação
+Utter a divine word that causes burning radiance to erupt from you to all nearby enemies.,Pronuncie uma palavra divina que faz uma radiação ardente eclodir de você para todos os inimigos próximos.
+Aganazzar's Scorcher,Chama de Aganazzar
+Roaring flame emanates from you in a line.,Uma chama rugente emana de você em linha.
+Borrowed Knowledge,Conhecimento Emprestado
+Draw on knowledge from spirits of the past and become Proficient in one skill you lack proficiency in.,Recorra ao conhecimento dos espíritos do passado e torne-se Proficiente em uma habilidade na qual você não tem proficiência.
+This spell ends if you cast it again.,Este feitiço termina se você o lançar novamente.
+Borrowed Knowledge: Acrobatics,Conhecimento Emprestado: Acrobacia
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Acrobatics"">Acrobatics</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Acrobatics"">Acrobacias</LSTag> se ainda não for."
+Borrowed Knowledge: Animal Handling,Conhecimento Emprestado: Manuseio de Animais
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""AnimalHandling"">Animal Handling</LSTag> if you're not already.","Recorra ao conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""AnimalHandling"">Manipulação de Animais</LSTag> se ainda não for."
+Borrowed Knowledge: Athletics,Conhecimento Emprestado: Atletismo
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Athletics"">Athletics</LSTag> if you're not already.","Recorra ao conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Athletics"">Atletismo</LSTag> se ainda não for."
+Borrowed Knowledge: Arcana,Conhecimento Emprestado: Arcana
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Arcana"">Arcana</LSTag> if you're not already.","Recorra ao conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Arcana"">Arcana</LSTag> se ainda não for."
+Borrowed Knowledge: Deception,Conhecimento Emprestado: Engano
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Deception"">Deception</LSTag> if you're not already.","Recorra ao conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Deception"">Enganação</LSTag> se ainda não for."
+Borrowed Knowledge: History,Conhecimento Emprestado: História
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""History"">History</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""History"">História</LSTag> se ainda não for."
+Borrowed Knowledge: Insight,Conhecimento Emprestado: Perspicácia
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Insight"">Insight</LSTag> if you're not already.","Recorra ao conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Insight"">Intuição</LSTag> se ainda não for."
+Borrowed Knowledge: Intimidation,Conhecimento Emprestado: Intimidação
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Intimidation"">Intimidation</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Intimidation"">Intimidação</LSTag> se ainda não for."
+Borrowed Knowledge: Investigation,Conhecimento Emprestado: Investigação
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Investigation"">Investigation</LSTag> if you're not already.","Recorra ao conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Investigation"">Investigação</LSTag> se ainda não for."
+Borrowed Knowledge: Medicine,Conhecimento Emprestado: Medicina
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Medicine"">Medicine</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Medicine"">Medicina</LSTag> se ainda não for."
+Borrowed Knowledge: Nature,Conhecimento Emprestado: Natureza
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Nature"">Nature</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Nature"">Nature</LSTag> se ainda não for."
+Borrowed Knowledge: Perception,Conhecimento Emprestado: Percepção
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Perception"">Perception</LSTag> if you're not already.","Aproveite o conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Perception"">Perception</LSTag> se ainda não for."
+Borrowed Knowledge: Performance,Conhecimento Emprestado: Desempenho
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Performance"">Performance</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Performance"">Performance</LSTag> se ainda não for."
+Borrowed Knowledge: Persuasion,Conhecimento Emprestado: Persuasão
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Persuasion"">Persuasion</LSTag> if you're not already.","Recorra ao conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Persuasion"">Persuasão</LSTag> se ainda não for."
+Borrowed Knowledge: Religion,Conhecimento Emprestado: Religião
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Religion"">Religion</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Religion"">Religião</LSTag> se ainda não for."
+Borrowed Knowledge: Sleight of Hand,Conhecimento Emprestado: Truque de Mão
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""SleightOfHand"">Sleight of Hand</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""SleightOfHand"">Destreza Manual</LSTag> se ainda não for."
+Borrowed Knowledge: Stealth,Conhecimento Emprestado: Furtividade
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Stealth"">Stealth</LSTag> if you're not already.","Recorra ao conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Stealth"">Furtividade</LSTag> se ainda não for."
+Borrowed Knowledge: Survival,Conhecimento Emprestado: Sobrevivência
+"Draw on knowledge from spirits of the past and become proficient in <LSTag Tooltip=""Survival"">Survival</LSTag> if you're not already.","Baseie-se no conhecimento dos espíritos do passado e torne-se proficiente em <LSTag Tooltip=""Survival"">Sobrevivência</LSTag> se ainda não for."
+"Has proficiency in Acrobatics <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Acrobacia <LSTag Tooltip=""AbilityCheck"">Testes</LSTag>."
+"Has proficiency in Animal Handling <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Manuseio de Animais <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag>."
+"Has proficiency in Athletics <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Atletismo <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag>."
+"Has proficiency in Arcana <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Arcana <LSTag Tooltip=""AbilityCheck"">Testes</LSTag>."
+"Has proficiency in Deception <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Enganação <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>."
+"Has proficiency in History <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em História <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag>."
+"Has proficiency in Insight <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag> de Intuição."
+"Has proficiency in Intimidation <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Intimidação <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag>."
+"Has proficiency in Investigation <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Investigações <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag>."
+"Has proficiency in Medicine <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Medicina <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>."
+"Has proficiency in Nature <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Natureza <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag>."
+"Has proficiency in Perception <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Percepção <LSTag Tooltip=""AbilityCheck"">Testes</LSTag>."
+"Has proficiency in Performance <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em <LSTag Tooltip=""AbilityCheck"">Testes</LSTag> de Performance."
+"Has proficiency in Persuasion <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Persuasão <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>."
+"Has proficiency in Religion <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Religião <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag>."
+"Has proficiency in Sleight of Hand <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Possui proficiência em <LSTag Tooltip=""AbilityCheck"">Verificações</LSTag> de Destreza."
+"Has proficiency in Stealth <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em Stealth <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>."
+"Has proficiency in Survival <LSTag Tooltip=""AbilityCheck"">Checks</LSTag>.","Tem proficiência em <LSTag Tooltip=""AbilityCheck"">Testes</LSTag> de Sobrevivência."
+Continual Flame,Chama Contínua
+A blue or red flame that cannot be smothered or quenched springs forth from an object that you touch.,Uma chama azul ou vermelha que não pode ser abafada ou extinta surge de um objeto que você toca.
+Continual Flame: Blue,Chama Contínua: Azul
+A blue flame that cannot be smothered or quenched springs forth from an object that you touch.,Uma chama azul que não pode ser abafada ou extinta surge de um objeto que você toca.
+Continual Flame: Red,Chama Contínua: Vermelha
+A red flame that cannot be smothered or quenched springs forth from an object that you touch.,Uma chama vermelha que não pode ser abafada ou extinta surge de um objeto que você toca.
+Continual Flame: Dismiss,Chama Contínua: Dispensar
+Dismiss the effects of the Continual Flame spell.,Desfaça os efeitos do feitiço Chama Contínua.
+Darkness: Cloud,Escuridão: Nuvem
+"Create a cloud of magical darkness that Heavily Obscures and <LSTag Type=""Status"" Tooltip=""BLINDNESS"">Blinds</LSTag> creatures within.","Crie uma nuvem de escuridão mágica que Obscure Pesadamente e <LSTag Type=""Status"" Tooltip=""BLINDNESS"">Cega</LSTag> criaturas dentro dela."
+Darkness: Item,Escuridão: Item
+"Infuse an item with magical darkness that Heavily Obscures and <LSTag Type=""Status"" Tooltip=""BLINDNESS"">Blinds</LSTag> creatures within [1] of it.","Infunda um item com escuridão mágica que Obscure Fortemente e <LSTag Type=""Status"" Tooltip=""BLINDNESS"">Cega</LSTag> criaturas dentro de [1] dele."
+Dragon's Breath,Sopro do Dragão
+Imbue an ally with the power to spew magical energy from their mouth.,Imbuir um aliado com o poder de expelir energia mágica pela boca.
+Dragon's Breath: Fire,Sopro do Dragão: Fogo
+Imbue an ally with the power to spew fire from their mouth.,Imbuir um aliado com o poder de cuspir fogo pela boca.
+Dragon's Breath: Cold,Sopro do Dragão: Frio
+Imbue an ally with the power to spew cold from their mouth.,Imbuir um aliado com o poder de expelir frio pela boca.
+Dragon's Breath: Lightning,Sopro do Dragão: Relâmpago
+Imbue an ally with the power to spew lightning from their mouth.,Imbuir um aliado com o poder de lançar relâmpagos pela boca.
+Dragon's Breath: Poison,Sopro do Dragão: Veneno
+Imbue an ally with the power to spew poison from their mouth.,Imbuir um aliado com o poder de expelir veneno pela boca.
+Dragon's Breath: Acid,Sopro do Dragão: Ácido
+Imbue an ally with the power to spew acid from their mouth.,Imbuir um aliado com o poder de cuspir ácido pela boca.
+Exhale fire in a cone.,Exale fogo em um cone.
+Exhale acid in a cone.,Exale ácido em um cone.
+Exhale cold in a cone.,Exale frio em um cone.
+Exhale lightning in a cone.,Exale relâmpago em um cone.
+Exhale poison in a cone.,Exale veneno em um cone.
+Gained ability to exhale fire in a cone.,Ganhou a habilidade de exalar fogo em um cone.
+Gained ability to exhale acid in a cone.,Ganhou a habilidade de exalar ácido em um cone.
+Gained ability to exhale cold in a cone.,Ganhou a habilidade de exalar frio em um cone.
+Gained ability to exhale lightning in a cone.,Ganhou a habilidade de exalar relâmpago em um cone.
+Gained ability to exhale poison in a cone.,Ganhou a habilidade de exalar veneno em um cone.
+Dust Devil,Diabo da Poeira
+Summon an elemental force that resembles a dust devil that damages creatures that end their turn within [1] of it and pushed back [2].,Invoca uma força elemental que se assemelha a um diabo da poeira que causa dano a criaturas que terminam seu turno a [1] dela e as empurra para trás [2].
+"If the dust devil moves through a mud surface, it removes the surface and generates a [1] cloud that moves with the dust devil, <LSTag Type=""Status"" Tooltip=""SNEAKING_HEAVILY_OBSCURED"">Heavily Obscuring</LSTag> the area.","Se o diabo da poeira se mover por uma superfície de lama, ele remove a superfície e gera uma [1] nuvem que se move com o diabo da poeira, <LSTag Type=""Status"" Tooltip=""SNEAKING_HEAVILY_OBSCURED"">Obscurecendo Pesadamente</LSTag> a área."
+Creatures that end their turn within [1] of the dust devil take [2] and are pushed back [3].,Criaturas que terminam seu turno a até [1] do diabo da poeira recebem [2] e são empurradas para trás [3].
+Dust Devil: Move,Diabo da Poeira: Mover
+Allow the dust devil to move up to [1].,Permita que o diabo da poeira se mova até [1].
+Possibly deal [1] and push creature back [2] or deal half damage and no push back on a successful save.,Possivelmente causar [1] e empurrar a criatura para trás [2] ou causar metade do dano e não empurrar em um salvamento bem-sucedido.
+Movement,Movimento
+Entity can move up to [1].,A entidade pode se mover até [1].
+Flock of Familiars,Rebanho de Familiars
+"Gain the service of [1] familiars, each a fey spirit that takes an animal form you choose.","Ganhe o serviço de [1] familiares, cada um um espírito feérico que assume uma forma animal que você escolher."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> Already summoned familiars disappear when using this spell.","<LSTag Type=""Image"" Info=""SoftWarning""/> Familiars já convocados desaparecem ao usar este feitiço."
+Flock of Familiars: Cat,Rebanho de Familiars: Gato
+Summon [1] familiars with the form and statistics of a cat that can distract your enemies.,Convoque [1] familiares com a forma e estatísticas de um gato que pode distrair seus inimigos.
+Flock of Familiars: Crab,Bando de Familiars: Caranguejo
+Summon [1] familiars with the form and statistics of a crab. Their sharp pincers can slow enemies.,Convoque [1] familiares com a forma e estatísticas de um caranguejo. Suas garras afiadas podem desacelerar inimigos.
+Flock of Familiars: Frog,Rebanho de Familiars: Sapo
+Summon [1] familiars with the form and statistics of a frog. Their skin is covered with dizzying toxins.,Invocar [1] familiares com a forma e estatísticas de um sapo. Sua pele é coberta por toxinas alucinantes.
+Flock of Familiars: Rat,Bando de Familiars: Rato
+Summon [1] familiars with the form and statistics of a rat. Their infectious bite can spread disease.,Convoque [1] familiares com a forma e estatísticas de um rato. Sua mordida infecciosa pode espalhar doenças.
+Flock of Familiars: Raven,Bando de Familiars: Corvo
+"Summon [1] familiars with the form and statistics of a raven. They can <LSTag Type=""Status"" Tooltip=""BLINDNESS"">Blind</LSTag> enemies.","Convoque [1] familiares com a forma e estatísticas de um corvo. Eles podem <LSTag Type=""Status"" Tooltip=""BLINDNESS"">Cegar</LSTag> inimigos."
+Flock of Familiars: Spider,Rebanho de Familiares: Aranha
+Summon [1] familiars with the form and statistics of a spider. Their deadly bite can poison enemies.,Convoque [1] familiares com a forma e estatísticas de uma aranha. Sua mordida mortal pode envenenar inimigos.
+Flock of Familiars: Imp,Bando de Familiares: Imp
+"Summon [1] familiars with the form and statistics of an imp. They can fly, turn Invisible, and <LSTag Type=""Spell"" Tooltip=""Target_Sting_Imp_Summon"">Sting</LSTag> enemies.","Convoque [1] familiares com a forma e estatísticas de um ímp. Eles podem voar, se tornar invisíveis e <LSTag Type=""Spell"" Tooltip=""Target_Sting_Imp_Summon"">Picada</LSTag> inimigos."
+Flock of Familiars: Quasit,Bando de Familiars: Quasit
+"Summon [1] familiars with the form and statistics of a quasit. They can that can turn Invisible and <LSTag Type=""Spell"" Tooltip=""Target_Scare_Quasit_Summon"">Scare</LSTag> enemies.","Convoque [1] familiares com a forma e estatísticas de um quasit. Eles podem se tornar Invisíveis e <LSTag Type=""Spell"" Tooltip=""Target_Scare_Quasit_Summon"">Amedrontar</LSTag> inimigos."
+Fortune's Favor,Favor da Fortuna
+"Impart latent luck to yourself or an ally. When the chosen creature makes an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>, <LSTag Tooltip=""AbilityCheck"">Ability Check</LSTag>, or <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag>, it can choose to gain a +[1] bonus to the roll. Alternatively, when an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> is made against the chosen creature, it can choose to impose a -[1] penalty to the roll.","Imparta sorte latente a si mesmo ou a um aliado. Quando a criatura escolhida fizer um <LSTag Tooltip=""AttackRoll"">Ataque</LSTag>, <LSTag Tooltip=""AbilityCheck"">Teste de Habilidade</LSTag> ou <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag>, ela pode optar por ganhar um bônus de +[1] na rolagem. Alternativamente, quando uma <LSTag Tooltip=""AttackRoll"">Rolagem de Atauqe</LSTag> for feita contra a criatura escolhida, ela pode optar por impor uma penalidade de -[1] na rolagem."
+"When a chosen creature applies the bonus or penalty, the spell on that creature ends.","Quando uma criatura escolhida aplica o bônus ou a penalidade, o feitiço nessa criatura termina."
+"Creature can grant a bonus +[1] to an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>, <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> or <LSTag Tooltip=""AbilityCheck"">Ability Check</LSTag> of theirs or grant a -[1] penalty against an <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> against them.","A criatura pode conceder um bônus +[1] a uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>, <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> ou <LSTag Tooltip=""AbilityCheck"">Teste de Habilidade</LSTag> dela ou conceder uma penalidade -[1] contra uma <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> contra ela."
+"Activate to grant yourself a +[1] bonus to your next <LSTag Tooltip=""AbilityCheck"">Ability Check</LSTag>.","Ative para conceder a si mesmo um bônus de +[1] na sua próxima <LSTag Tooltip=""AbilityCheck"">Verificação de Habilidade</LSTag>."
+Healing Spirit,Espírito Curativo
+"Call forth a nature spirit to soothe the wounded. While a creature is within [1] of the spirit, you can heal it for [2].","Chame um espírito da natureza para acalmar os feridos. Enquanto uma criatura estiver a [1] do espírito, você pode curá-la por [2]."
+Healing Spirit: Movement,Espírito Curativo: Movimento
+Command the summon to act.,Comande a invocação para agir.
+Commanded,Comandado
+This summon can act due to its summoner's command.,Esta invocação pode agir devido ao comando de seu invocador.
+Healing Spirit: Heal,Espírito Curativo: Curar
+Heal a creature for [1] through your Healing Spirit.,Cure uma criatura por [1] através do seu Espírito Curativo.
+Creatures within [1] may regain [2].,Criaturas dentro de [1] podem recuperar [2].
+"<LSTag Type=""Image"" Info=""SoftWarning""/> Once you've healed through your Healing Spirit six times, the spell ends.","Uma vez que você tenha curado através do seu Espírito Curativo seis vezes, a magia termina."
+Kinetic Jaunt,Corrida Cinética
+"Magically empower your movement, giving yourself an additional [1] of <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> and the ability to avoid <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>. You can also move through the space of other creatures but you take [2] when ending your turn in their space.","Magicamente potencialize seu movimento, concedendo a si mesmo um adicional de [1] de <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> e a habilidade de evitar <LSTag Tooltip=""OpportunityAttack"">Ataques de Oportunidade</LSTag>. Você também pode se mover através do espaço de outras criaturas, mas você recebe [2] ao terminar seu turno em seu espaço."
+"Gained additional [1] of <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> and don't provoke <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>. Can move through the space of other creatures.","Ganhou [1] de <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> adicional e não provoca <LSTag Tooltip=""OpportunityAttack"">Ataques de Oportunidade</LSTag>. Pode se mover pelo espaço de outras criaturas."
+Deal [1] when turn ends while in another creature's space.,Causa [1] de dano quando o turno termina enquanto estiver no espaço de outra criatura.
+Maximilian's Earthen Grasp,Grasp da Terra de Maximilian
+"Create a hand composed of soil to crush and possibly <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrain</LSTag> a creature.","Crie uma mão composta de solo para esmagar e possivelmente <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Impedir</LSTag> uma criatura."
+"An affected creature may use an action to free themselves by making a Strength <LSTag Tooltip=""AbilityCheck"">check</LSTag> against your spell save DC, escaping and no longer being <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag> on a success.","Uma criatura afetada pode usar uma ação para se libertar fazendo um teste de Força <LSTag Tooltip=""AbilityCheck"">check</LSTag> contra sua CD de resistência mágica, escapando e não estando mais <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag> em um sucesso."
+"Crush a <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag> target or <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrain</LSTag> a different creature.","Esmague um <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag> alvo ou <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Imobilize</LSTag> uma criatura diferente."
+Maximillian's Earthen Grasp: Crush,Graspada Terrosa de Maximillian: Esmagar
+"Crush a <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag> target.","Esmague um alvo <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restrained</LSTag>."
+Maximillian's Earthen Grasp: Change,Mudança do Grasp da Terra de Maximillian
+"Reach for a different creature with the earthen hand, possibly <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Restraining</LSTag> it and freeing the previous target.","Alcance uma criatura diferente com a mão de terra, possivelmente <LSTag Type=""Status"" Tooltip=""RESTRAINED"">Impedindo</LSTag> ela e libertando o alvo anterior."
+Break Free,Liberar-se
+Attempt to free yourself.,Tente se libertar.
+Mind Spike,Pico Mental
+"This entity cannot hide or benefit from <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisible</LSTag> against the source of the <LSTag Type=""Spell"" Tooltip=""Target_MindSpike"">Mind Spike</LSTag> spell.","Esta entidade não pode se esconder ou se beneficiar de <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisível</LSTag> contra a fonte do feitiço <LSTag Type=""Spell"" Tooltip=""Target_MindSpike"">Pico Mental</LSTag>."
+"Affected entity loses its hiding and <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisibility</LSTag> effects against the source of the <LSTag Type=""Spell"" Tooltip=""Target_MindSpike"">Mind Spike</LSTag> spell.","A entidade afetada perde seus efeitos de esconderijo e <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisibilidade</LSTag> contra a fonte do feitiço <LSTag Type=""Spell"" Tooltip=""Target_MindSpike"">Pico Mental</LSTag>."
+"Breach a creature's mind, possibly preventing it from being hidden and granting it no benefit from being <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisible</LSTag>.","Invada a mente de uma criatura, possivelmente impedindo-a de se esconder e não concedendo nenhum benefício por estar <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisible</LSTag>."
+Mind Whip,Lágrima Mental
+The entity can't take reactions and can only use movement or take either an action or a bonus action.,A entidade não pode realizar reações e só pode usar movimento ou realizar uma ação ou uma ação bônus.
+Nathair's Mischief,Travessura de Nathair
+"Fill a [1] cube with fey and draconic magic, producing random, magical effects when the spell is cast and at the start of your turns.","Preencha um [1] cubo com magia feérica e dracônica, produzindo efeitos mágicos aleatórios quando a magia é lançada e no início dos seus turnos."
+"The magical effects produced in the cube can cause creatures to become <LSTag Type=""Status"" Tooltip=""CHARMED"">Charmed</LSTag> by you, to be <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinded</LSTag>, to become Incapacitated and unable to move or can turn the area into Difficult Terrain.","Os efeitos mágicos produzidos no cubo podem fazer com que criaturas fiquem <LSTag Type=""Status"" Tooltip=""CHARMED"">Encantadas</LSTag> por você, fiquem <LSTag Type=""Status"" Tooltip=""BLINDED"">Cegas</LSTag>, se tornem Incapacitadas e incapazes de se mover ou podem transformar a área em Terreno Difícil."
+Nathair's Mischief: Move,Travessura de Nathair: Mover
+Move the cube of fey and draconic magic up to [1].,Mova o cubo de magia feérica e dracônica até [1].
+"Susceptible to a random, magical effect per turn.",Susceptível a um efeito mágico aleatório por turno.
+Rime's Binding Ice,Gelo Aprisionador de Rime
+"A burst of cold energy emanates from you, hindering creatures with ice formations that reduces their <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> to [1].","Uma explosão de energia fria emana de você, dificultando criaturas com formações de gelo que reduzem sua <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> para [1]."
+Break the ice hindering a creature.,Quebre o gelo que impede uma criatura.
+"<LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> reduced to [1]. Can break ice with <LSTag Tooltip=""Action"">action</LSTag>.","<LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> reduzida para [1]. Pode quebrar gelo com <LSTag Tooltip=""Action"">ação</LSTag>."
+Shadow Blade,Lâmina das Sombras
+"Create a sword of solidified shadow in your hand which deals [1]. When attacking a target that is in dim light or darkness, the attack is made with <LSTag Tooltip=""Advantage"">Advantage</LSTag>.","Crie uma espada de sombra solidificada em sua mão que causa [1]. Ao atacar um alvo que está em luz fraca ou escuridão, o ataque é feito com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>."
+"Deals [1] and grants <LSTag Tooltip=""Advantage"">Advantage</LSTag> against creatures within dim light or darkness.","Causa [1] e concede <LSTag Tooltip=""Advantage"">Vantagem</LSTag> contra criaturas em luz fraca ou escuridão."
+Snowball Storm,Tempestade de Bolas de Neve
+A flurry of magic snowballs erupts from an area.,Uma chuva de bolas de neve mágicas irrompe de uma área.
+Suggestion,Sugestão
+Suggest a course of activity and magically influence a creature to become an ally.,Sugira um curso de ação e influencie magicamente uma criatura para se tornar um aliado.
+Temporary ally of the spellcaster.,Aliado temporário do conjurador.
+Summon Beast,Invocar Besta
+Call forth an allied bestial spirit from an environment of Air or Land.,Convoque um espírito bestial aliado de um ambiente de Ar ou Terra.
+Summon Beast: Air,Invocar Fera: Ar
+Call forth an allied bestial spirit from the environment of Air.,Chame um espírito bestial aliado do ambiente do Ar.
+Summon Beast: Land,Invocar Besta: Terra
+Call forth an allied bestial spirit from the environment of Land.,Chame um espírito bestial aliado do ambiente da Terra.
+Mind Whip,Lágrima Mental
+"Psychically lash out at [1] creature(s), possibly preventing them from taking Reactions and limiting it using movement, an Action or a Bonus Action.","Ataque psíquico contra [1] criatura(s), possivelmente impedindo-as de realizar Reações e limitando seu movimento, uma Ação ou uma Ação Bônus."
+Cannot take Actions or Bonus Actions.,Não é possível realizar Ações ou Ações Bônus.
+Cannot take Bonus Actions or Reactions.,Não é possível realizar Ações Bônus ou Reações.
+Cannot move or take Reactions.,Não pode se mover ou realizar Reações.
+Vortex Warp,Distorção Vortex
+"Magically twist space around another creature, possibly preparing them to be teleported.","Torça magicamente o espaço ao redor de outra criatura, possivelmente preparando-a para ser teleportada."
+Teleport a creature you've magically twisted the space around to an unoccupied space.,Teletransporte uma criatura para a qual você torceu magicamente o espaço para um espaço desocupado.
+Prone to being teleported to an unoccupied space.,Suscetível a ser teleportado para um espaço desocupado.
+Warding Wind,Vento Protetor
+"Strong wind blows you in a [1] radius while clearing clouds and extinguishing flames on objects. Other creatures within the wind are in <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag>. Creatures also have <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on ranged attacks passing through the wind.","Um vento forte sopra você em um [1] raio enquanto limpa nuvens e apaga chamas em objetos. Outras criaturas dentro do vento estão em <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag>. Criaturas também têm <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em ataques à distância que atravessam o vento."
+"Ranged weapon attacks have <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> made in and out of the area.","Os ataques com armas à distância têm <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> feitos dentro e fora da área."
+"Treated as being in <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag> and ranged weapon attacks have <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> made in and out of the area.","Tratado como estando em <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag> e ataques com armas de longo alcance têm <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> ao serem feitos dentro e fora da área."
+Wither and Bloom,Murchar e Florescer
+"Invoke both death and life in an area, causing hostile creatures to wither.","Invoque tanto a morte quanto a vida em uma área, fazendo com que criaturas hostis murcham."
+"An ally can heal itself to recover <LSTag Tooltip=""HitPoints"">hit points</LSTag>.","Um aliado pode se curar para recuperar <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag>."
+Wither and Bloom: Regain HP,Comer e Florescer: Recuperar PV
+"Regain <LSTag Tooltip=""HitPoints"">hit points</LSTag>.","Recupere <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag>."
+"Regain <LSTag Tooltip=""HitPoints"">hit points</LSTag>.","Recupere <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag>."
+"Can regain <LSTag Tooltip=""HitPoints"">hit points</LSTag>.","Pode recuperar <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag>."
+Ashardalon's Stride,Passo de Ashardalon
+"Billowing dragon flames blast from your feet, granting explosive speed that increases your <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> by [1] and prevents provoking <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>.","Chamas de dragão ondulantes explodem dos seus pés, concedendo uma velocidade explosiva que aumenta sua <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> em [1] e impede que você provoque <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>."
+"When moving within [1] of a creature or an object, it takes [2] per turn.","Ao se mover a até [1] de uma criatura ou objeto, você leva [2] por turno."
+Damaged by Ashardalon's Stride.,Dano causado pelo Passo de Ashardalon.
+"<LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> increased by [1] and do not provoke <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>. Creatures or objects within [2] take [3].","<LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> aumentada em [1] e não provocam <LSTag Tooltip=""OpportunityAttack"">Ataques de Oportunidade</LSTag>. Criaturas ou objetos dentro de [2] recebem [3]."
+Call Lightning: Area,Invocar Relâmpago: Área
+Standing in an area susceptible to lightning strikes from the spellcaster.,Estando em uma área suscetível a raios do conjurador.
+Catnap,Soneca
+"Make a calming gesture that forces targeted allies to fall unconscious and gain the benefits of a <LSTag Tooltip=""ShortRest"">Short Rest</LSTag>.","Faça um gesto calmante que força os aliados alvo a caírem inconscientes e ganharem os benefícios de um <LSTag Tooltip=""ShortRest"">Descanso Curto</LSTag>."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> Once affected by this spell, a creature can't benefit from it again until it finishes a <LSTag Tooltip=""LongRest"">Long Rest</LSTag>.","Uma vez afetada por este feitiço, uma criatura não pode se beneficiar dele novamente até que termine um <LSTag Tooltip=""LongRest"">Descanso Longo</LSTag>."
+Create Food and Water,Criar Comida e Água
+Create several pounds and gallons of food and water as camp supplies.,Crie várias libras e galões de comida e água como suprimentos de acampamento.
+Food and Water,Comida e Água
+This pack is filled to the brim with enough food and water to sustain more than a dozen creatures well through a long rest.,Este pacote está cheio até a borda com comida e água suficientes para sustentar mais de uma dúzia de criaturas durante um longo descanso.
+Enemies Abound,Inimigos à Vista
+"Reach into a creature's mind, causing it to lose the ability to distinguish friend from foe.","Atinge a mente de uma criatura, fazendo com que ela perca a capacidade de distinguir amigo de inimigo."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> No effect on creatures immune to being <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag>.","Nenhum efeito em criaturas imunes a serem <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag>."
+Becomes hostile to all creatures.,Torna-se hostil a todas as criaturas.
+Erupting Earth,Terra Eruptiva
+"A fountain of churned earth and stone erupts in the area, changing the ground to <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag>.","Uma fonte de terra e pedra revoltas irrompe na área, transformando o chão em <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag>."
+Feign Death: Dismiss,Morte Fingida: Descartar
+Dismiss the effects of Feign Death on a creature.,Dissipe os efeitos de Morte Fingida em uma criatura.
+Flame Arrows,Flechas Flamejantes
+"Touch a ranged weapon held by a creature, causing up to [1] attacks with it to deal an extra [2].","Toque uma arma de longo alcance segurada por uma criatura, fazendo com que até [1] ataques com ela causem um extra de [2]."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> The spell ends when the target has made the total number of applicable attacks with the affected ranged weapon.",A magia termina quando o alvo tiver realizado o número total de ataques aplicáveis com a arma de longo alcance afetada.
+Ranged attacks using affected weapon deal an additional [1].,Ataques à distância usando a arma afetada causam [1] a mais.
+This is your resource for the number of Flame Arrows you can use.,Este é o seu recurso para o número de Flechas Flamejantes que você pode usar.
+Intellect Fortress,Fortaleza Intelectual
+"Grant [1] creature(s) resistance to psychic damage, as well as <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Intelligence, Wisdom, and Charisma <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Concede resistência a dano psíquico a [1] criatura(s), além de <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em testes de resistência de Inteligência, Sabedoria e Carisma <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>."
+"Resistant to psychic damage and has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Intelligence, Wisdom, and Charisma <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Resistente a dano psíquico e tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em testes de <LSTag Tooltip=""SavingThrow"">Salvamento</LSTag> de Inteligência, Sabedoria e Carisma."
+Life Transference,Transferência de Vida
+"Sacrifice some of your life to mend another creature's injuries, causing you to take [1] and the targeted creature regains <LSTag Tooltip=""HitPoints"">hit points</LSTag> equal to twice the damage you take.","Sacrifique parte da sua vida para curar as feridas de outra criatura, fazendo com que você receba [1] e a criatura alvo recupere <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag> iguais ao dobro do dano que você recebe."
+Melf's Minute Meteors,Meteoros Minutos de Melf
+Create [1] meteors that can be sent streaking towards an area and explode.,Crie [1] meteoros que podem ser enviados em direção a uma área e explodir.
+Send one or two meteors streaking towards an area.,Envie um ou dois meteoros cortando em direção a uma área.
+Minute Meteors: One,Meteoros Minutos: Um
+Send one meteor streaking towards an area.,Envie um meteoro em direção a uma área.
+Minute Meteors: Two,Meteoros Minutos: Dois
+Send two meteors streaking towards the same area or different areas.,Envie dois meteoros cortando o céu em direção à mesma área ou áreas diferentes.
+Can send meteors streaking towards an area.,Pode enviar meteoros em direção a uma área.
+This is your resource for the number of Minute Meteors you can throw.,Este é o seu recurso para o número de Meteoros Mínimos que você pode lançar.
+Motivational Speech,Discurso Motivacional
+"Five creatures in the area gain [1] and have <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Wisdom <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>. If hit by an attack, an affected creature has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on its next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> during combat.","Cinco criaturas na área ganham [1] e têm <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em testes de Sabedoria <LSTag Tooltip=""SavingThrow"">de Salvamento</LSTag>. Se atingida por um ataque, uma criatura afetada tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em sua próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> durante o combate."
+"The spell ends on a creature once its <LSTag Tooltip=""TemporaryHitPoints"">temporary hit points</LSTag> are depleted.","O feitiço termina em uma criatura assim que seus <LSTag Tooltip=""TemporaryHitPoints"">pontos de vida temporários</LSTag> se esgotam."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> Cannot affect summoned creatures.",Não é possível afetar criaturas convocadas.
+"Gain [1] and have <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Wisdom <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>. Gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> after being hit by an attack.","Ganhe [1] e tenha <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em testes de Sabedoria <LSTag Tooltip=""SavingThrow"">de Resistência</LSTag>. Ganhe <LSTag Tooltip=""Advantage"">Vantagem</LSTag> na próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> após ser atingido por um ataque."
+Motivational Speech: Advantage,Discurso Motivacional: Vantagem
+"Has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>.","Tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> na próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>."
+Nondetection,Não Detecção
+"Touch a creature to hide it from divination magic, preventing divination spells from targeting it and from being perceived through magical scrying sensors.","Toque uma criatura para escondê-la de magia de adivinhação, impedindo que feitiços de adivinhação a tenham como alvo e que seja percebida através de sensores mágicos de escrutínio."
+Hidden from divination magic and cannot be targeted by divination spells.,Escondido de magia de adivinhação e não pode ser alvo de feitiços de adivinhação.
+Pulse Wave,Onda Pulsante
+Unleash intense pressure in a cone that possibly pushes or pulls creatures and objects up to [1].,Libere uma pressão intensa em um cone que possivelmente empurra ou puxa criaturas e objetos até [1].
+Pulse Wave: Push,Onda Pulsante: Empurrar
+Unleash intense pressure in a cone that possibly pushes creatures and objects up to [1].,Libere uma pressão intensa em um cone que possivelmente empurra criaturas e objetos até [1].
+Pulse Wave: Pull,Onda Pulsante: Puxar
+Unleash intense pressure in a cone that possibly pulls creatures and objects up to [1].,Liberte uma pressão intensa em um cone que possivelmente puxa criaturas e objetos até [1].
+Spirit Shroud,Manto Espiritual
+"Call forth spirits of the dead that flit around you. Attacks you make against creatures within [1] of you deal an extra [2], [3] or [4] and prevents them from regaining <LSTag Tooltip=""HitPoints"">hit points</LSTag>.","Chame os espíritos dos mortos que flutuam ao seu redor. Os ataques que você faz contra criaturas a até [1] de você causam um extra de [2], [3] ou [4] e impedem-nas de recuperar <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag>."
+"Hostile creatures that start their turns within [1] of you have its <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> reduced by [1].","Criaturas hostis que começam seus turnos a [1] de você têm sua <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> reduzida em [1]."
+Spirit Shroud: Cold,Manto Espiritual: Frio
+Spirit Shroud: Necrotic,Manto Espiritual: Necrótico
+Spirit Shroud: Radiant,Manto Espiritual: Radiante
+"Call forth spirits of the dead that flit around you. Attacks you make against creatures within [1] of you deal an extra [2] and prevents them from regaining <LSTag Tooltip=""HitPoints"">hit points</LSTag>.","Chame os espíritos dos mortos que flutuam ao seu redor. Os ataques que você faz contra criaturas a até [1] de você causam [2] a mais e impedem que elas recuperem <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag>."
+Deals extra [1] against creature within [2].,Causa [1] de dano extra contra criaturas dentro de [2].
+Susceptible to taking additional damage from spellcaster.,Susceptível a receber dano adicional de conjuradores.
+Spirit Shroud: Movement,Manto Espiritual: Movimento
+Movement reduced by [1].,Movimento reduzido em [1].
+Spirit Shroud: Hit Points,Manto Espiritual: Pontos de Vida
+"Cannot regain <LSTag Tooltip=""HitPoints"">hit points</LSTag>.","Não é possível recuperar <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag>."
+Summon Shadowspawn,Invocar Sombra
+"Call forth a shadowy spirit that embodies the emotion of Fury, Despair or Fear and fights alongside you.","Chame um espírito sombrio que incorpora a emoção da Fúria, Desespero ou Medo e luta ao seu lado."
+Summon Shadowspawn: Fury,Invocar Sombra: Fúria
+"Call forth a shadowy spirit that embodies the emotion of Fury, gaining <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag> creatures.","Convoca um espírito sombrio que incorpora a emoção da Fúria, ganhando <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra criaturas <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Amedrontadas</LSTag>."
+Summon Shadowspawn: Despair,Invocar Sombra: Desespero
+"Call forth a shadowy spirit that embodies the emotion of Despair, causing creatures other than you within [1] of it to have its <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> reduced by [2].","Convoca um espírito sombrio que incorpora a emoção do Desespero, fazendo com que criaturas além de você dentro de [1] dele tenham sua <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> reduzida em [2]."
+Summon Shadowspawn: Fear,Invocar Sombra: Medo
+"Call forth a shadowy spirit that embodies the emotion of Fear, allowing it to take the Hide action as a bonus action while in dim light or darkness.","Convoque um espírito sombrio que incorpora a emoção do Medo, permitindo que ele execute a ação Esconder como uma ação bônus enquanto estiver em luz fraca ou escuridão."
+Terror Frenzy,Frenesi do Terror
+"Spirit has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag> creatures.","O espírito tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra criaturas <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Amedrontadas</LSTag>."
+Weight of Sorrow,Peso da Tristeza
+"Other creatures within [1] of the spirit has its <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> reduced by [2].","Outras criaturas dentro de [1] do espírito têm sua <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> reduzida em [2]."
+"<LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> reduced by [1].","<LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> reduzida em [1]."
+Shadow Stealth,Furtividade Sombria
+"While in dim light or darkness, spirit can take the Hide action as a <LSTag Tooltip=""BonusAction"">bonus action</LSTag>.","Enquanto estiver em luz fraca ou escuridão, o espírito pode realizar a ação Esconder como uma <LSTag Tooltip=""BonusAction"">ação bônus</LSTag>."
+Chilling Hand,Mão Gelada
+Deal [1].,Negociar [1].
+Dreadful Scream,Grito Horripilante
+"The spirit screams, possibly <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightening</LSTag> creatures.","O espírito grita, possivelmente <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Aterrorizando</LSTag> criaturas."
+"Affected creatures repeat the <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> at the end of their turns, ending the effect on a successful save.","Criaturas afetadas repetem o <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> no final de seus turnos, encerrando o efeito em um sucesso."
+Multiattack,Ataque Múltiplo
+Free attack after making an attack.,Ataque livre após realizar um ataque.
+Multiattack,Ataque Múltiplo
+The shadowspawn makes a number of attacks equal to half the spell's level used to summon it.,O sombra gerada faz um número de ataques igual à metade do nível do feitiço usado para invocá-la.
+The elemental makes a number of attacks equal to half the spell's level used to summon it.,O elemental faz um número de ataques igual à metade do nível do feitiço usado para invocá-lo.
+Free attack after using Breath Weapon.,Ataque livre após usar a Arma de Fôlego.
+Hide: Shadow Stealth,Esconder: Sombra Silenciosa
+Teleport,Teletransporte
+Teleport to your summoner.,Teleporte-se para seu invocador.
+Thunder Step,Passo do Trovão
+"Teleport yourself and possibly an ally to an unoccupied space, causing a thunderous boom within [1] of the space you left.","Teleporte-se e possivelmente um aliado para um espaço desocupado, causando um estrondo trovejante dentro de [1] do espaço que você deixou."
+Water Walk,Caminhar na Água
+Grant allied creatures the ability to move across any liquid surface as if it were harmless solid ground.,Concede a criaturas aliadas a habilidade de se moverem sobre qualquer superfície líquida como se fosse um solo sólido inofensivo.
+"The surfaces include water, electrified water, electrified blood, mud, poison and grease.","As superfícies incluem água, água eletrificada, sangue eletrificado, lama, veneno e graxa."
+Unaffected by liquid surfaces.,Inalterado por superfícies líquidas.
+Charm Monster,Encantar Monstro
+"<LSTag Type=""Status"" Tooltip=""CHARMED"">Charm</LSTag> a creature to prevent it from attacking you. You gain <LSTag Tooltip=""Advantage"">Advantage</LSTag> on Charisma <LSTag Tooltip=""AbilityCheck"">Checks</LSTag> in dialogue.","<LSTag Type=""Status"" Tooltip=""CHARMED"">Encantado</LSTag> uma criatura para impedi-la de te atacar. Você ganha <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em testes de Carisma <LSTag Tooltip=""AbilityCheck"">em diálogos</LSTag>."
+Gravity Sinkhole,Buraco de Gravidade
+Create a sphere of crushing force that possibly pulls all creatures within toward the center of the sphere.,Crie uma esfera de força esmagadora que possivelmente puxa todas as criaturas dentro em direção ao centro da esfera.
+Guardian of Nature,Guardião da Natureza
+"A nature spirit, the Primal Beast or the Great Tree, transforms you into a powerful guardian.","Um espírito da natureza, a Fera Primal ou a Grande Árvore, transforma você em um poderoso guardião."
+Guardian of Nature: Primal Beast,Guardião da Natureza: Fera Primal
+"The Primal Beast nature spirit transforms you into a powerful guardian. Your <LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> is increased by [1], you gain darkvision with a range of [2], your Strength-based <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> are made with <LSTag Tooltip=""Advantage"">Advantage</LSTag> and your melee weapon attacks deal an extra [3].","O espírito da natureza Fera Primal transforma você em um poderoso guardião. Sua <LSTag Tooltip=""MovementSpeed"">Velocidade de Movimento</LSTag> é aumentada em [1], você ganha visão no escuro com um alcance de [2], suas <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> baseadas em Força são feitos com <LSTag Tooltip=""Advantage"">Vantagem</LSTag> e seus ataques com armas corpo a corpo causam um dano extra de [3]."
+"<LSTag Tooltip=""MovementSpeed"">Movement Speed</LSTag> increased by [1], gains [2] darkvision, Strength-based <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> are made with <LSTag Tooltip=""Advantage"">Advantage</LSTag> and melee weapon attacks deal an extra [3].","Velocidade de Movimento aumentada em [1], ganha [2] visão no escuro, <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> baseadas em Força são feitas com <LSTag Tooltip=""Advantage"">Vantagem</LSTag> e ataques com armas corpo a corpo causam um adicional de [3]."
+Guardian of Nature: Great Tree,Guardião da Natureza: Grande Árvore
+"The Great Tree nature spirit transforms you into a powerful guardian. You gain [1], you make Constitution <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> with <LSTag Tooltip=""Advantage"">Advantage</LSTag>, you make Dexterity and Wisdom-based <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> with <LSTag Tooltip=""Advantage"">Advantage</LSTag> and the ground within [2] of you is <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Difficult Terrain</LSTag>.","O Grande Árvore espírito da natureza o transforma em um poderoso guardião. Você ganha [1], você faz <LSTag Tooltip=""SavingThrow"">Testes de Constituição</LSTag> com <LSTag Tooltip=""Advantage"">Vantagem</LSTag>, suas <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> baseadas em Destreza e Sabedoria tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> e o terreno dentro de [2] de você é <LSTag Type=""Status"" Tooltip=""DIFFICULT_TERRAIN"">Terreno Difícil</LSTag>."
+"Gain [1] and make Constitution <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> and Dexterity and Wisdom-based <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> with <LSTag Tooltip=""Advantage"">Advantage</LSTag>. Difficult terrain within [2] of this creature.","Ganhe [1] e faça testes de <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> e <LSTag Tooltip=""AttackRoll"">rolagens de ataque</LSTag> baseadas em Destreza e Sabedoria com <LSTag Tooltip=""Advantage"">vantagem</LSTag>. Terreno difícil dentro de [2] desta criatura."
+Raulothim's Psychic Lance,Lança Psíquica de Raulothim
+"Unleash a shimmering lance of psychic power at a creature, possibly causing it to be <LSTag Type=""Status"" Tooltip=""INCAPACITATED"">Incapacitated</LSTag>.","Libere uma lança cintilante de poder psíquico em uma criatura, possivelmente fazendo com que ela fique <LSTag Type=""Status"" Tooltip=""INCAPACITATED"">Incapacitada</LSTag>."
+"Target still takes half damage and isn't <LSTag Type=""Status"" Tooltip=""INCAPACITATED"">Incapacitated</LSTag>.","O alvo ainda recebe metade do dano e não está <LSTag Type=""Status"" Tooltip=""INCAPACITATED"">Incapacitado</LSTag>."
+Summon Elemental,Invocar Elemental
+"Call forth an elemental spirit of air, earth, fire or water that fights alongside you.","Convoque um espírito elemental de ar, terra, fogo ou água que lute ao seu lado."
+Summon Elemental: Air,Invocar Elemental: Ar
+Call forth an elemental servant of air that fights alongside you.,Convoque um servo elemental do ar que lute ao seu lado.
+Slam,Soco
+Slam a foe with a blast of powerful wind.,Desferir um golpe em um inimigo com uma explosão de vento poderoso.
+Summon Elemental: Earth,Invocar Elemental: Terra
+Call forth an elemental servant of earth that fights alongside you.,Convoque um servo elemental da terra que lute ao seu lado.
+Earth Glide,Deslizamento Terrestre
+The earth elemental can burrow through earth and stone.,O elemental da terra pode escavar através da terra e da pedra.
+Punch a foe with a landslide's worth of force.,Desferir um soco em um inimigo com a força de um deslizamento de terra.
+Summon Elemental: Fire,Invocar Elemental: Fogo
+Call forth an elemental servant of fire that fights alongside you.,Convoque um servo elemental de fogo que luta ao seu lado.
+"Touch a foe with a heat like the bright core of a furnace, searing them.","Toque um inimigo com um calor semelhante ao núcleo brilhante de uma fornalha, queimando-o."
+Summon Elemental: Water,Invocar Elemental: Água
+Call forth an elemental servant of water that fights alongside you.,Convoque um servo elemental de água que luta ao seu lado.
+Slam into a foe with the power of a tsunami.,Atinja um inimigo com o poder de um tsunami.
+Air Elemental,Elemental do Ar
+Slam,Soco
+Call forth an elemental servant of water that fights alongside you.,Convoque um servo elemental de água que luta ao seu lado.
+This attack deals an additional amount of damage equal to the spell slot used to create the elemental.,Este ataque causa uma quantidade adicional de dano igual ao espaço de magia usado para criar o elemental.
+Commune with Nature,Comungar com a Natureza
+"Briefly become one with nature and gain knowledge of the surrounding territory. You gain expertise in <LSTag Tooltip=""Nature"">Nature</LSTag> and <LSTag Tooltip=""Survival"">Survival</LSTag> Ability Checks, doubling your <LSTag Tooltip=""ProficiencyBonus"">Proficiency Bonus</LSTag> with Ability Checks using the skills.","Brevemente torne-se um com a natureza e ganhe conhecimento do território ao redor. Você ganha especialização em <LSTag Tooltip=""Nature"">Natureza</LSTag> e <LSTag Tooltip=""Survival"">Sobrevivência</LSTag> Testes de Habilidade, dobrando seu <LSTag Tooltip=""ProficiencyBonus"">Bônus de Proficiência</LSTag> em Testes de Habilidade usando essas habilidades."
+"Has expertise with <LSTag Tooltip=""Nature"">Nature</LSTag> and <LSTag Tooltip=""Survival"">Survival</LSTag> Ability Checks.","Tem especialização em testes de habilidade de <LSTag Tooltip=""Nature"">Nature</LSTag> e <LSTag Tooltip=""Survival"">Survival</LSTag>."
+Cone of Cold,Cone de Frio
+"A blast of cold air erupts from your hands, dealing [1] to creatures.","Uma explosão de ar frio irrompe de suas mãos, causando [1] a criaturas."
+"On a successful save, targets take half damage.","Em um salvamento bem-sucedido, os alvos recebem metade do dano."
+Conjure Volley,Convocar Vôlei
+"Fire a piece of ammunition from a ranged weapon or throw a weapon into the air. Hundreds of duplicates of the ammunition or weapon fall in a volley from above and then disappear, damaging creatures in a [1] radius area.","Dispare um projétil de uma arma de longo alcance ou jogue uma arma para o alto. Centenas de duplicatas do projétil ou da arma caem em uma salva de cima e depois desaparecem, causando dano a criaturas em uma área de [1] de raio."
+Conjure Volley: Ammunition,Conjurar Chuva de Flechas: Munição
+"Fire a piece of ammunition from a ranged weapon into the air. Hundreds of duplicates of the ammunition fall in a volley from above and then disappear, damaging creatures in a [1] radius area.","Dispare um projétil de uma arma de longo alcance para o ar. Centenas de duplicatas do projétil caem em uma salva de cima e depois desaparecem, causando dano a criaturas em uma área de raio [1]."
+Conjure Volley: Bludgeoning Weapon,Conjurar Vôlei: Arma de Contusão
+"Throw a weapon into the air. Hundreds of duplicates of the weapon fall in a volley from above and then disappear, damaging creatures within a [1] radius area.","Lance uma arma para o alto. Centenas de duplicatas da arma caem em uma salva de cima e depois desaparecem, causando dano a criaturas em um raio de [1]."
+Conjure Volley: Slashing Weapon,Conjurar Chuva de Cortes: Arma Cortante
+"Throw a weapon into the air. Hundreds of duplicates of the weapon fall in a volley from above and then disappear, damaging creatures within a [1] radius area.","Lance uma arma para o alto. Centenas de duplicatas da arma caem em uma salva de cima e depois desaparecem, causando dano a criaturas em um raio de [1]."
+Conjure Volley: Piercing Weapon,Conjurar Vôlei: Arma Perfurante
+"Throw a weapon into the air. Hundreds of duplicates of the weapon fall in a volley from above and then disappear, damaging creatures within a [1] radius area.","Lance uma arma para o alto. Centenas de duplicatas da arma caem em uma salva de cima e depois desaparecem, causando dano a criaturas em um raio de [1]."
+Contagion,Contágio
+"Touch a creature, causing them to be Poisoned and make Constitution Saving Throws at the end of its turns.","Toque uma criatura, fazendo com que ela fique Envenenada e realize Testes de Salvamento de Constituição no final de seus turnos."
+"If creatures Poisoned have three successful saves, this spell ends. If creatures Poisoned have three failed saves, they are no longer Poisoned but suffer a random disease.","Se criaturas Envenenadas tiverem três salvamentos bem-sucedidos, este feitiço termina. Se criaturas Envenenadas tiverem três salvamentos falhos, elas não estarão mais Envenenadas, mas sofrerão uma doença aleatória."
+Dawn,Aurora
+Light of dawn shines down that damages any creature in its area or ends its turn in the light.,"A luz da aurora brilha, causando dano a qualquer criatura em sua área ou que termine seu turno na luz."
+You can use an action to move the light [1].,Você pode usar uma ação para mover a luz [1].
+Move Dawn,Mover Amanhã
+Move the light up to [1].,Mova a luz para [1].
+The light damages any creature that ends its turn in the light.,A luz causa dano a qualquer criatura que termina seu turno na luz.
+Far Step,Passo Distante
+Teleport to an unoccupied space you can see. You can teleport in this way again as a bonus action on your turns.,Teleporte para um espaço desocupado que você pode ver. Você pode teleportar-se dessa forma novamente como uma ação bônus em seus turnos.
+Holy Weapon,Arma Sagrada
+"Imbue a weapon with holy power. It becomes a magical weapon, emits light and deals an extra [1].","Imbuir uma arma com poder sagrado. Ela se torna uma arma mágica, emite luz e causa um dano extra de [1]."
+"As a bonus action, you can cause the weapon to emit a burst of radiance, dealing [1] to creatures within [2] of you and possibly causing them to be <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinded</LSTag>.","Como uma ação bônus, você pode fazer a arma emitir uma explosão de radiação, causando [1] a criaturas dentro de [2] de você e possivelmente fazendo com que elas fiquem <LSTag Type=""Status"" Tooltip=""BLINDED"">Cegas</LSTag>."
+Holy Weapon: Burst of Radiance,Arma Sagrada: Explosão de Radiação
+"Emit a burst of radiance from the weapon, possibly <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinding</LSTag> creatures.","Emita uma explosão de radiação da arma, possivelmente <LSTag Type=""Status"" Tooltip=""BLINDED"">Cegando</LSTag> criaturas."
+"Once this action is used, the <LSTag Type=""Spell"" Tooltip=""Target_HolyWeapon"">Holy Weapon</LSTag> spell ends.","Uma vez que esta ação é usada, o feitiço <LSTag Type=""Spell"" Tooltip=""Target_HolyWeapon"">Holy Weapon</LSTag> termina."
+"Weapon deals an extra [1], becomes magical and emits light.","A arma causa [1] de dano extra, torna-se mágica e emite luz."
+Negative Energy Flood,Inundação de Energia Negativa
+"Send negative energy at a creature, dealing [1] if they aren't an undead. Targets killed by this damage rise up as a zombie at the start of your next turn and become hostile to all creatures. If the target is an undead, they gain [2] instead.","Envie energia negativa a uma criatura, causando [1] se ela não for um morto-vivo. Alvos mortos por esse dano ressurgem como um zumbi no início do seu próximo turno e se tornam hostis a todas as criaturas. Se o alvo for um morto-vivo, ele ganha [2] em vez disso."
+This entity is prone to becoming a zombie.,Esta entidade é propensa a se tornar um zumbi.
+"Gain <LSTag Tooltip=""TemporaryHitPoints"">temporary hit points</LSTag> equal to half of [1].","Ganhe <LSTag Tooltip=""TemporaryHitPoints"">pontos de vida temporários</LSTag> iguais à metade de [1]."
+Raise Dead,Ressuscitar Mortos
+Touch a creature that has died and return it to life with [1].,Toque uma criatura que morreu e a traga de volta à vida com [1].
+"Coming back from the dead is an ordeal. The creature has a -4 penalty to all <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>, <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> and reduces by -1 after a long rest.","Voltar da morte é uma provação. A criatura tem uma penalidade de -4 em todas as <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>, <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> e reduz em -1 após um descanso longo."
+"This entity was raised from the dead and receives a -[1] penalty to <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>, <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag> and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Esta entidade foi ressuscitada e recebe uma penalidade de -[1] em <LSTag Tooltip=""AttackRoll"">Testes de Ataque</LSTag>, <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Salvamento</LSTag>."
+Rary's Telepathic Bond,Vínculo Telepático de Rary
+"Forge a telepathic link among up to eight creatures with Intelligence scores higher than 2, psychically linking each creature to all the others.","Forje um vínculo telepático entre até oito criaturas com pontuações de Inteligência superiores a 2, ligando psicologicamente cada criatura a todas as outras."
+"While linked, creatures have Advantage on Attack Rolls and Saving Throws that would include one another as targets.","Enquanto estiverem ligados, as criaturas têm Vantagem em Rolagens de Ataque e Testes de Resistência que as incluam como alvos."
+"Bonded to the spellcaster and others. While linked, allied creatures have Advantage on Attack Rolls and Saving Throws against attacks and spells that would include them as targets.","Vinculado ao conjurador e outros. Enquanto estiverem ligados, criaturas aliadas têm Vantagem em Rolagens de Ataque e Testes de Resistência contra ataques e feitiços que as incluiriam como alvos."
+Skill Empowerment,Aprimoramento de Habilidade
+"Deepen a creature’s understanding of its own talent, granting it expertise in one skill, allowing it to add twice its proficiency bonus to <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag> with the skill.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em uma habilidade, permitindo que adicione o dobro do seu bônus de proficiência a <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> com a habilidade."
+"The target must be proficient in the chosen skill and cannot already benefit from an effect that doubles its <LSTag Tooltip=""ProficiencyBonus"">Proficiency Bonus</LSTag>.","O alvo deve ser proficiente na habilidade escolhida e não pode já se beneficiar de um efeito que dobre seu <LSTag Tooltip=""ProficiencyBonus"">Proficiency Bonus</LSTag>."
+Skill Empowerment: Acrobatics,Aprimoramento de Habilidade: Acrobacia
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Acrobatics"">Acrobatics</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Acrobatics"">Acrobatics</LSTag>."
+"Creature has expertise with Acrobatics <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Acrobacias <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Animal Handling,Aprimoramento de Habilidade: Manipulação de Animais
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""AnimalHandling"">Animal Handling</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""AnimalHandling"">Manipulação de Animais</LSTag>."
+"Creature has expertise with Animal Handling <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Manipulação de Animais <LSTag Tooltip=""AbilityCheck"">Checks de Habilidade</LSTag>."
+Skill Empowerment: Arcana,Aprimoramento de Habilidade: Arcana
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Arcana"">Arcana</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Arcana"">Arcana</LSTag>."
+"Creature has expertise with Arcana <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem proficiência em Arcana <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Athletics,Aperfeiçoamento de Habilidade: Atletismo
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Athletics"">Athletics</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Athletics"">Athletics</LSTag>."
+"Creature has expertise with Athletics <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Atletismo <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Deception,Aprimoramento de Habilidade: Engano
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Deception"">Deception</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Deception"">Enganação</LSTag>."
+"Creature has expertise with Deception <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Enganação <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: History,Empoderamento de Habilidade: História
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""History"">History</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""History"">História</LSTag>."
+"Creature has expertise with History <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em História <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Insight,Aperfeiçoamento de Habilidade: Intuição
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Insight"">Insight</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Insight"">Insight</LSTag>."
+"Creature has expertise with Insight <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Intuição <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Intimidation,Aprimoramento de Habilidade: Intimidação
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Intimidation"">Intimidation</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Intimidation"">Intimidation</LSTag>."
+"Creature has expertise with Intimidation <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Intimidação <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Investigation,Aprimoramento de Habilidade: Investigação
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Investigation"">Investigation</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Investigation"">Investigação</LSTag>."
+"Creature has expertise with Investigation <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem perícia em Investigação <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Medicine,Aprimoramento de Habilidade: Medicina
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Medicine"">Medicine</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Medicine"">Medicine</LSTag>."
+"Creature has expertise with Medicine <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Medicina <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Nature,Aprimoramento de Habilidade: Natureza
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Nature"">Nature</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Nature"">Nature</LSTag>."
+"Creature has expertise with Nature <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Natureza <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Perception,Aprimoramento de Habilidade: Percepção
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Perception"">Perception</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Perception"">Perception</LSTag>."
+"Creature has expertise with Perception <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Percepção <LSTag Tooltip=""AbilityCheck"">Checks de Habilidade</LSTag>."
+Skill Empowerment: Performance,Aprimoramento de Habilidade: Performance
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Performance"">Performance</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Performance"">Performance</LSTag>."
+"Creature has expertise with Performance <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Performance <LSTag Tooltip=""AbilityCheck"">Checks de Habilidade</LSTag>."
+Skill Empowerment: Persuasion,Aprimoramento de Habilidade: Persuasão
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Persuasion"">Persuasion</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Persuasion"">Persuasion</LSTag>."
+"Creature has expertise with Persuasion <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Persuasão <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Religion,Empoderamento de Habilidade: Religião
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Religion"">Religion</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Religion"">Religião</LSTag>."
+"Creature has expertise with Religion <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Religião <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Sleight of Hand,Empoderamento de Habilidade: Destreza com as Mãos
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""SleightOfHand"">Sleight of Hand</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""SleightOfHand"">Sleight of Hand</LSTag>."
+"Creature has expertise with Sleight of Hand <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem proficiência em Destreza com <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Stealth,Aprimoramento de Habilidade: Furtividade
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Stealth"">Stealth</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Stealth"">Furtividade</LSTag>."
+"Creature has expertise with Stealth <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Furtividade <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Skill Empowerment: Survival,Aperfeiçoamento de Habilidade: Sobrevivência
+"Deepen a creature’s understanding of its own talent, granting it expertise in <LSTag Tooltip=""Survival"">Survival</LSTag>.","Aprofunde a compreensão de uma criatura sobre seu próprio talento, concedendo-lhe especialização em <LSTag Tooltip=""Survival"">Sobrevivência</LSTag>."
+"Creature has expertise with Survival <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>.","A criatura tem especialização em Sobrevivência <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag>."
+Steel Wind Strike,Golpe do Vento de Aço
+"Flourish a melee weapon and then vanish to strike like the wind, dealing [1] up to five creatures.","Floresta uma arma corpo a corpo e então desapareça para atacar como o vento, causando [1] em até cinco criaturas."
+Can teleport to a creature targeted by the Steel Wind Strike spell. ,Pode se teletransportar para uma criatura alvo do feitiço Golpe do Vento de Aço.
+Steel Wind Strike: Teleport,Golpe de Vento de Aço: Teleportar
+Teleport to a target of your Steel Wind Strike.,Teleporte-se para um alvo do seu Golpe do Vento de Aço.
+Summon Draconic Spirit,Invocar Espírito Dracônico
+"Call forth a draconic spirit that resembles a chromatic, gem, or metallic dragon that fights alongside you.","Convoque um espírito dracônico que se assemelha a um dragão cromático, de gema ou metálico que luta ao seu lado."
+Summon Draconic Spirit: Chromatic,Invocar Espírito Dracônico: Cromático
+Call forth a draconic spirit that resembles a chromatic dragon that fights alongside you.,Convoque um espírito dracônico que se assemelha a um dragão cromático que luta ao seu lado.
+Summon Draconic Spirit: Gem,Invocar Espírito Dracônico: Joia
+Call forth a draconic spirit that resembles a gem dragon that fights alongside you.,Convoque um espírito dracônico que se assemelha a um dragão de gema que luta ao seu lado.
+Summon Draconic Spirit: Metallic,Invocar Espírito Dracônico: Metálico
+Call forth a draconic spirit that resembles a metallic dragon that fights alongside you.,Convoque um espírito dracônico que se assemelha a um dragão metálico que luta ao seu lado.
+Draconic Spirit,Espírito Dracônico
+Rend,Renda
+Chromatic Resistance,Resistência Cromática
+"Choose to become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to acid, cold, fire, lightning or poison damage.","Escolha se tornar <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de ácido, frio, fogo, relâmpago ou veneno."
+Chromatic Resistance: Acid,Resistência Cromática: Ácido
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to acid damage.","Fique <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de ácido."
+Chromatic Resistance: Cold,Resistência Cromática: Frio
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to cold damage.","Torne-se <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de frio."
+Chromatic Resistance: Fire,Resistência Cromática: Fogo
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to fire damage.","Fique <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de fogo."
+Chromatic Resistance: Lightning,Resistência Cromática: Raio
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to lightning damage.","Fique <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de relâmpago."
+Chromatic Resistance: Poison,Resistência Cromática: Veneno
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to poison damage.","Fique <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de veneno."
+Gem Resistance,Resistência a Gemas
+"Choose to become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to force, necrotic, psychic, radiant or thunder damage.","Escolha se tornar <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de força, necrótico, psíquico, radiante ou trovão."
+Gem Resistance: Force,Resistência a Gemas: Força
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to force damage.","Torne-se <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de força."
+Gem Resistance: Necrotic,Resistência a Gemas: Necrótica
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to necrotic damage.","Fique <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano necrótico."
+Gem Resistance: Psychic,Resistência a Gemas: Psíquica
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to psychic damage.","Fique <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano psíquico."
+Gem Resistance: Radiant,Resistência a Gemas: Radiante
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to radiant damage.","Fique <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano radiante."
+Gem Resistance: Thunder,Resistência a Gemas: Trovão
+"Become <LSTag Tooltip=""Resistance"">Resistant</LSTag> to thunder damage.","Torne-se <LSTag Tooltip=""Resistance"">Resistente</LSTag> a dano de trovão."
+Swift Quiver,Flecha Rápida
+Transmute your quiver so it produces an endless supply of nonmagical ammunition. You can use a bonus action to make two ranged weapon attacks.,Transmute seu aljava para que ela produza um suprimento infinito de munição não mágica. Você pode usar uma ação bônus para fazer dois ataques com armas de longo alcance.
+"Can make two ranged weapon attacks as a <LSTag Tooltip=""BonusAction"">Bonus Action</LSTag>.","Pode fazer dois ataques com armas à distância como uma <LSTag Tooltip=""BonusAction"">Ação Bônus</LSTag>."
+Make two ranged attacks with the equipped weapon.,Faça dois ataques à distância com a arma equipada.
+Synaptic Static,Estática Sináptica
+"Psychic energy explodes in an area, possibly causing creatures to subtract [1] from their <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>, <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag> and Constitution <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> to maintain concentration.","A energia psíquica explode em uma área, possivelmente fazendo com que criaturas subtraiam [1] de suas <LSTag Tooltip=""AttackRoll"">Rolagens de Ataques</LSTag>, <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> de Constituição para manter a concentração."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> Cannot affect creatures with an <LSTag Tooltip=""Intelligence"">Intelligence</LSTag> score of 2 or lower.","Não pode afetar criaturas com um <LSTag Tooltip=""Intelligence"">Intelligence</LSTag> de 2 ou menos."
+Targets still take half damage and don't suffer any other effects.,Os alvos ainda recebem metade do dano e não sofrem nenhum outro efeito.
+"[1] subtracted from <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>, <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag> and Constitution <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> to maintain concentration.","subtraído de <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>, <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> de Constituição para manter a concentração."
+Temporal Shunt,Desvio Temporal
+Prepare yourself to potentially vanish a creature to another point in time when they attempt to make an attack or cast a spell.,Prepare-se para potencialmente fazer uma criatura desaparecer para outro ponto no tempo quando ela tentar fazer um ataque ou lançar um feitiço.
+The creature reappears in the space it was previously on the start of its next turn.,A criatura reaparece no espaço em que estava anteriormente no início de seu próximo turno.
+Temporal Shunt,Desvio Temporal
+Vanish a creature to another point in time when they attempt to make an attack or cast a spell.,Desapareça uma criatura para outro ponto no tempo quando ela tentar fazer um ataque ou lançar um feitiço.
+The creature reappears in the space it was previously on the start of its next turn.,A criatura reaparece no espaço em que estava anteriormente no início de seu próximo turno.
+"Vanish a creature when it casts a spell or makes an attack, causing the action to fail before it has any effect.","Desapareça uma criatura quando ela conjura um feitiço ou faz um ataque, fazendo com que a ação falhe antes de ter qualquer efeito."
+"Vanish a creature, in addition to [1] other creature(s), when it casts a spell or makes an attack, causing the action to fail before it has any effect.","Desapareça uma criatura, além de [1] outra(s) criatura(s), quando ela lançar um feitiço ou fizer um ataque, fazendo com que a ação falhe antes de ter qualquer efeito."
+Vanished to another point in time.,Desapareceu para outro ponto no tempo.
+Shadow of Moil,Sombra de Moil
+"Flame-like shadows wreathe your body, causing you to gain <LSTag Tooltip=""Resistance"">Resistance</LSTag> to radiant damage and become <LSTag Type=""Status"" Tooltip=""SNEAKING_HEAVILY_OBSCURED"">Heavily Obscured</LSTag> to others.","Sombras flamejantes envolvem seu corpo, fazendo com que você ganhe <LSTag Tooltip=""Resistance"">Resistência</LSTag> a dano radiante e se torne <LSTag Type=""Status"" Tooltip=""SNEAKING_HEAVILY_OBSCURED"">Fortemente Oculto</LSTag> para os outros."
+"Whenever a creature within [1] hits you with an attack, the shadows lash out at that creature, dealing [2].","Sempre que uma criatura dentro de [1] te atingir com um ataque, as sombras atacam essa criatura, causando [2]."
+"<LSTag Type=""Status"" Tooltip=""SNEAKING_HEAVILY_OBSCURED"">Heavily Obscured</LSTag> to others and <LSTag Type=""Status"" Tooltip=""RESISTANCE"">Resistant</LSTag> to radiant damage.","<LSTag Type=""Status"" Tooltip=""SNEAKING_HEAVILY_OBSCURED"">Fortemente Oculto</LSTag> para os outros e <LSTag Type=""Status"" Tooltip=""RESISTANCE"">Resistente</LSTag> a dano radiante."
+Must have 25 gold to cast this spell.,É necessário ter 25 de ouro para lançar este feitiço.
+Change your appearance to that of a tiefling.,Mude sua aparência para a de um tiefling.
+Regenerate,Regenerar
+"Touch a creature to stimulate its natural healing ability, regaining [1] and [2] at the start of its turns.","Toque uma criatura para estimular sua habilidade de cura natural, recuperando [1] e [2] no início de seus turnos."
+"The target's severed body parts, if any, are also restored.","Os membros severados do alvo, se houver, também são restaurados."
+Regains [1] per turn.,Recupera [1] por turno.
+Teleport,Teletransporte
+Instantly transport yourself and allied creatures or a single object within range to a destination you can see or have previously marked to return to.,Transporte instantaneamente você e criaturas aliadas ou um único objeto dentro do alcance para um destino que você pode ver ou que tenha marcado anteriormente para retornar.
+Teleport: Creatures,Teletransporte: Criaturas
+Instantly transport yourself and allied creatures to a destination you can see.,Transporte instantaneamente você e criaturas aliadas para um destino que você pode ver.
+Teleport: Object,Teletransporte: Objeto
+Instantly transport a single object within [1] of you.,Transporte instantaneamente um único objeto dentro de [1] de você.
+Teleport: Destination,Teletransporte: Destino
+"Choose your current location to return to through the <LSTag Type=""Spell"" Tooltip=""Shout_Teleport"">Teleport</LSTag> spell.","Escolha sua localização atual para retornar através do feitiço <LSTag Type=""Spell"" Tooltip=""Shout_Teleport"">Teleportar</LSTag>."
+Instantly transport yourself and allied creatures to a destination you have previously marked to return to.,Transporte instantaneamente você e criaturas aliadas para um destino que você marcou anteriormente para retornar.
+Chosen a location to teleport to.,Escolheu um local para se teletransportar.
+Finger of Death,Toque da Morte
+Send negative energy coursing through a creature. Humanoids killed by this spell can be risen as a zombie that is permanently under your command.,Envie energia negativa percorrendo uma criatura. Humanoides mortos por este feitiço podem ser ressuscitados como zumbis que ficam permanentemente sob seu comando.
+Finger of Death: Zombie,Toque da Morte: Zumbi
+"Raise a humanoid creature killed by your <LSTag Type=""Spell"" Tooltip=""Target_FingerOfDeath"">Finger of Death</LSTag> spell as a zombie.","Ressuscite uma criatura humanoide morta pelo seu feitiço <LSTag Type=""Spell"" Tooltip=""Target_FingerOfDeath"">Toque da Morte</LSTag> como um zumbi."
+"This entity can raise a Humanoid killed by their <LSTag Type=""Spell"" Tooltip=""Target_FingerOfDeath"">Finger of Death</LSTag> spell.","Esta entidade pode ressuscitar um Humanoide morto pelo seu feitiço <LSTag Type=""Spell"" Tooltip=""Target_FingerOfDeath"">Toque da Morte</LSTag>."
+"Strike an enemy with lightning. Four more bolts will leap from the target, electrifying as many as four other enemies within [1].","Atinja um inimigo com relâmpago. Quatro outros raios saltarão do alvo, eletrificando até quatro outros inimigos dentro de [1]."
+"Strike an enemy with lightning. Five more bolts will leap from the target, electrifying as many as five other enemies within [1].","Atinja um inimigo com relâmpago. Mais cinco raios saltarão do alvo, eletrificando até cinco outros inimigos dentro de [1]."
+"Strike an enemy with lightning. Six more bolts will leap from the target, electrifying as many as six other enemies within [1].","Ataque um inimigo com relâmpago. Seis outros raios saltarão do alvo, eletrificando até seis outros inimigos dentro de [1]."
+"The target can also see through illusions created by spells and automatically saving against any that would force a <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag>.","O alvo também pode ver através de ilusões criadas por feitiços e automaticamente salva contra qualquer uma que forçar um <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag>."
+"Can see any <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisible</LSTag> creatures and objects and see through illusions.","Consegue ver qualquer criatura e objeto <LSTag Type=""Status"" Tooltip=""INVISIBLE"">Invisível</LSTag> e ver através de ilusões."
+"When you are targeted by an Illusion spell that forces you to make a <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag>, you can automatically succeed on the save.","Quando você é alvo de um feitiço de Ilusão que o obriga a fazer um <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag>, você pode automaticamente ter sucesso no teste."
+Power Word: Kill,Palavra de Poder: Morte
+Alter Self,Alterar Forma
+Change your appearance or gain natural weapons.,Mude sua aparência ou ganhe armas naturais.
+Alter Self: Masc Tiefling,Alterar Forma: Tiefling Masculino
+Alter Self: Femme Tiefling,Alterar Forma: Tiefling Feminina
+Alter Self: Masc Drow,Alterar a Própria Aparência: Drow Masculino
+Alter Self: Femme Drow,Alterar a Forma: Drow Feminina
+Alter Self: Masc Human,Alterar Forma: Humano Masculino
+Alter Self: Femme Human,Alterar Forma: Humana Feminina
+Alter Self: Masc Githyanki,Alterar Forma: Githyanki Masculino
+Alter Self: Femme Githyanki,Alterar Forma: Mulher Githyanki
+Alter Self: Masc Dwarf,Alter Self: Anão Masculino
+Alter Self: Femme Dwarf,Alter Self: Anã Feminina
+Alter Self: Masc Elf,Alter Self: Elfo Masculino
+Alter Self: Femme Elf,Alterar Forma: Elfa Mulher
+Alter Self: Masc Half-Elf,Alter Self: Meio-Elfo Masculino
+Alter Self: Femme Half-Elf,Alterar Forma: Meio-Elfa Feminina
+Alter Self: Masc Halfling,Alterar Forma: Halfling Masculino
+Alter Self: Femme Halfling,Alterar Forma: Halfling Feminina
+Alter Self: Masc Gnome,Alterar Forma: Gnomo Masculino
+Alter Self: Femme Gnome,Alterar Forma: Gnome Fêmea
+Alter Self: Masc Dragonborn,Alter Self: Dragão de Nascença Masculino
+Alter Self: Femme Dragonborn,Alterar Forma: Fêmea Dragonborn
+Alter Self: Masc Half-Orc,Alterar Forma: Meio-Orc Masculino
+Alter Self: Femme Half-Orc,Alter Self: Meio-Orc Fêmea
+Alter Self: Masc Strong Human,Alterar Forma: Humano Forte
+Alter Self: Femme Strong Human,Alterar Forma: Humana Forte Feminina
+Alter Self: Masc Strong Drow,Alterar Forma: Drow Forte Masculino
+Alter Self: Femme Strong Drow,Alterar Forma: Drow Feminina Forte
+Alter Self: Masc Strong Elf,Alterar Forma: Elfo Forte Masculino
+Alter Self: Femme Strong Elf,Alterar Forma: Elfa Forte
+Alter Self: Masc Strong Half-Elf,Alterar Forma: Meio-Elfo Forte Masculino
+Alter Self: Femme Strong Half-Elf,Alter Self: Meio-Elfo Forte Feminino
+Alter Self: Masc Strong Tiefling,Alterar Forma: Tiefling Forte Masculino
+Alter Self: Femme Strong Tiefling,Alterar Forma: Tiefling Feminina Forte
+Alter Self: Bludgeoning Weapon,Alterar Forma: Arma de Contusão
+Alter Self: Piercing Weapon,Alterar Forma: Arma Perfurante
+Alter Self: Slashing Weapon,Alterar Forma: Arma Cortante
+"Grow a natural weapon that deals [1], is magical and has a +1 bonus to their <LSTag Tooltip=""AttackRoll"">attack</LSTag> and damage rolls.","Cresça uma arma natural que causa [1], é mágica e tem um bônus de +1 nas <LSTag Tooltip=""AttackRoll"">rolagens de ataque</LSTag> e dano."
+Bludgeoning Weapon,Arma de Contusão
+Slashing Weapon,Arma Cortante
+Piercing Weapon,Arma Perfurante
+"This entity's unarmed strikes deal [1], are magical and have a +1 bonus to their <LSTag Tooltip=""AttackRoll"">attack</LSTag> and damage rolls.","Os ataques desarmados desta entidade causam [1], são mágicos e têm um bônus de +1 nas <LSTag Tooltip=""AttackRoll"">rolagens de ataque</LSTag> e dano."
+Weapon Enhancement,Aprimoramento de Arma
+Hit a target with your natural weapon.,Acertar um alvo com sua arma natural.
+Alter Self: Change,Alterar Forma: Mudar
+Change your appearance again.,Mude sua aparência novamente.
+Mind Blank,Vazio Mental
+"Touch an allied creature, making it <LSTag Type=""Status"" Tooltip=""RESISTANCE"">Immune</LSTag> to Psychic damage, effects that senses its emotions or read its thoughts, divination spells, and the <LSTag Type=""Status"" Tooltip=""CHARMED"">Charmed</LSTag> condition.","Toque em uma criatura aliada, tornando-a <LSTag Type=""Status"" Tooltip=""RESISTANCE"">Imune</LSTag> a dano Psíquico, efeitos que detectam suas emoções ou leem seus pensamentos, feitiços de adivinhação e a condição <LSTag Type=""Status"" Tooltip=""CHARMED"">Encantada</LSTag>."
+"This entity is <LSTag Type=""Status"" Tooltip=""RESISTANCE"">Immune</LSTag> to Psychic damage, effects that senses its emotions or read its thoughts, divination spells, and the <LSTag Type=""Status"" Tooltip=""CHARMED"">Charmed</LSTag> condition.","Esta entidade é <LSTag Type=""Status"" Tooltip=""RESISTANCE"">Imune</LSTag> a dano Psíquico, efeitos que percebem suas emoções ou leem seus pensamentos, feitiços de adivinhação, e a condição <LSTag Type=""Status"" Tooltip=""CHARMED"">Encantado</LSTag>."
+Holy Aura,Aura Sagrada
+"Divine light washes out in a [1] area around you. Allied creatures have <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> and non-allied creatures have on <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">attack</LSTag> against your allies.","A luz divina se espalha em uma [1] área ao seu redor. Criaturas aliadas têm <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> e criaturas não aliadas têm <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra seus aliados."
+"Fiends and undeads are <LSTag Type=""Status"" Tooltip=""BLINDED"">Blinded</LSTag> when they hit affected allies with melee attacks.","Demônios e mortos-vivos ficam <LSTag Type=""Status"" Tooltip=""BLINDED"">Cegos</LSTag> quando atingem aliados afetados com ataques corpo a corpo."
+"Has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.","Tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>."
+"Has <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attacks</LSTag> against entities affected by <LSTag Type=""Spell"" Tooltip=""Shout_HolyAura"">Holy Aura</LSTag>.","Tem <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra entidades afetadas por <LSTag Type=""Spell"" Tooltip=""Shout_HolyAura"">Aura Sagrada</LSTag>."
+Feeblemind,Mente Fraca
+"Shatter a creature's intellect and personality, reducing its <LSTag Tooltip=""Intelligence"">Intelligence</LSTag> and <LSTag Tooltip=""Charisma"">Charisma</LSTag> to 1 and preventing it from casting spells or communicating intelligibly.","Destrua o intelecto e a personalidade de uma criatura, reduzindo sua <LSTag Tooltip=""Intelligence"">Intelligence</LSTag> e <LSTag Tooltip=""Charisma"">Charisma</LSTag> para 1 e impedindo-a de lançar feitiços ou se comunicar de forma inteligível."
+"<LSTag Tooltip=""Intelligence"">Intelligence</LSTag> and <LSTag Tooltip=""Charisma"">Charisma</LSTag> reduced to 1 and cannot cast spells or engage in dialogues.","<LSTag Tooltip=""Intelligence"">Inteligência</LSTag> e <LSTag Tooltip=""Charisma"">Carisma</LSTag> reduzidos a 1 e não podem lançar feitiços ou participar de diálogos."
+Dominate Monster,Dominar Monstro
+"Make a creature fight alongside you. Every time the creature takes damage, it makes a Wisdom <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> against your domination. Allies cannot be dominated.","Faça uma criatura lutar ao seu lado. Toda vez que a criatura sofrer dano, ela faz um teste de Sabedoria <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> contra sua dominação. Aliados não podem ser dominados."
+"As an action, you can <LSTag Type=""Spell"" Tooltip=""Target_DominateMonster_TotalControl"">total control</LSTag> the target.","Como uma ação, você pode <LSTag Type=""Spell"" Tooltip=""Target_DominateMonster_TotalControl"">ter controle total</LSTag> sobre o alvo."
+Dominate Monster: Total Control,Dominar Monstro: Controle Total
+"Take total and precise control of a creature <LSTag Type=""Spell"" Tooltip=""Target_DominateMonster"">dominated</LSTag> by you.","Assuma o controle total e preciso de uma criatura <LSTag Type=""Spell"" Tooltip=""Target_DominateMonster"">dominada</LSTag> por você."
+Dominate Monster: Lost Control,Dominar Monstro: Controle Perdido
+Affected entity has been fully dominated and lost all control.,A entidade afetada foi totalmente dominada e perdeu todo o controle.
+Tenser's Transformation,Transformação de Tenser
+"Endow yourself with endurance and martial prowess fueled by magic, preventing you from casting spells but granting you gain several benefits.","Conceda a si mesmo resistência e destreza marcial alimentadas por magia, impedindo-o de lançar feitiços, mas garantindo que você obtenha vários benefícios."
+"You gain [1], you have <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> with weapons, you deal an extra [2] with weapon attacks, you have proficiency with all armor, shields and weapons, you have proficiency in Strength and Constitution <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag>.<br> and you can attack twice, instead of once, when you take the Attack action on your turn unless you have the <LSTag Type=""Passive"" Tooltip=""ExtraAttack"">Extra Attack</LSTag> or similar feature.","Você ganha [1], você tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> com armas, você causa [2] a mais com ataques de arma, você tem proficiência com todas as armaduras, escudos e armas, você tem proficiência em Força e Constituição <LSTag Tooltip=""SavingThrow"">Jogadas de Salvamento</LSTag>.<br> e você pode atacar duas vezes, em vez de uma, quando você realiza a ação de Ataque em seu turno, a menos que você tenha a <LSTag Type=""Passive"" Tooltip=""ExtraAttack"">Ataque Extra</LSTag> ou uma habilidade similar."
+"<LSTag Type=""Image"" Info=""SoftWarning""/> After the spell ends, you must succeed on a DC 15 Constitution <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> or suffer one level of Exhaustion.","<LSTag Type=""Image"" Info=""SoftWarning""/> Após o término da magia, você deve ter sucesso em um teste de Constituição CD 15 <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> ou sofrer um nível de Exaustão."
+"This entity has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> with weapons, deals an extra [2] with weapon attacks, has proficiency with all armor, shields and weapons, has proficiency in Strength and Constitution <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> and attack twice, instead of once, when taking the Attack action on its turn.","Esta entidade tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> com armas, causa um extra de [2] com ataques de armas, tem proficiência com todas as armaduras, escudos e armas, tem proficiência em Força e Constituição <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> e ataca duas vezes, em vez de uma, ao realizar a ação de Ataque em seu turno."
+Power Word: Heal,Palavra de Poder: Curar
+"A wave of healing energy washes over a creature, causing it to regaining all its <LSTag Tooltip=""HitPoints"">hit points</LSTag> and removing the <LSTag Type=""Status"" Tooltip=""CHARMED"">Charmed</LSTag>, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag>, <LSTag Type=""Status"" Tooltip=""PARALYSED"">Paralysed</LSTag> and <LSTag Type=""Status"" Tooltip=""STUNNED"">Stunned</LSTag> conditions.","Uma onda de energia curativa envolve uma criatura, fazendo com que ela recupere todos os seus <LSTag Tooltip=""HitPoints"">pontos de vida</LSTag> e removendo as condições <LSTag Type=""Status"" Tooltip=""CHARMED"">Enfeitiçado</LSTag>, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Amedrontado</LSTag>, <LSTag Type=""Status"" Tooltip=""PARALYSED"">Paralisado</LSTag> e <LSTag Type=""Status"" Tooltip=""STUNNED"">Atordoado</LSTag>."
+"If the target is <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag>, it stands up by using its <LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">reaction</LSTag>.","Se o alvo estiver <LSTag Type=""Status"" Tooltip=""PRONE"">Caído</LSTag>, ele se levanta usando seu <LSTag Type=""ActionResource"" Tooltip=""ReactionActionPoint"">reação</LSTag>."
+Power Word Heal: Prone,Palavra de Poder: Curar: Caído
+"You can stand up from being <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag>.","Você pode se levantar de <LSTag Type=""Status"" Tooltip=""PRONE"">Prone</LSTag>."
+Foresight,Previsão
+"Bestow a creature with a limited ability to see the future. The target cannot be <LSTag Type=""Status"" Tooltip=""SURPRISED"">Surprised</LSTag> and has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>, <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>, and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> and imposes <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> from creatures targeting them.","Conceda a uma criatura uma habilidade limitada de ver o futuro. O alvo não pode ser <LSTag Type=""Status"" Tooltip=""SURPRISED"">Surpreendido</LSTag> e tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>, <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag>, e impõe <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> de criaturas que o alvo estiver mirando."
+"This entity cannot be <LSTag Type=""Status"" Tooltip=""SURPRISED"">Surprised</LSTag> and has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag>, <LSTag Tooltip=""AbilityCheck"">Ability Checks</LSTag>, and <LSTag Tooltip=""SavingThrow"">Saving Throws</LSTag> and imposes <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> from creatures targeting it.","Esta entidade não pode ser <LSTag Type=""Status"" Tooltip=""SURPRISED"">Surpresa</LSTag> e tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag>, <LSTag Tooltip=""AbilityCheck"">Testes de Habilidade</LSTag> e <LSTag Tooltip=""SavingThrow"">Testes de Resistência</LSTag> e impõe <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> de criaturas que o alvo."
+Antagonize,Antagonizar
+"Whisper magical words that antagonize a creature, possibly causing the target to use its reaction to make a melee attack against another creature.","Sussurre palavras mágicas que antagonizam uma criatura, possivelmente fazendo com que o alvo use sua reação para atacar corpo a corpo outra criatura."
+"If the target can’t make the attack, it instead has <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on its next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>.","Se o alvo não puder realizar o ataque, ele terá <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em sua próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>."
+Antagonize: Declare Target,Antagonizar: Declarar Alvo
+Choose who your antagonized target is goaded into attacking.,Escolha quem seu alvo antagonizado é incitado a atacar.
+Antagonized,Antagonizado
+"This entity has been provoked into attacking another creature. If unable to do so, the entity's next attack has <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag>.","Esta entidade foi provocada a atacar outra criatura. Se não conseguir, o próximo ataque da entidade terá <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag>."
+Antagonized Attack,Ataque Antagonizado
+You are provoked into attacking another creature.,Você é provocado a atacar outra criatura.
+"Can't take actions, bonus actions, or reactions.","Não pode realizar ações, ações bônus ou reações."
+Summon Aberration: Beholderkin,Invocar Aberração: Beholderkin
+Call forth an aberrant spirit whose corporeal form resembles a Beholderkin.,Chame um espírito aberrante cuja forma corpórea se assemelha a um Beholderkin.
+Aberrant Spirit: Beholderkin,Espírito Aberrante: Beholderkin
+Eye Ray,Raio Ocular
+Shoot amagical eye ray at a creature.,Dispare um raio mágico ocular em uma criatura.
+Aura of Life,Aura da Vida
+"An aura of life-preserving energy radiates from you in a [1] radius. Non-hostile creatures in the aura have <LSTag Tooltip=""Resistance"">Resistance</LSTag> against Necrotic damage, their hit point maximum cannot be reduced and living creatures regain [2] when starting their turns with [3].","Uma aura de energia preservadora da vida irradia de você em um raio de [1]. Criaturas não hostis na aura têm <LSTag Tooltip=""Resistance"">Resistência</LSTag> contra dano Necrótico, seu máximo de pontos de vida não pode ser reduzido e criaturas vivas recuperam [2] ao iniciar seus turnos com [3]."
+"This entity has <LSTag Tooltip=""Resistance"">Resistance</LSTag> against Necrotic damage, its hit point maximum cannot be reduced and it regains [1] at start of turns if it has [2] and is alive.","Esta entidade tem <LSTag Tooltip=""Resistance"">Resistência</LSTag> contra dano Necrótico, seu máximo de pontos de vida não pode ser reduzido e ela recupera [1] no início dos turnos se tiver [2] e estiver viva."
+Maelstrom,Redemoinho
+"A swirling mass of [1]-deep water appears in a [2] radius centered on a point you can see within range. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take damage and be pulled [3] toward the center.","Uma massa giratória de água profunda aparece em um raio de [2] centrado em um ponto que você pode ver dentro do alcance. Até que a magia termine, essa área é terreno difícil, e qualquer criatura que comece seu turno lá deve ter sucesso em um teste de resistência de Força ou sofrer dano e ser puxada [3] em direção ao centro."
+"This entity is caught in the maelstrom, taking damage and being pulled toward the center at the start of its turn.","Esta entidade está presa no redemoinho, sofrendo dano e sendo puxada em direção ao centro no início de seu turno."
+Storm Sphere,Esfera de Tempestade
+A [1] radius sphere of whirling air springs into existence. Creatures in the sphere when it appears or that ends its turn there takes [2]. The sphere’s space is difficult terrain.,Uma esfera de ar giratório com raio [1] surge. Criaturas na esfera quando ela aparece ou que terminam seu turno lá sofrem [2]. O espaço da esfera é terreno difícil.
+"You can use a <LSTag Tooltip=""BonusAction"">bonus action</LSTag> to cause a bolt of lightning to leap from the sphere towards a creature within [1], dealing [2]. You have <LSTag Tooltip=""Advantage"">Advantage</LSTag> on the <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag> if the target is in the sphere.","Você pode usar uma <LSTag Tooltip=""BonusAction"">ação bônus</LSTag> para fazer um raio saltar da esfera em direção a uma criatura dentro de [1], causando [2]. Você tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> na <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag> se o alvo estiver na esfera."
+Summon Storm Bolt,Invocar Raio Tempestuoso
+"Make your <LSTag Type=""Spell"" Tooltip=""Target_StormSphere"">Storm Sphere</LSTag> strike a target with a bolt of lightning. If the target is affected by <LSTag Type=""Status"" Tooltip=""STORM_SPHERE_MONK_INTENSE_WINDS"">Intense Winds</LSTag>, it has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on the attack roll.","Faça sua <LSTag Type=""Spell"" Tooltip=""Target_StormSphere"">Esfera de Tempestade</LSTag> atingir um alvo com um raio. Se o alvo for afetado por <LSTag Type=""Status"" Tooltip=""STORM_SPHERE_MONK_INTENSE_WINDS"">Ventos Intensos</LSTag>, ele tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> na rolagem de ataque."
+Storm Bolt,Raio Tempestuoso
+Strike the target with a bolt of lightning.,Atinja o alvo com um raio.
+Intense Winds,Ventos Intensos
+"This entity is battered by intense winds that will deal [1] on a failed Strength <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag>.","Esta entidade é atingida por ventos intensos que causarão [1] em um <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> de Força falhado."
+Spell Casting Ability Modifier,Modificador de Habilidade de Lançamento de Magias
+Infestation,Infestação
+"You conjure a cloud of mites, fleas, and other parasites to appear on creature, possibly forcing it to move [1] in a random direction. This movement doesn't provoke <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>.","Você conjura uma nuvem de ácaros, pulgas e outros parasitas para aparecer na criatura, possivelmente forçando-a a se mover [1] em uma direção aleatória. Esse movimento não provoca <LSTag Tooltip=""OpportunityAttack"">Ataques de Oportunidade</LSTag>."
+"This entity is forced to move [1] in a random direction which doesn't provoke <LSTag Tooltip=""OpportunityAttack"">Opportunity Attacks</LSTag>.","Esta entidade é forçada a se mover [1] em uma direção aleatória que não provoca <LSTag Tooltip=""OpportunityAttack"">Ataques de Oportunidade</LSTag>."
+Vitriolic Sphere,Esfera Vitriólica
+Send  glowing ball of emerald green acid at a creature that damages them immediately and at the end of their turn.,Envie uma bola brilhante de ácido verde-esmeralda em uma criatura que a danifica imediatamente e no final do turno dela.
+Takes [1] at end of their turn.,Recebe [1] no final do turno.
+Mental Prison,Prisão Mental
+"On a failed Intelligence <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag>, the enemy receives 5d10 Psychic damage. Reduce it's vision and receives damage 10d10 Psychic damage if it moves, is pushed or attacks.","Em uma falha na <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> de Inteligência, o inimigo recebe 5d10 de dano Psíquico. Reduza sua visão e receba 10d10 de dano Psíquico se se mover, for empurrado ou atacar."
+Mental Prisoner,Prisioneiro Mental
+"Receives Psychic damage if attacks, is pushed or moves.","Recebe dano Psíquico se atacar, for empurrado ou se mover."
+Summon Construct,Invocar Construto
+"Call forth a metal construct to fight alongside you. It can <LSTag Type=""Spell"" Tooltip=""Target_Construct_Slam"">Slam</LSTag> targets and <LSTag Type=""Passive"" Tooltip=""HeatedBody"">burn</LSTag> creatures that strike it in melee.","Convoca uma construção metálica para lutar ao seu lado. Ela pode <LSTag Type=""Spell"" Tooltip=""Target_Construct_Slam"">Atacar</LSTag> alvos e <LSTag Type=""Passive"" Tooltip=""HeatedBody"">queimar</LSTag> criaturas que a atingirem em combate corpo a corpo."
+"The Construct's <LSTag Tooltip=""ArmourClass"">Armour Class</LSTag>, <LSTag Tooltip=""HitPoints"">Hit Points</LSTag> and damage done increases for every <LSTag Tooltip=""SpellSlot"">spell slot</LSTag> above the 4th.","A <LSTag Tooltip=""ArmourClass"">Classe de Armadura</LSTag> do Construto, os <LSTag Tooltip=""HitPoints"">Pontos de Vida</LSTag> e o dano causado aumentam para cada <LSTag Tooltip=""SpellSlot"">slot de feitiço</LSTag> acima do 4º."
+Summon Construct: Metal,Invocar Construto: Metal
+Summon Construct: Multiattack,Invocar Construto: Ataque Múltiplo
+"Can make a number of attacks equal to the spell level used to summon the construct, rounded down.","Pode fazer um número de ataques igual ao nível do feitiço usado para invocar o construto, arredondado para baixo."
+Slam your target with a metallic fist.,Acertar seu alvo com um punho metálico.
+Heated Body,Corpo Aquecido
+A creature that hits the construct with a melee attack takes [1].,Uma criatura que atinge o construto com um ataque corpo a corpo sofre [1].
+Magic Circle,Círculo Mágico
+"Create a [1] radius area of magical energy. Celestial, elemental, fiend, fey and undead creatures have <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against targets within the area, targets within the area can’t be <LSTag Type=""Status"" Tooltip=""CHARMED"">Charmed</LSTag>, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag>, or <LSTag Type=""Status"" Tooltip=""LOW_GHOST_POSSESSED"">Possessed</LSTag> by the creatures, and the creatures cannot enter the area by nonmagical means.","Crie uma área de energia mágica com raio de [1]. Criaturas celestiais, elementais, demoníacas, fey e mortas-vivas têm <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra alvos dentro da área, alvos dentro da área não podem ser <LSTag Type=""Status"" Tooltip=""CHARMED"">Encantados</LSTag>, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Aterrorizados</LSTag>, ou <LSTag Type=""Status"" Tooltip=""LOW_GHOST_POSSESSED"">Possuídos</LSTag> pelas criaturas, e as criaturas não podem entrar na área por meios não mágicos."
+"If the creatures try to teleport or fly into the area, they must succeed on a <LSTag Tooltip=""Charisma"">Charisma</LSTag> <LSTag Tooltip=""SavingThrow"">Saving Throw</LSTag> or they are pushed [1] out of the circle.","Se as criaturas tentarem se teletransportar ou voar para a área, elas devem ter sucesso em um <LSTag Tooltip=""Charisma"">Carisma</LSTag> <LSTag Tooltip=""SavingThrow"">Teste de Resistência</LSTag> ou serão empurradas [1] para fora do círculo."
+"This entity imposes <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> from celestial, elemental, fiend, fey and undead creatures and cannot be <LSTag Type=""Status"" Tooltip=""CHARMED"">Charmed</LSTag>, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag>, or <LSTag Type=""Status"" Tooltip=""LOW_GHOST_POSSESSED"">Possessed</LSTag> by them.","Esta entidade impõe <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> de criaturas celestiais, elementais, demoníacas, fey e mortas-vivas e não pode ser <LSTag Type=""Status"" Tooltip=""CHARMED"">Encantada</LSTag>, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Amedrontada</LSTag> ou <LSTag Type=""Status"" Tooltip=""LOW_GHOST_POSSESSED"">Possuída</LSTag> por elas."
+Reincarnate,Reencarnar
+"Touch a dead humanoid. The spell forms a new adult body for the creature to inhabit, which likely causes the creature's race to change, and then calls the soul to enter that body.
+	","Toque em um humanoide morto. O feitiço forma um novo corpo adulto para a criatura habitar, o que provavelmente faz com que a raça da criatura mude, e então chama a alma para entrar nesse corpo."
+"Create a [1] radius area of magical energy. Celestial, elemental, fiend, fey and undead creatures have <LSTag Tooltip=""Disadvantage"">Disadvantage</LSTag> on <LSTag Tooltip=""AttackRoll"">Attack Rolls</LSTag> against targets within the area, targets within the area can’t be <LSTag Type=""Status"" Tooltip=""CHARMED"">Charmed</LSTag>, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Frightened</LSTag>, or <LSTag Type=""Status"" Tooltip=""LOW_GHOST_POSSESSED"">Possessed</LSTag> by the creatures, and the creatures cannot enter the area by nonmagical means.","Crie uma área de energia mágica com raio de [1]. Criaturas celestiais, elementais, demoníacas, fey e mortas-vivas têm <LSTag Tooltip=""Disadvantage"">Desvantagem</LSTag> em <LSTag Tooltip=""AttackRoll"">Rolagens de Ataque</LSTag> contra alvos dentro da área, alvos dentro da área não podem ser <LSTag Type=""Status"" Tooltip=""CHARMED"">Encantados</LSTag>, <LSTag Type=""Status"" Tooltip=""FRIGHTENED"">Aterrorizados</LSTag>, ou <LSTag Type=""Status"" Tooltip=""LOW_GHOST_POSSESSED"">Possuídos</LSTag> pelas criaturas, e as criaturas não podem entrar na área por meios não mágicos."
+Stabilized,Estabilizado
+A stabilized character no longer has to roll Death Saving Throws and will regain [1] after leaving combat.,Um personagem estabilizado não precisa mais fazer testes de Salvação contra a Morte e recuperará [1] após sair do combate.
+Prolonged Death,Morte Prolongada
+"Creature has been dead for 10 turns and cannot be resurrected with the <LSTag Type=""Spell"" Tooltip=""Teleportation_Revivify"">Revivify</LSTag> spell.","A criatura está morta há 10 turnos e não pode ser ressuscitada com o feitiço <LSTag Type=""Spell"" Tooltip=""Teleportation_Revivify"">Revivify</LSTag>."
+Can't target creature that's been dead for 10 turns.,Não é possível mirar em uma criatura que está morta há 10 turnos.
+"<LSTag Type=""Image"" Info=""SoftWarning""/> This spell cannot be used on a creature that has been dead for at 10 turns.","<LSTag Type=""Image"" Info=""SoftWarning""/> Este feitiço não pode ser usado em uma criatura que esteja morta há 10 turnos."
+Summon Fey,Invocar Fada
+"Call forth a fey spirit with a chosen mood: <LSTag Type=""Status"" Tooltip=""SUMMON_FEY_FUMING"">Fuming</LSTag>, <LSTag Type=""Status"" Tooltip=""SUMMON_FEY_MIRTHFUL"">Mirthful</LSTag>, or <LSTag Type=""Status"" Tooltip=""SUMMON_FEY_TRICKSY"">Tricksy</LSTag>. The spirit has different spells available depending on the chosen mood.","Chame um espírito feérico com um humor escolhido: <LSTag Type=""Status"" Tooltip=""SUMMON_FEY_FUMING"">Fumegante</LSTag>, <LSTag Type=""Status"" Tooltip=""SUMMON_FEY_MIRTHFUL"">Divertido</LSTag>, ou <LSTag Type=""Status"" Tooltip=""SUMMON_FEY_TRICKSY"">Travesso</LSTag>. O espírito tem feitiços diferentes disponíveis dependendo do humor escolhido."
+Summon Fey: Fuming,Invocar Fada: Furioso
+Call forth a frenzied fey spirit that channels its rage in melee combat.,Convoque um espírito feérico frenético que canaliza sua raiva em combate corpo a corpo.
+"This summoned fey is furious. After using its <LSTag Type=""Spell"" Tooltip=""Target_FeyStep_Fuming"">Fey Step</LSTag> ability, it has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on its next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>.","Este fey convocado está furioso. Após usar sua habilidade <LSTag Type=""Spell"" Tooltip=""Target_FeyStep_Fuming"">Passo Fey</LSTag>, ele tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> em sua próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>."
+Summon Fey: Mirthful,Invocar Fada: Alegre
+Call forth a delightful fey spirit able to charm enemies.,Convocar um espírito feérico encantador capaz de cativar inimigos.
+"This summoned fey is positively captivating. After using its <LSTag Type=""Spell"" Tooltip=""Target_FeyStep_Mirthful"">Fey Step</LSTag> ability, it can charm a nearby enemy.","Este fey convocado é positivamente cativante. Após usar sua habilidade <LSTag Type=""Spell"" Tooltip=""Target_FeyStep_Mirthful"">Passo Fey</LSTag>, ele pode encantar um inimigo próximo."
+Summon Fey: Tricksy,Invocar Fey: Travesso
+Call forth a mischievous fey spirit able to call forth patches of darkness.,Convoque um espírito fey travesso capaz de invocar manchas de escuridão.
+"This summoned fey is up to something. When using its <LSTag Type=""Spell"" Tooltip=""Target_FeyStep_Tricksy"">Fey Step</LSTag> ability, it can create a patch of darkness that lasts until the end of its next turn.","Este fey convocado está tramando algo. Ao usar sua habilidade <LSTag Type=""Spell"" Tooltip=""Target_FeyStep_Tricksy"">Passo Élfico</LSTag>, ele pode criar uma mancha de escuridão que dura até o final de seu próximo turno."
+Fey Step: Fuming,Passo Feérico: Fumegante
+"Teleport to an unoccupied space you can see. Afterwards, get <LSTag Tooltip=""Advantage"">Advantage</LSTag> on your next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>.","Teleporte para um espaço desocupado que você possa ver. Depois, ganhe <LSTag Tooltip=""Advantage"">Vantagem</LSTag> na sua próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>."
+Fuming Advantage,Vantagem Enfurecida
+"Has <LSTag Tooltip=""Advantage"">Advantage</LSTag> on their next <LSTag Tooltip=""AttackRoll"">Attack Roll</LSTag>.","Tem <LSTag Tooltip=""Advantage"">Vantagem</LSTag> na próxima <LSTag Tooltip=""AttackRoll"">Rolagem de Ataque</LSTag>."
+Fey Step: Mirthful,Passo Fada: Alegre
+"Teleport to an unoccupied space you can see. Afterwards, you can <LSTag Type=""Spell"" Tooltip=""Target_MirthfulCharm"">charm</LSTag> an enemy.","Teleporte para um espaço desocupado que você possa ver. Depois, você pode <LSTag Type=""Spell"" Tooltip=""Target_MirthfulCharm"">encantar</LSTag> um inimigo."
+Fey Step: Tricksy,Passo Feérico: Enganador
+"Teleport to an unoccupied space you can see. Afterwards, you can create a <LSTag Type=""Spell"" Tooltip=""Target_Darkness_Tricksy"">patch of darkness</LSTag> that lasts until the end of your next turn.","Teleporte para um espaço desocupado que você pode ver. Depois, você pode criar um <LSTag Type=""Spell"" Tooltip=""Target_Darkness_Tricksy"">pedaço de escuridão</LSTag> que dura até o final do seu próximo turno."
+Fey Slash,Corte Feérico
+Aim an attack at a target.,Aponte um ataque para um alvo.
+Deals extra damage equal to the spell slot level used to cast the summon spell.,Causa dano extra igual ao nível do espaço de magia usado para lançar o feitiço de invocação.
+Summon Fey Bonuses,Bônus de Invocação de Fadas
+Tricksy Darkness,Escuridão Astuta
+Create a small patch of darkness.,Crie um pequeno trecho de escuridão.
+Can create a small patch of darkness.,Pode criar um pequeno trecho de escuridão.
+Mirthful Charm,Encanto Alegre
+Can charm a nearby enemy.,Pode encantar um inimigo próximo.
+Charmed by a fey spirit.,Encantado por um espírito feérico.
+"Charms a nearby enemy, preventing it from attacking you.","Encanta um inimigo próximo, impedindo-o de atacar você."
+Death Counter (0),Contador de Mortes (0)
+Death Counter (1),Contador de Mortes (1)
+Death Counter (2),Contador de Mortes (2)
+Death Counter (3),Contador de Mortes (3)
+Death Counter (4),Contador de Mortes (4)
+Death Counter (5),Contador de Mortes (5)
+Death Counter (6),Contador de Mortes (6)
+Death Counter (7),Contador de Mortes (7)
+Death Counter (8),Contador de Mortes (8)
+Death Counter (9),Contador de Mortes (9)
+The number of turns the creature has been dead for.,O número de turnos que a criatura está morta.
+Take Action,Tomar Ação
+Take Bonus Action,Usar Ação Bônus
+Move,Mover
+"You focus on only taking an action this turn due to <LSTag Type=""Status"" Tooltip=""MIND_WHIP"">Mind Whip</LSTag>.","Você se concentra em realizar apenas uma ação neste turno devido a <LSTag Type=""Status"" Tooltip=""MIND_WHIP"">Chicote Mental</LSTag>."
+"You focus on only taking a bonus action this turn due to <LSTag Type=""Status"" Tooltip=""MIND_WHIP"">Mind Whip</LSTag>.","Você se concentra apenas em realizar uma ação bônus neste turno devido a <LSTag Type=""Status"" Tooltip=""MIND_WHIP"">Chicote Mental</LSTag>."
+"You focus on only moving this turn due to <LSTag Type=""Status"" Tooltip=""MIND_WHIP"">Mind Whip</LSTag>.","Você se concentra apenas em se mover neste turno devido a <LSTag Type=""Status"" Tooltip=""MIND_WHIP"">Chicote Mental</LSTag>."
