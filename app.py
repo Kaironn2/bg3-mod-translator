@@ -1,20 +1,19 @@
-from src.config.paths import UNPACKED_MODS, get_mods_dir
-from src.utils.language_codes import LANGUAGES
 from src.pipelines.bg3.nexus_mods import BaldurGate3ModTranslator
 
 
-# TODO - Fazer uma interface gráfica para ler nosso BD e nos permitir editar o source e target
-# TODO - Fazer lógica para identificar tags e traduzir elas com o mesmo nome
-
+# TODO - Identificar tags "tooltip" e manter o padrão de tradução com base na tradução nativa
 
 source_lang = 'en'
 target_lang = 'ptbr'
 method = 'new'
 
-mod_name = "MystraSpells"
-mod_folder_name = "MystraSpells"
+mod_name = "lanceboard"
+mod_folder_name = "lanceboard"
 
-metadata = {'author': 'Kaironn2', 'description': f'pt-BR translation for {mod_name}'}
+metadata = {
+    'author': 'Kaironn2', 
+    'description': f'pt-BR translation for {mod_name}'
+}
 
 
 translator = BaldurGate3ModTranslator(

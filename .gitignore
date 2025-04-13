@@ -164,3 +164,4 @@ cython_debug/
 # some things that i use in my local but that are not needed in the repo
 /imgs/
 /modders_multitools/
+mods/*

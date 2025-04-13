@@ -9,6 +9,7 @@ from pathlib import Path
 import pandas as pd
 from time import sleep
 
+
 class Bg3Translator:
 
     def __init__(self, source_lang: str, target_lang: str, xml_file_path: Path, nexus: bool, mod_io: bool):
